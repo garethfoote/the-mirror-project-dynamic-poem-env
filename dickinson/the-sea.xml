@@ -1,0 +1,54 @@
+<output>
+  <line>
+    <tags><tag class="PRP">I</tag> <tag class="VBP">am</tag> <tag class="DT">the</tag> <tag class="NNP">Sea.</tag> <tag class="NNP">I</tag> <tag class="VBD">hold</tag> <tag class="DT">the</tag> <tag class="NN">land</tag> </tags>
+    <original><![CDATA[ I am the Sea. I hold the land ]]></original>
+  </line>
+  <line>
+    <tags><tag class="IN">as</tag> <tag class="CD">one</tag> <tag class="NNS">holds</tag> <tag class="DT">an</tag> <tag class="NN">apple</tag> <tag class="IN">in</tag> <tag class="PRP$">his</tag> <tag class="NNP">hand.</tag> </tags>
+    <original><![CDATA[	as one holds an apple in his hand. ]]></original>
+  </line>
+  <line>
+    <tags><tag class="NNP">Hold</tag> <tag class="PRP">it</tag> <tag class="VBD">fast</tag> <tag class="IN">with</tag> <tag class="NN">sleepless</tag> <tag class="NNS">eyes</tag></tags>
+    <original><![CDATA[Hold it fast with sleepless eyes, ]]></original>
+  </line>
+  <line>
+    <tags><tag class="NNP">Watching</tag> <tag class="DT">the</tag> <tag class="NNS">continents</tag> <tag class="VBP">sink</tag> <tag class="CC">and</tag> <tag class="NNP">rise.</tag> </tags>
+    <original><![CDATA[	Watching the continents sink and rise. ]]></original>
+  </line>
+  <line>
+    <tags><tag class="NNP">Out</tag> <tag class="IN">of</tag> <tag class="PRP$">my</tag> <tag class="NN">bosom</tag> <tag class="DT">the</tag> <tag class="NNS">mountains</tag> <tag class="VBP">grow</tag></tags>
+    <original><![CDATA[Out of my bosom the mountains grow, ]]></original>
+  </line>
+  <line>
+    <tags><tag class="NNP">Back</tag> <tag class="TO">to</tag> <tag class="PRP$">its</tag> <tag class="NNS">depths</tag> <tag class="PRP">they</tag> <tag class="VBP">crumble</tag> <tag class="JJ">slow</tag> <tag class=":">;</tag> </tags>
+    <original><![CDATA[	Back to its depths they crumble slow ; ]]></original>
+  </line>
+  <line>
+    <tags><tag class="DT">The</tag> <tag class="NN">earth</tag> <tag class="VBZ">is</tag> <tag class="DT">a</tag> <tag class="NN">helpless</tag> <tag class="NN">child</tag> <tag class="TO">to</tag> <tag class="PRP">me</tag> </tags>
+    <original><![CDATA[The earth is a helpless child to me ]]></original>
+  </line>
+  <line>
+    <tags><tag class="PRP">I</tag> <tag class="VBP">am</tag> <tag class="DT">the</tag> <tag class="NNP">Sea</tag> </tags>
+    <original><![CDATA[	I am the Sea ! ]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="PRP">I</tag> <tag class="VBP">am</tag> <tag class="DT">the</tag> <tag class="NNP">Sea.</tag> <tag class="NNP">When</tag> <tag class="NNP">I</tag> <tag class="VBP">draw</tag> <tag class="RP">back</tag> </tags>
+    <original><![CDATA[	I am the Sea. When I draw back ]]></original>
+  </line>
+  <line>
+    <tags><tag class="NNP">Blossom</tag> <tag class="CC">and</tag> <tag class="NN">verdure</tag> <tag class="NN">follow</tag> <tag class="PRP$">my</tag> <tag class="NN">track</tag></tags>
+    <original><![CDATA[Blossom and verdure follow my track, ]]></original>
+  </line>
+  <line>
+    <tags><tag class="CC">And</tag> <tag class="DT">the</tag> <tag class="NN">land</tag> <tag class="PRP">I</tag> <tag class="VBP">leave</tag> <tag class="VBZ">grows</tag> <tag class="VBN">proud</tag> <tag class="CC">and</tag> <tag class="JJ">fair</tag></tags>
+    <original><![CDATA[	And the land I leave grows proud and fair, ]]></original>
+  </line>
+  <line>
+    <tags><tag class="NNP">For</tag> <tag class="DT">the</tag> <tag class="JJ">wonderful</tag> <tag class="NN">race</tag> <tag class="IN">of</tag> <tag class="NN">man</tag> <tag class="VBZ">is</tag> <tag class="EX">there</tag> <tag class=":">;</tag></tags>
+    <original><![CDATA[For the wonderful race of man is there ;]]></original>
+  </line>
+</output>

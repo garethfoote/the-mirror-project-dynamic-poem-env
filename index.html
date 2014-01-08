@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Dynamic Poem Environment</title>
+        <script src="raphael.js" type="text/javascript" charset="utf-8"></script>
+        <script src="Fenix_400.font.js" type="text/javascript" charset="utf-8"></script>
+        <script src="main.js" type="text/javascript" charset="utf-8"></script>
+        <style type="text/css" media="screen">
+            span, a {
+                display: block;
+                width: 100%;
+                clear: both;
+            }
+
+        </style>
+    </head>
+    <body>
+        <label for="word-class">Word Class</label>
+        <input width="3" maxlength="3" type="text" name="word-class" value="" id="word-class">
+        <button class="start" name="start">Start</button>
+        <span>e.g. VB,RB,JJ,JJR,NN,NNP. See XML files for more:</span>
+        <a target="_blank" href="dickinson/the-rock.xml">The Rock (XML)</a>
+        <a target="_blank" href="dickinson/the-sea.xml">The Sea (XML)</a>
+
+        <div id="poem"></div>
+    </body>
+</html>
+

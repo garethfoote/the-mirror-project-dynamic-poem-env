@@ -1,0 +1,13 @@
+{
+  "name": "mirror-project-dpe",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "~0.4.1",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "description": "",
+  "main": "Gruntfile.js",
+  "author": "Gareth Foote"
+}
