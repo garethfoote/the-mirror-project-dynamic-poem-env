@@ -1,0 +1,15 @@
+<style type="text/css" media="screen">
+
+</style>
+
+<div class="choose">
+    <p> Choose </p>
+    <a class="progress btn" href="go">Go</a>
+    <ul class="poem-choices">
+        {{#each files}}
+        <li class="poem-choice lozenge" data-dir="{{directory}}" data-name="{{filename}}">{{directory}} - {{filename}}</li>
+        {{/each}}
+    </ul>
+
+    <a class="progress btn" href="go">Go</a>
+</div>

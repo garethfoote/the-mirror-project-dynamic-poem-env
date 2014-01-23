@@ -1,0 +1,94 @@
+<output>
+  <line>
+    <tags><tag class="NNP">Throw</tag> <tag class="NNP">Away</tag> <tag class="NNP">Such</tag> <tag class="NNPS">Pieces</tag>   </tags>
+    <original><![CDATA[Throw Away Such Pieces]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="DT">a</tag> <tag class="NN">voice</tag> <tag class="VBZ">wakes</tag> <tag class="PRP">me</tag> <tag class="VBG">saying</tag>  </tags>
+    <original><![CDATA[a voice wakes me saying]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="PRP">she</tag> <tag class="VBZ">is</tag> <tag class="VBG">forgetting</tag>   </tags>
+    <original><![CDATA[                             she is forgetting]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="JJ">next</tag> <tag class="NN">room</tag>  </tags>
+    <original><![CDATA[        in the next room]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="DT">a</tag> <tag class="JJ">slow</tag> <tag class="NN">surgery</tag> </tags>
+    <original><![CDATA[                 a slow surgery]]></original>
+  </line>
+  <line>
+    <tags><tag class="NN">extraction</tag> <tag class=":">:</tag><tag class="NN">removal</tag> <tag class="NN">process</tag> <tag class=":">:</tag> </tags>
+    <original><![CDATA[                  extraction :: removal process ::]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="WRB">when</tag> <tag class="CD">one</tag> <tag class="NN">thing</tag> </tags>
+    <original><![CDATA[when one thing]]></original>
+  </line>
+  <line>
+    <tags><tag class=":">(</tag><tag class="JJ">animal</tag><tag class="RB">possibly</tag> <tag class="IN">at</tag> <tag class="NNS">times</tag> <tag class="JJ">vegetable</tag></tags>
+    <original><![CDATA[      (person, animal, possibly at times vegetable)]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="VBZ">is</tag> <tag class="RB">so</tag> <tag class="VBN">attached</tag> </tags>
+    <original><![CDATA[is so attached]]></original>
+  </line>
+  <line>
+    <tags><tag class="TO">to</tag> <tag class="DT">another</tag>  </tags>
+    <original><![CDATA[to another]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="DT">the</tag> <tag class="NNS">seams</tag> <tag class="VBP">are</tag> <tag class="VBN">lost</tag>  </tags>
+    <original><![CDATA[                 the seams are lost]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="RB">so</tag> <tag class="VBN">made</tag> <tag class="IN">into</tag> </tags>
+    <original><![CDATA[so made into]]></original>
+  </line>
+  <line>
+    <tags><tag class="DT">the</tag> <tag class="JJ">other</tag></tags>
+    <original><![CDATA[the other]]></original>
+  </line>
+</output>

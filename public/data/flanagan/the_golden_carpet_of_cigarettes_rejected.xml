@@ -1,0 +1,58 @@
+<output>
+  <line>
+    <tags><tag class="DT">the</tag> <tag class="VBN">golden</tag> <tag class="NN">carpet</tag> <tag class="IN">of</tag> <tag class="NNS">cigarettes</tag> <tag class="VBN">rejected</tag>  </tags>
+    <original><![CDATA[the golden carpet of cigarettes rejected]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="CD">three</tag> <tag class="NNS">deities</tag> <tag class="IN">of</tag> <tag class="JJ">long</tag> <tag class="NN">life</tag> <tag class="NN">encircle</tag> <tag class="DT">a</tag> <tag class="NN">girl</tag> <tag class="VBN">named</tag> <tag class="NNP">Maya</tag> </tags>
+    <original><![CDATA[          three deities of long life encircle a girl named Maya]]></original>
+  </line>
+  <line>
+    <tags><tag class="NN">roll</tag> <tag class="PRP$">their</tag> <tag class="JJ">sonic</tag> <tag class="NNS">hips</tag> </tags>
+    <original><![CDATA[          roll their sonic hips]]></original>
+  </line>
+  <line>
+    <tags><tag class="NNP">Maya</tag> <tag class="VBD">had</tag> <tag class="DT">a</tag> <tag class="NN">dream</tag> <tag class="IN">in</tag> <tag class="WDT">which</tag> <tag class="PRP">she</tag> <tag class="VBD">was</tag>  </tags>
+    <original><![CDATA[          Maya had a dream in which she was]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="VBG">expecting</tag> <tag class="DT">a</tag> <tag class="NN">child</tag> <tag class="VBN">fathered</tag> <tag class="IN">by</tag> <tag class="DT">a</tag> <tag class="JJ">white</tag> <tag class="NN">elephant</tag> </tags>
+    <original><![CDATA[          expecting a child fathered by a white elephant]]></original>
+  </line>
+  <line>
+    <tags><tag class="WRB">when</tag> <tag class="NNP">Gautama</tag> <tag class="VBD">was</tag> <tag class="VBN">born</tag> </tags>
+    <original><![CDATA[          when Gautama was born]]></original>
+  </line>
+  <line>
+    <tags><tag class="DT">the</tag> <tag class="JJ">earth</tag> <tag class="NN">shook</tag>  </tags>
+    <original><![CDATA[       the earth shook]]></original>
+  </line>
+  <line>
+    <tags/>
+    <original><![CDATA[]]></original>
+  </line>
+  <line>
+    <tags><tag class="PRP">you</tag> <tag class="VBZ">bless</tag> </tags>
+    <original><![CDATA[you bless]]></original>
+  </line>
+  <line>
+    <tags><tag class="DT">the</tag> <tag class="NN">bridge</tag> <tag class="IN">of</tag> <tag class="DT">the</tag> <tag class="NNP">J</tag> <tag class="NN">train</tag> </tags>
+    <original><![CDATA[the bridge of the J train]]></original>
+  </line>
+  <line>
+    <tags><tag class="NN">brimstome</tag> <tag class="CC">and</tag> <tag class="NN">trampoline</tag> </tags>
+    <original><![CDATA[brimstome and trampoline]]></original>
+  </line>
+  <line>
+    <tags><tag class="IN">with</tag> <tag class="DT">the</tag> <tag class="NNS">words</tag><tag class="PRP">I</tag>   <tag class="VBP">LOVE</tag>             <tag class="NNP">RUST</tag></tags>
+    <original><![CDATA[with the words:       I   LOVE             RUST]]></original>
+  </line>
+</output>

@@ -1,0 +1,18 @@
+.poem-choices {
+    width: 500px;
+    padding: 10px;
+}
+
+.poem-choice {
+    margin-bottom: 5px;
+}
+
+.progress {
+    display: none;
+    width: 500px;
+    padding: 10px;
+}
+
+.can-progress .progress {
+    display: block;
+}

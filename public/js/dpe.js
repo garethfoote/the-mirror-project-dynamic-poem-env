@@ -1,4 +1,4 @@
-var app = (function(){
+var dpe = (function(){
     "use strict";
 
     // Private functions.
@@ -8,7 +8,6 @@ var app = (function(){
             wordSpacing : 10
         },
         wordClasses = ["NNP", "NN", "VBP" ],
-        // wordClasses = ["JJ" ],
         fixtures = {
             'NN' : [ 'Rock', 'Sea', 'thee', 'Angry', 'power', 'From', 'age', 'Scarred', 'frost']
         },
@@ -31,17 +30,17 @@ var app = (function(){
 
         },
 
-        init = function(){
+        init = function( poem1, poem2 ){
 
             paper = Raphael("poem", 900, 1600),
 
-            loadPoem( "dickinson/the-sea.xml", function(){
+            loadPoem( poem1, function(){
                 target = new Poem(this.responseXML, 0);
 
             });
 
-            loadPoem( "dickinson/the-rock.xml", function(){
-                source = new Poem(this.responseXML, 450);
+            loadPoem( poem2, function(){
+                source = new Poem(this.responseXML, 650);
             });
 
         };
@@ -411,12 +410,3 @@ var app = (function(){
 
 }());
 
-
-window.onload = function () {
-
-    app.init();
-
-    startBtn = document.querySelector('.start');
-    startBtn.onclick = app.next;
-
-};

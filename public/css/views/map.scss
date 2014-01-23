@@ -1,0 +1,19 @@
+#map {
+    height: 100%;
+}
+
+.showcase-marker {
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+.map__popup-title {
+    font-weight: bold;
+
+}
+
+.map__popup {
+    text-align: center;
+}
