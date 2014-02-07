@@ -1,13 +1,5 @@
 <output>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NNP">Indeterminate</tag> <tag class="NNP">Questions</tag>  </tags>
-    <original><![CDATA[The Indeterminate Questions]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
     <tags>
       <tag class="NNP">Bodhidharma</tag>
     </tags>

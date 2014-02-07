@@ -1,14 +1,6 @@
 <output>
   <line>
-    <tags><tag class="VBG">Hoisting</tag> <tag class="DT">the</tag> <tag class="NNP">Lower</tag> <tag class="NNP">Saints</tag>  </tags>
-    <original><![CDATA[Hoisting the Lower Saints]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NNP">From</tag> <tag class="NNS">tankards</tag> <tag class="VBD">scooped</tag> <tag class="IN">in</tag> <tag class="NN">sky</tag> </tags>
+    <tags><tag class="IN">From</tag> <tag class="NNS">tankards</tag> <tag class="VBD">scooped</tag> <tag class="IN">in</tag> <tag class="NN">sky</tag> </tags>
     <original><![CDATA[From tankards scooped in sky]]></original>
   </line>
   <line>

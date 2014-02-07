@@ -1,14 +1,6 @@
 <output>
   <line>
-    <tags><tag class="TO">To</tag> <tag class="NNP">Find</tag> <tag class="DT">the</tag> <tag class="NNP">Limits</tag> <tag class="IN">of</tag> <tag class="NNP">World</tag>  </tags>
-    <original><![CDATA[To Find the Limits of World]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NNP">When</tag> <tag class="VBZ">does</tag> <tag class="CD">one</tag> <tag class="VB">say</tag><tag class="PRP">I</tag> <tag class="VBP">know</tag> <tag class="IN">that</tag> <tag class="NN">x</tag> <tag class=":">=</tag> <tag class="NN">pineapple</tag></tags>
+    <tags><tag class="WRB">When</tag> <tag class="VBZ">does</tag> <tag class="CD">one</tag> <tag class="VB">say</tag><tag class="PRP">I</tag> <tag class="VBP">know</tag> <tag class="IN">that</tag> <tag class="NN">x</tag> <tag class=":">=</tag> <tag class="NN">pineapple</tag></tags>
     <original><![CDATA[When does one say, I know that x = pineapple?]]></original>
   </line>
   <line>

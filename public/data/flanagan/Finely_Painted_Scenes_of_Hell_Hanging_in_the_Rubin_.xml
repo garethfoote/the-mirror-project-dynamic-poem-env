@@ -1,14 +1,6 @@
 <output>
   <line>
-    <tags><tag class="RB">Finely</tag> <tag class="VBN">Painted</tag> <tag class="NNS">Scenes</tag> <tag class="IN">of</tag> <tag class="NNP">Hell</tag> <tag class="NNP">Hanging</tag> <tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="NNP">Rubin</tag>  </tags>
-    <original><![CDATA[Finely Painted Scenes of Hell Hanging in the Rubin]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NN">pur</tag> <tag class="VBZ">means</tag> <tag class="DT">the</tag> <tag class="NN">place</tag> <tag class="WRB">where</tag> </tags>
+    <tags><tag class="PRP$">pur</tag> <tag class="NNS">means</tag> <tag class="DT">the</tag> <tag class="NN">place</tag> <tag class="WRB">where</tag> </tags>
     <original><![CDATA[pur means the place where]]></original>
   </line>
   <line>

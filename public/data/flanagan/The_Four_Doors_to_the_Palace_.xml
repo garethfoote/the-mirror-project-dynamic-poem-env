@@ -1,13 +1,5 @@
 <output>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NNP">Four</tag> <tag class="NNP">Doors</tag> <tag class="TO">to</tag> <tag class="DT">the</tag> <tag class="NNP">Palace</tag>  </tags>
-    <original><![CDATA[The Four Doors to the Palace]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
     <tags><tag class="NN">fire</tag> <tag class="IN">in</tag> <tag class="NN">wind</tag> <tag class="VBZ">has</tag> <tag class="VBN">found</tag> <tag class="DT">a</tag> <tag class="NN">friend</tag> </tags>
     <original><![CDATA[fire in wind has found a friend]]></original>
   </line>

@@ -1,13 +1,5 @@
 <output>
   <line>
-    <tags><tag class="NN">Substance</tag> <tag class="DT">A</tag> <tag class="RB">always</tag> <tag class="VBZ">reacts</tag> <tag class="TO">to</tag> <tag class="NNP">Substance</tag> <tag class="NNP">B</tag>  </tags>
-    <original><![CDATA[Substance A always reacts to Substance B]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
     <tags><tag class="NNP">Suppose</tag> <tag class="PRP">you</tag> <tag class="MD">could</tag> <tag class="RB">not</tag> <tag class="VB">remember</tag> <tag class="WRB">when</tag> <tag class="DT">the</tag> <tag class="JJ">small</tag> <tag class="NNS">boats</tag> </tags>
     <original><![CDATA[Suppose you could not remember when the small boats]]></original>
   </line>

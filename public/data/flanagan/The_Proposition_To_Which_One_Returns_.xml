@@ -1,14 +1,6 @@
 <output>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NNP">Proposition</tag> <tag class="NNP">To</tag> <tag class="NNP">Which</tag> <tag class="CD">One</tag> <tag class="NNS">Returns</tag>  </tags>
-    <original><![CDATA[The Proposition To Which One Returns]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NNP">My</tag> <tag class="NN">sister</tag> <tag class="VBD">climbed</tag> <tag class="NNS">trees</tag> <tag class="WRB">when</tag> </tags>
+    <tags><tag class="PRP$">My</tag> <tag class="NN">sister</tag> <tag class="VBD">climbed</tag> <tag class="NNS">trees</tag> <tag class="WRB">when</tag> </tags>
     <original><![CDATA[My sister climbed trees when]]></original>
   </line>
   <line>

@@ -1,14 +1,6 @@
 <output>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NNP">Wilderness</tag> <tag class="IN">of</tag> <tag class="NNP">Big</tag> <tag class="NNP">Music</tag>  </tags>
-    <original><![CDATA[The Wilderness of Big Music]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NNP">At</tag> <tag class="DT">the</tag> <tag class="NN">library</tag><tag class="DT">the</tag> <tag class="NN">security</tag> <tag class="NN">guard</tag> <tag class="VBD">told</tag> <tag class="PRP">me</tag> </tags>
+    <tags><tag class="IN">At</tag> <tag class="DT">the</tag> <tag class="NN">library</tag><tag class="DT">the</tag> <tag class="NN">security</tag> <tag class="NN">guard</tag> <tag class="VBD">told</tag> <tag class="PRP">me</tag> </tags>
     <original><![CDATA[At the library, the security guard told me]]></original>
   </line>
   <line>

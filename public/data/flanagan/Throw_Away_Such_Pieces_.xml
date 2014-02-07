@@ -1,17 +1,5 @@
 <output>
   <line>
-    <tags><tag class="NNP">Throw</tag> <tag class="NNP">Away</tag> <tag class="NNP">Such</tag> <tag class="NNPS">Pieces</tag>   </tags>
-    <original><![CDATA[Throw Away Such Pieces]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
     <tags><tag class="DT">a</tag> <tag class="NN">voice</tag> <tag class="VBZ">wakes</tag> <tag class="PRP">me</tag> <tag class="VBG">saying</tag>  </tags>
     <original><![CDATA[a voice wakes me saying]]></original>
   </line>

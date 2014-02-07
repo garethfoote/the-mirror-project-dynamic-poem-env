@@ -1,13 +1,5 @@
 <output>
   <line>
-    <tags><tag class="NNP">Inside</tag> <tag class="IN">of</tag> <tag class="NNP">Whom</tag> <tag class="DT">a</tag> <tag class="NNP">Giant</tag> <tag class="NNP">Spring</tag> <tag class="VBZ">is</tag> <tag class="NNP">Broken</tag>  </tags>
-    <original><![CDATA[Inside of Whom a Giant Spring is Broken]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
     <tags><tag class="DT">the</tag> <tag class="NN">day</tag> <tag class="VBZ">wretches</tag> <tag class="IN">across</tag> <tag class="NN">water</tag> </tags>
     <original><![CDATA[     the day wretches across water]]></original>
   </line>

@@ -1,18 +1,6 @@
 <output>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NNP">Gloomy</tag> <tag class="NNP">Sea</tag> <tag class="NNP">God</tag> <tag class="NNP">Known</tag> <tag class="IN">for</tag> <tag class="PRP$">his</tag> <tag class="NNP">Beautiful</tag> <tag class="NNP">Feet</tag>   </tags>
-    <original><![CDATA[The Gloomy Sea God Known for his Beautiful Feet]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NNP">I</tag> <tag class="VBP">reach</tag> <tag class="RP">out</tag> <tag class="IN">for</tag> <tag class="PRP">him</tag> <tag class="CC">and</tag> <tag class="PRP$">my</tag> <tag class="NN">hand</tag> </tags>
+    <tags><tag class="PRP">I</tag> <tag class="VBP">reach</tag> <tag class="RP">out</tag> <tag class="IN">for</tag> <tag class="PRP">him</tag> <tag class="CC">and</tag> <tag class="PRP$">my</tag> <tag class="NN">hand</tag> </tags>
     <original><![CDATA[I reach out for him and my hand]]></original>
   </line>
   <line>

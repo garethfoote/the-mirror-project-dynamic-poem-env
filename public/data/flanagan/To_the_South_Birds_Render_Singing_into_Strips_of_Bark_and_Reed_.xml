@@ -1,14 +1,6 @@
 <output>
   <line>
-    <tags><tag class="TO">To</tag> <tag class="DT">the</tag> <tag class="NNP">South</tag> <tag class="NNP">Birds</tag> <tag class="NNP">Render</tag> <tag class="NNP">Singing</tag> <tag class="IN">into</tag> <tag class="NNP">Strips</tag> <tag class="IN">of</tag> <tag class="NNP">Bark</tag> <tag class="CC">and</tag> <tag class="NNP">Reed</tag>  </tags>
-    <original><![CDATA[To the South Birds Render Singing into Strips of Bark and Reed]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NNP">I</tag> <tag class="VBP">am</tag></tags>
+    <tags><tag class="PRP">I</tag> <tag class="VBP">am</tag></tags>
     <original><![CDATA[I am:]]></original>
   </line>
   <line>

@@ -1,18 +1,6 @@
 <output>
   <line>
-    <tags><tag class="JJ">Significant</tag> <tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="NNP">Fall</tag> <tag class="IN">of</tag> <tag class="NNP">Man</tag>   </tags>
-    <original><![CDATA[Significant in the Fall of Man]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NNP">Assuming</tag><tag class="DT">a</tag> <tag class="NN">state</tag> <tag class="IN">of</tag> <tag class="NN">mind</tag> </tags>
+    <tags><tag class="VBG">Assuming</tag><tag class="DT">a</tag> <tag class="NN">state</tag> <tag class="IN">of</tag> <tag class="NN">mind</tag> </tags>
     <original><![CDATA[Assuming:     a state of mind]]></original>
   </line>
   <line>

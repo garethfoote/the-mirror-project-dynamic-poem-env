@@ -1,14 +1,6 @@
 <output>
   <line>
-    <tags><tag class="EX">There</tag> <tag class="NNP">Was</tag> <tag class="NNP">Once</tag> <tag class="DT">a</tag> <tag class="NNP">Stonecutter</tag><tag class="WP">Who</tag> <tag class="NNP">Was</tag> <tag class="NNP">Dissatisfied</tag>  </tags>
-    <original><![CDATA[There Was Once a Stonecutter, Who Was Dissatisfied]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags><tag class="NNP">Each</tag> <tag class="NN">character</tag> <tag class="MD">may</tag> <tag class="VB">say</tag> <tag class="IN">that</tag> </tags>
+    <tags><tag class="DT">Each</tag> <tag class="NN">character</tag> <tag class="MD">may</tag> <tag class="VB">say</tag> <tag class="IN">that</tag> </tags>
     <original><![CDATA[Each character may say that]]></original>
   </line>
   <line>

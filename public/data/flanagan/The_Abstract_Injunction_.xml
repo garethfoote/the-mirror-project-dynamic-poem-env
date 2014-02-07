@@ -1,17 +1,5 @@
 <output>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NNP">Abstract</tag> <tag class="NNP">Injunction</tag>   </tags>
-    <original><![CDATA[The Abstract Injunction]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
     <tags><tag class="DT">the</tag> <tag class="NN">god</tag> </tags>
     <original><![CDATA[the god]]></original>
   </line>

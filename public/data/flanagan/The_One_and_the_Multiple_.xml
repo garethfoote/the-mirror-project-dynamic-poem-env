@@ -1,13 +1,5 @@
 <output>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="CD">One</tag> <tag class="CC">and</tag> <tag class="DT">the</tag> <tag class="NNP">Multiple</tag>  </tags>
-    <original><![CDATA[The One and the Multiple]]></original>
-  </line>
-  <line>
-    <tags/>
-    <original><![CDATA[]]></original>
-  </line>
-  <line>
     <tags><tag class="VBD">collected</tag> <tag class="NNS">symbols</tag> </tags>
     <original><![CDATA[collected symbols]]></original>
   </line>
