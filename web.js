@@ -94,6 +94,17 @@ app.get('/go/:dir1/:file1/:dir2/:file2', function(req, response){
 
 });
 
+app.get('/demo', function(req, response){
+
+    var p = req.params,
+        file1 = "data/"+p.dir1 + "/" + p.file1,
+        file2 = "data/"+p.dir2 + "/" + p.file2;
+
+    handlepartials( "go-head", "go-foot" );
+    response.render('go', { file1 : file1, file2 : file2 });
+
+});
+
 // sockets
 io.sockets.on('connection', function (socket) {
 
