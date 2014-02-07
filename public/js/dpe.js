@@ -5,9 +5,12 @@ var dpe = (function(){
     var self = this,
         config = {
             linePadding : 30,
-            wordSpacing : 10
+            wordSpacing : 10,
+            animationduration : 2000,
         },
         wordClasses = ["NNP", "NN", "VBP" ],
+        // wordClasses = ["NN", "NNP"],
+        // wordClasses = ["VBP"],
         fixtures = {
             'NN' : [ 'Rock', 'Sea', 'thee', 'Angry', 'power', 'From', 'age', 'Scarred', 'frost']
         },
@@ -32,7 +35,7 @@ var dpe = (function(){
 
         init = function( poem1, poem2 ){
 
-            paper = Raphael("poem", 900, 1600),
+            paper = Raphael("poem", "100%", 900),
 
             loadPoem( poem1, function(){
                 target = new Poem(this.responseXML, 0);
@@ -40,7 +43,7 @@ var dpe = (function(){
             });
 
             loadPoem( poem2, function(){
-                source = new Poem(this.responseXML, 650);
+                source = new Poem(this.responseXML, 450);
             });
 
         };
@@ -51,7 +54,7 @@ var dpe = (function(){
         var lines, yPos = 0,
             paths = [], bucket = {},
             lines = doc.getElementsByTagName('line'),
-            cursor = [0,0],
+            cursor = [-1,0],
             bucketindex = 0,
 
             nexttarget = function( wordclass ){
@@ -63,8 +66,11 @@ var dpe = (function(){
                     console.log(tg.data('text'), tg.getBBox().width);
                 }
 
+                // Increment line.
+                cursor[0]++;
+
                 // Loop lines.
-                for (var i = cursor[0]+1; i < paths.length; i++) {
+                for (var i = cursor[0]; i < paths.length; i++) {
                     // Break if new word has been found.
                     if(found){
                         break;
@@ -73,6 +79,8 @@ var dpe = (function(){
                     for (var j = 0; j < paths[i].length; j++) {
                         // Target path is word to be changed.
                         var targetpath = paths[i][j];
+                        // console.log(targetpath.data("text"), 
+                        //             targetpath.data("tagClass") );
                         if( targetpath.data('tagClass') == wordclass ){
                             cursor = [i,j];
                             found = true;
@@ -88,7 +96,7 @@ var dpe = (function(){
             gettarget = function(){
 
                 // No more lines.
-                if( cursor[0] >= paths.length-1 ){
+                if( cursor[0] < 0 || cursor[0] >= paths.length ){
                     return false;
                 }
 
@@ -132,7 +140,7 @@ var dpe = (function(){
             },
 
             // Shift remaining words in line.
-            shiftwords = function( diffX ){
+            shiftwords = function( diffX, completehandler ){
 
                 var lineindex = cursor[0], wordindex = cursor[1];
 
@@ -142,8 +150,8 @@ var dpe = (function(){
                     // If diff has been set then the successive
                     // words need to be moved by diffX amount.
                     var newpath = Raphael.transformPath(targetpath.attr("path"), "t"+diffX+",0");
-                    targetpath.animate({ path: newpath},
-                                        1000,
+                    targetpath.animate({ path: newpath },
+                                        config.animationduration,
                                         "linear");
 
                     // targetpath.animate({transform: "t"+diffX+",0"}, 1000);
@@ -229,6 +237,7 @@ var dpe = (function(){
                     }
 
                     if( tags.length === 0 ){
+                        // Empty line.
                         yPos += config.linePadding;
                     } else {
                         yPos += paths[i][0].getBBox(true).height+config.linePadding;
@@ -261,19 +270,18 @@ var dpe = (function(){
 
         var wc = wordClasses[wcindex];
 
-        var paths = target.getpaths(),
-            bosom = paths[4][3];
-
-        // console.log("Bosom", bosom.getBBox().x);
-
         target.nexttarget(wc);
 
-        console.log("Line", target.getcursor()[0], "Word", target.getcursor()[1],
-                "Target", !!target.gettarget(), "Source", !! source.getsource(wc));
+        /*
+        console.log("Current word class ", wordClasses[wcindex]);
+        console.log("Line               ", target.getcursor()[0]);
+        console.log("Word               ", target.getcursor()[1]);
+        console.log("Target             ", !!target.gettarget());
+        */
 
-        // Increment word class if we:
+        // if we:
         // 1. reach the end of the target lines
-        // 2. we reach the end of the source bucket.
+        // 2. reach the end of the source bucket.
         if( ! target.gettarget()
                 || ! source.getsource(wc) ){
 
@@ -286,7 +294,9 @@ var dpe = (function(){
             source.resetbucket();
             if( wcindex >= wordClasses.length ){
                 if( swapped == false ){
-                    console.log("Swap poems.");
+                    console.log("Finished. No swap.");
+                    return;
+                    console.log(">>>>>> swap poems <<<<<<");
                     swapped = true;
                     wcindex = 0;
                     swap();
@@ -334,23 +344,23 @@ var dpe = (function(){
         // A target word has been found.
         var sourcepath = source.getsource(wc); 
         srcBBox = sourcepath.getBBox();
-        console.log("Source", sourcepath.data("text"));
+        // console.log("Source", sourcepath.data("text"));
 
         // Get difference in width in case the sucessive
         // words in sentence need to be moved.
         diffX = srcBBox.width - tgBBox.width;
         diffY = srcBBox.height -tgBBox.height;
-        // console.log("DiffX", diffX);
-        // console.log("DiffY", diffY);
+        console.log("DiffX", diffX);
+        console.log("DiffY", diffY);
 
         // Transform target and TODO add callback.
-        transformTarget( targetpath, sourcepath, completeHandler);
+        transformTarget( targetpath, sourcepath, completeHandler );
 
         // Indicate the choosen source somehow. Glow or animate.
         var glow = sourcepath.glow({color: "#fff000"});
         setTimeout(function(glow){
             glow.remove();
-        }, 1000, glow);
+        }, config.animationduration, glow);
 
         // Move rest of line.
         if( diffX !== 0 ){
@@ -359,7 +369,6 @@ var dpe = (function(){
         }
 
     };
-
 
     var transformTarget = function( targetpath, sourcepath, completeCallback ){
 
@@ -377,13 +386,13 @@ var dpe = (function(){
         // From this we can get the vector path to transform
         // the target word.
         newpath = paper.print(
-                    bbox.x, bbox.y+bbox.height,
+                    bbox.x, targetpath.data("yPos"),
                     newtext,
                     paper.getFont("Fenix"), 20, 'baseline');
 
         // Animate targetpath path to newpath (based on sourcepath).
         targetpath.animate({ path: newpath.attr('path')},
-                            1000,
+                            config.animationduration,
                             "linear",
                             completeCallback );
 
