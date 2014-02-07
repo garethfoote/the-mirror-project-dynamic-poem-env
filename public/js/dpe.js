@@ -35,7 +35,7 @@ var dpe = (function(){
 
         init = function( poem1, poem2 ){
 
-            paper = Raphael("poem", "100%", 900),
+            paper = Raphael("poem", "100%", 1000),
 
             loadPoem( poem1, function(){
                 target = new Poem(this.responseXML, 0);
@@ -43,7 +43,7 @@ var dpe = (function(){
             });
 
             loadPoem( poem2, function(){
-                source = new Poem(this.responseXML, 450);
+                source = new Poem(this.responseXML, 500);
             });
 
         };
@@ -127,35 +127,62 @@ var dpe = (function(){
                 return bucket[wordclass][bucketindex];
             },
 
+
             resetbucket = function(){
 
                 bucketindex = 0;
-
             },
 
             resetlines = function(){
 
-                cursor[0] = 0;
+                cursor[0] = -1;
 
             },
 
-            // Shift remaining words in line.
-            shiftwords = function( diffX, completehandler ){
+            transitionwords = function( diffX ){
 
+                var lineindex = cursor[0], wordindex = cursor[1],
+                    currDiffX = 0;
+
+                console.log("Transition words");
+
+                for (var j = wordindex+1; j < paths[lineindex].length; j++) {
+                    // Target path is word to be changed.
+                    var targetpath = paths[lineindex][j];
+                    currDiffX = diffX + (targetpath.data("currDiffX") || 0);
+
+                    // Animate using css transitions instead of svg animation.
+                    targetpath.node.style["-webkit-transition"] = "all " + config.animationduration+"ms linear";
+                    targetpath.node.style["transition"] = "all " + config.animationduration+"ms linear";
+                    targetpath.node.style["-webkit-transform"] = "translate("+currDiffX+"px)";
+                    targetpath.node.style["transform"] = "translate("+currDiffX+"px)";
+
+                    targetpath.data("currDiffX", currDiffX);
+
+                }
+
+                // targetpath.data("currDiffX", diffX);
+
+            },
+
+            replacewords = function( diffX ){
+
+                return;
                 var lineindex = cursor[0], wordindex = cursor[1];
 
                 for (var j = wordindex+1; j < paths[lineindex].length; j++) {
                     // Target path is word to be changed.
                     var targetpath = paths[lineindex][j];
-                    // If diff has been set then the successive
-                    // words need to be moved by diffX amount.
-                    var newpath = Raphael.transformPath(targetpath.attr("path"), "t"+diffX+",0");
-                    targetpath.animate({ path: newpath },
-                                        config.animationduration,
-                                        "linear");
+                    // Reverse CSS translate.
+                    targetpath.node.style["-webkit-transition"] = "";
+                    targetpath.node.style["transition"] = "";
+                    targetpath.node.style["-webkit-transform"] = "none";
+                    targetpath.node.style["transform"] = "none";
 
-                    // targetpath.animate({transform: "t"+diffX+",0"}, 1000);
-                    // targetpath.transform("T"+diffX+",0");
+                    // var newpath = Raphael.transformPath(targetpath.attr("path"), "t"+diffX+",0");
+                    targetpath.transform("t"+diffX+",0");
+                    // targetpath.animate({ path: newpath }, config.animationduration, "linear");
+                    // targetpath.animate({ transform: "t"+diffX+",0"}, 1000);
                 }
 
             },
@@ -258,13 +285,13 @@ var dpe = (function(){
             gettarget   : gettarget,
             nextsource  : nextsource,
             getsource   : getsource,
-            shiftwords  : shiftwords,
+            transitionwords  : transitionwords,
+            replacewords : replacewords,
             resetlines  : resetlines,
             resetbucket : resetbucket
         };
 
     }; // End Poem()
-
 
     var next = function(){
 
@@ -272,12 +299,12 @@ var dpe = (function(){
 
         target.nexttarget(wc);
 
-        /*
         console.log("Current word class ", wordClasses[wcindex]);
-        console.log("Line               ", target.getcursor()[0]);
-        console.log("Word               ", target.getcursor()[1]);
-        console.log("Target             ", !!target.gettarget());
-        */
+        console.log("Line/Word          ", target.getcursor()[0],target.getcursor()[1]);
+        console.log("Target             ", !!target.gettarget(),
+                    (target.gettarget()!=false)?target.gettarget().data("text"):"");
+        console.log("Source             ", !!source.gettarget(),
+                    (source.getsource(wc)!=false)?source.getsource(wc).data("text"):"");
 
         // if we:
         // 1. reach the end of the target lines
@@ -285,7 +312,7 @@ var dpe = (function(){
         if( ! target.gettarget()
                 || ! source.getsource(wc) ){
 
-            console.log("Next word class: "+ wordClasses[wcindex+1]);
+            console.log(">>>>>> NEXT word class: "+ wordClasses[wcindex+1]);
             // Next word class.
             wcindex++;
             // Reset line.
@@ -332,6 +359,7 @@ var dpe = (function(){
 
     };
 
+
     var transform = function() {
 
         var wc = wordClasses[wcindex],
@@ -354,7 +382,13 @@ var dpe = (function(){
         console.log("DiffY", diffY);
 
         // Transform target and TODO add callback.
-        transformTarget( targetpath, sourcepath, completeHandler );
+        transformTarget( targetpath, sourcepath, function(){
+            console.log("complete");
+            // When transition is complete move words using svg
+            // transform instead of css translate/transition.
+            target.replacewords( diffX );
+            completeHandler();
+        });
 
         // Indicate the choosen source somehow. Glow or animate.
         var glow = sourcepath.glow({color: "#fff000"});
@@ -365,7 +399,7 @@ var dpe = (function(){
         // Move rest of line.
         if( diffX !== 0 ){
             // diffX -= config.wordSpacing;
-            target.shiftwords(diffX);
+            target.transitionwords(diffX);
         }
 
     };
