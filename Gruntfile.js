@@ -3,6 +3,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-watch');
     grunt.loadNpmTasks('grunt-contrib-sass');
     grunt.loadNpmTasks('grunt-nodemon');
+    grunt.loadNpmTasks('grunt-concurrent');
 
     grunt.initConfig({
         pkg: grunt.file.readJSON('package.json'),
@@ -44,10 +45,18 @@ module.exports = function(grunt) {
                 files: './public/css/**/*.scss',
                 tasks: ['sass:dev']
             }
+        },
+        concurrent: {
+            target: {
+                tasks: ['nodemon', 'watch'],
+                options: {
+                    logConcurrentOutput: true
+                }
+            }
         }
 
     });
 
-    grunt.registerTask('default', ['watch']);
+    grunt.registerTask('default', ['concurrent:target']);
 
 };
