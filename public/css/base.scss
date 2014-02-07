@@ -1,7 +1,8 @@
 body {
     font-size: $doc-font-size+px;
     font-family: Arial, sans-serif;
-    background-color: lightgrey;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 800, from(rgb(255, 255, 255)), to(rgb(153, 153, 153)));
+    background-image: -moz-radial-gradient(center 45deg, circle closest-side, rgb(255, 255, 255) 0%, rgb(153, 153, 153) 400%);
 }
 
 p {
@@ -88,6 +89,13 @@ a {
 
 img {
     max-width: 100%;
+}
+
+/*--- MAIN STYLES ----*/
+
+#poem {
+    margin: 0 auto;
+    width: 900px;
 }
 
 input[type="text"],
