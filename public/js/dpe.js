@@ -43,7 +43,7 @@ var dpe = (function(){
             });
 
             loadPoem( poem2, function(){
-                source = new Poem(this.responseXML, 500);
+                source = new Poem(this.responseXML, 600);
             });
 
         };
