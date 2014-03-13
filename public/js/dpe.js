@@ -1,3 +1,20 @@
+Object.defineProperty(Array.prototype, 'unique', {
+    enumerable: false,
+    configurable: false,
+    writable: false,
+    value: function() {
+        var a = this.concat();
+        for(var i=0; i<a.length; ++i) {
+            for(var j=i+1; j<a.length; ++j) {
+                if(a[i] === a[j])
+                    a.splice(j--, 1);
+            }
+        }
+
+        return a;
+    }
+});
+
 var dpe = (function(){
     "use strict";
 
@@ -8,12 +25,13 @@ var dpe = (function(){
             wordSpacing : 10,
             animationduration : 2000,
         },
-        wordClasses = ["NNP", "NN", "VBP" ],
-        // wordClasses = ["NN", "NNP"],
-        // wordClasses = ["VBP"],
-        fixtures = {
-            'NN' : [ 'Rock', 'Sea', 'thee', 'Angry', 'power', 'From', 'age', 'Scarred', 'frost']
-        },
+        // Flanagan.
+        wordClasses1 = ['NN', 'DT', 'IN', 'NNP', 'JJ', 'NNS', 'PRP', 'VBZ', 'RB', 'VBP', 'VB', 'CC', 'PRP$', 'TO', 'VBD', 'VBN', 'VBG', 'WRB', 'MD', 'CD', 'WP', 'EX', 'RP', 'JJR', 'WDT', 'JJS', 'RBR', 'WP$'],
+        // Dickinson.
+        wordClasses2 = ['NN', 'NNP', 'PRP', 'CC', 'VBP', 'DT', 'IN', 'JJ', 'NNS', 'PRP$', 'TO', 'VB', 'VBN', 'VBZ', 'RB', 'VBD', 'CD', 'EX', 'MD', 'RP', 'VBG'],
+        // Combined
+        wordClasses = wordClasses1.concat(wordClasses2).unique(),
+        // wordClasses = ["NNP", "NN", "VBP" ],
         paper = {},
         source = {},
         target = {},
@@ -57,14 +75,15 @@ var dpe = (function(){
             cursor = [-1,0],
             bucketindex = 0,
 
+            // Next word to be changed/morphed.
             nexttarget = function( wordclass ){
 
                 var found = false;
 
-                if( gettarget() ){
-                    var tg = gettarget();
-                    console.log(tg.data('text'), tg.getBBox().width);
-                }
+                // if( gettarget() ){
+                //     var tg = gettarget();
+                //     console.log(tg.data('text'), tg.getBBox().width);
+                // }
 
                 // Increment line.
                 cursor[0]++;
@@ -79,9 +98,10 @@ var dpe = (function(){
                     for (var j = 0; j < paths[i].length; j++) {
                         // Target path is word to be changed.
                         var targetpath = paths[i][j];
-                        // console.log(targetpath.data("text"), 
-                        //             targetpath.data("tagClass") );
-                        if( targetpath.data('tagClass') == wordclass ){
+                        // console.log(targetpath.data("text"),
+                        //             targetpath.data("tagClass"), i, j);
+                        if( targetpath.data('tagClass') == wordclass
+                                && targetpath.data("transformed") != true  ){
                             cursor = [i,j];
                             found = true;
                             break;
@@ -103,7 +123,7 @@ var dpe = (function(){
                 var lineindex = cursor[0],
                     wordindex = cursor[1];
 
-                return paths[lineindex][wordindex];
+                return paths[lineindex][wordindex] || false;
 
             },
 
@@ -124,7 +144,7 @@ var dpe = (function(){
                     nextsource();
                 }
 
-                return bucket[wordclass][bucketindex];
+                return bucket[wordclass][bucketindex] || false;
             },
 
 
@@ -321,8 +341,8 @@ var dpe = (function(){
             source.resetbucket();
             if( wcindex >= wordClasses.length ){
                 if( swapped == false ){
-                    console.log("Finished. No swap.");
-                    return;
+                    // console.log("Finished. No swap.");
+                    // return;
                     console.log(">>>>>> swap poems <<<<<<");
                     swapped = true;
                     wcindex = 0;
