@@ -1,10 +1,23 @@
 <output>
   <line>
-    <tags><tag class="NN">fire</tag> <tag class="IN">in</tag> <tag class="NN">wind</tag> <tag class="VBZ">has</tag> <tag class="VBN">found</tag> <tag class="DT">a</tag> <tag class="NN">friend</tag> </tags>
+    <tags>
+      <tag class="NN">fire</tag>
+      <tag class="IN">in</tag>
+      <tag class="NN">wind</tag>
+      <tag class="VBZ">has</tag>
+      <tag class="VBN">found</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">friend</tag>
+    </tags>
     <original><![CDATA[fire in wind has found a friend]]></original>
   </line>
   <line>
-    <tags><tag class="IN">for</tag> <tag class="JJ">sudden</tag> <tag class="NN">change</tag> <tag class="PRP">it</tag> <tag class="VBZ">recommends</tag></tags>
+    <tags>
+      <tag class="IN">for</tag>
+      <tag class="JJ">sudden</tag>
+      <tag class="NN">change</tag>
+      <tag class="PRP">it</tag>
+    </tags>
     <original><![CDATA[for sudden change it recommends:]]></original>
   </line>
   <line>
@@ -12,19 +25,50 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">it</tag> <tag class="VBZ">sparks</tag> <tag class="PRP$">my</tag> <tag class="NN">shirt</tag> </tags>
+    <tags>
+      <tag class="PRP">it</tag>
+      <tag class="VBZ">sparks</tag>
+      <tag class="PRP$">my</tag>
+      <tag class="NN">shirt</tag>
+    </tags>
     <original><![CDATA[it sparks my shirt]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">it</tag> <tag class="VBD">carrot</tag> <tag class=":">-</tag> <tag class="NNS">cakes</tag> </tags>
+    <tags>
+      <tag class="PRP">it</tag>
+      <tag class="VBD">carrot</tag>
+      <tag class="NNS">cakes</tag>
+    </tags>
     <original><![CDATA[it carrot - cakes]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">pulls</tag> <tag class="VBD">red</tag> <tag class="NNS">leaves</tag> <tag class="IN">up</tag> <tag class="TO">to</tag> <tag class="JJ">shadow-shape</tag> </tags>
+    <tags>
+      <tag class="NNS">pulls</tag>
+      <tag class="VBD">red</tag>
+      <tag class="NNS">leaves</tag>
+      <tag class="IN">up</tag>
+      <tag class="TO">to</tag>
+      <tag class="JJ">shadow-shape</tag>
+    </tags>
     <original><![CDATA[pulls red leaves up to shadow-shape]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> <tag class="NN">rabbit</tag> <tag class="NNS">props</tag> <tag class="DT">a</tag> <tag class="NN">day</tag><tag class="NN">fair</tag> <tag class="NN">friend</tag><tag class="WRB">where</tag> <tag class="JJ">love</tag> <tag class="CC">and</tag> <tag class="NN">grief</tag> <tag class="VBZ">is</tag> <tag class="RB">mere</tag> <tag class="VBP">pretend</tag>  </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="NN">rabbit</tag>
+      <tag class="NNS">props</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">day's</tag>
+      <tag class="NN">fair</tag>
+      <tag class="NN">friend</tag>
+      <tag class="WRB">where</tag>
+      <tag class="JJ">love</tag>
+      <tag class="CC">and</tag>
+      <tag class="NN">grief</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="RB">mere</tag>
+      <tag class="VBP">pretend</tag>
+    </tags>
     <original><![CDATA[the rabbit props a day's fair friend, where love and grief is mere pretend]]></original>
   </line>
   <line>
@@ -32,31 +76,73 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> <tag class="JJ">flame-bark</tag> <tag class="NNS">bows</tag> <tag class="TO">to</tag> <tag class="VB">ruby</tag> <tag class="NN">lip</tag><tag class="PRP$">its</tag> <tag class="NNS">leaves</tag> </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="JJ">flame-bark</tag>
+      <tag class="NNS">bows</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">ruby</tag>
+      <tag class="JJ">lip</tag>
+      <tag class="PRP$">its</tag>
+      <tag class="NNS">leaves</tag>
+    </tags>
     <original><![CDATA[the flame-bark bows to ruby lip; its leaves]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">distend</tag> <tag class="JJ">'round</tag> <tag class="NNS">heaps</tag> <tag class="IN">of</tag> <tag class="JJ">mud-earth</tag> <tag class="NNS">men</tag> </tags>
+    <tags>
+      <tag class="VBP">distend</tag>
+      <tag class="NNS">heaps</tag>
+      <tag class="IN">of</tag>
+      <tag class="JJ">mud-earth</tag>
+      <tag class="NNS">men</tag>
+    </tags>
     <original><![CDATA[distend 'round heaps of mud-earth men]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">gather</tag> <tag class="JJ">war-cry</tag> </tags>
+    <tags>
+      <tag class="VBP">gather</tag>
+      <tag class="JJ">war-cry</tag>
+    </tags>
     <original><![CDATA[ gather war-cry]]></original>
   </line>
   <line>
-    <tags><tag class="TO">to</tag> <tag class="VB">reach</tag> <tag class="DT">the</tag> <tag class="NN">end</tag> <tag class="IN">of</tag> <tag class="VBG">shoveling</tag> <tag class="NNS">days</tag><tag class="RB">thereby</tag></tags>
+    <tags>
+      <tag class="TO">to</tag>
+      <tag class="VB">reach</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">end</tag>
+      <tag class="IN">of</tag>
+      <tag class="VBG">shoveling</tag>
+      <tag class="JJ">days</tag>
+      <tag class="NN">thereby</tag>
+    </tags>
     <original><![CDATA[to reach the end of shoveling days, thereby:]]></original>
   </line>
   <line>
-    <tags><tag class="IN">in</tag> <tag class="NN">thought</tag><tag class="VBG">unshoveling</tag><tag class="NN">time</tag><tag class="DT">all</tag> <tag class="NN">spent</tag> </tags>
+    <tags>
+      <tag class="IN">in</tag>
+      <tag class="NNP">thought</tag>
+      <tag class="NNP">unshoveling</tag>
+      <tag class="NNP">time's</tag>
+      <tag class="DT">all</tag>
+      <tag class="NN">spent</tag>
+    </tags>
     <original><![CDATA[in thought, unshoveling, time's all spent]]></original>
   </line>
   <line>
-    <tags><tag class="VBD">consumed</tag> <tag class="IN">by</tag> <tag class="NN">heat</tag></tags>
+    <tags>
+      <tag class="VBD">consumed</tag>
+      <tag class="IN">by</tag>
+      <tag class="JJ">heat's</tag>
+    </tags>
     <original><![CDATA[consumed by heat's]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">long</tag> <tag class="NN">lost</tag> <tag class="NN">lament</tag></tags>
+    <tags>
+      <tag class="JJ">long</tag>
+      <tag class="NN">lost</tag>
+      <tag class="NN">lament</tag>
+    </tags>
     <original><![CDATA[long lost lament]]></original>
   </line>
 </output>

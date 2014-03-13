@@ -1,58 +1,199 @@
 <output>
   <line>
-    <tags><tag class="DT">This</tag> <tag class="NN">morning</tag><tag class="VBZ">leaves</tag> <tag class="RB">still</tag> <tag class="VBG">cling</tag> <tag class="TO">to</tag> <tag class="DT">the</tag> <tag class="NNS">trees</tag><tag class="CC">but</tag> </tags>
+    <tags>
+      <tag class="DT">This</tag>
+      <tag class="NN">morning</tag>
+      <tag class="VBZ">leaves</tag>
+      <tag class="RB">still</tag>
+      <tag class="VBG">cling</tag>
+      <tag class="TO">to</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">trees</tag>
+      <tag class="CC">but</tag>
+    </tags>
     <original><![CDATA[This morning, leaves still cling to the trees, but]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> <tag class="NN">sun</tag> <tag class="VBZ">is</tag> <tag class="VBG">telling</tag> <tag class="PRP">them</tag> <tag class="TO">to</tag> <tag class="VB">drop</tag> <tag class="NNP">dead.</tag> <tag class="NNP">The</tag> <tag class="NNS">heavens</tag> <tag class="VBP">fill</tag> </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="NN">sun</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="VBG">telling</tag>
+      <tag class="PRP">them</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">drop</tag>
+      <tag class="NNP">dead</tag>
+      <tag class="NNP">The</tag>
+      <tag class="NNS">heavens</tag>
+      <tag class="VBP">fill</tag>
+    </tags>
     <original><![CDATA[          the sun is telling them to drop dead. The heavens fill]]></original>
   </line>
   <line>
-    <tags><tag class="IN">with</tag> <tag class="NNS">saws</tag><tag class="RB">dust</tag><tag class="RB">fill</tag> <tag class="IN">with</tag> <tag class="NNS">cuts</tag> <tag class="IN">of</tag> <tag class="JJ">fabric</tag> <tag class="IN">in</tag> </tags>
+    <tags>
+      <tag class="IN">with</tag>
+      <tag class="JJ">saws</tag>
+      <tag class="NN">dust</tag>
+      <tag class="NN">fill</tag>
+      <tag class="IN">with</tag>
+      <tag class="NNS">cuts</tag>
+      <tag class="IN">of</tag>
+      <tag class="JJ">fabric</tag>
+      <tag class="IN">in</tag>
+    </tags>
     <original><![CDATA[with saws, dust, fill with cuts of fabric in]]></original>
   </line>
   <line>
-    <tags><tag class="NN">brown</tag> <tag class="CC">and</tag> <tag class="JJ">yellow</tag> <tag class="NNS">patterns</tag><tag class="IN">with</tag> <tag class="NNS">baskets</tag> <tag class="CC">and</tag> <tag class="NNS">dogs</tag> <tag class="CC">and</tag> </tags>
+    <tags>
+      <tag class="NN">brown</tag>
+      <tag class="CC">and</tag>
+      <tag class="JJ">yellow</tag>
+      <tag class="NN">patterns</tag>
+      <tag class="IN">with</tag>
+      <tag class="NNS">baskets</tag>
+      <tag class="CC">and</tag>
+      <tag class="NNS">dogs</tag>
+      <tag class="CC">and</tag>
+    </tags>
     <original><![CDATA[brown and yellow patterns, with baskets and dogs and]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">men</tag> <tag class="WP">who</tag> <tag class="VBP">need</tag> <tag class="NNP">tribulation.</tag> <tag class="NNP">So</tag> <tag class="RB">much</tag> <tag class="VBG">filing</tag> <tag class="IN">through</tag> </tags>
+    <tags>
+      <tag class="NNS">men</tag>
+      <tag class="WP">who</tag>
+      <tag class="VBP">need</tag>
+      <tag class="NNP">tribulation</tag>
+      <tag class="NNP">So</tag>
+      <tag class="RB">much</tag>
+      <tag class="VBG">filing</tag>
+      <tag class="IN">through</tag>
+    </tags>
     <original><![CDATA[men who need tribulation. So much filing through]]></original>
   </line>
   <line>
-    <tags><tag class="DT">this</tag> <tag class="NN">place</tag><tag class="VBN">oxen</tag> <tag class="NNS">roads</tag> <tag class="VBG">heaving</tag> <tag class="NN">left</tag><tag class="RB">then</tag> <tag class="NNP">right.</tag> <tag class="NNP">Thank</tag> </tags>
+    <tags>
+      <tag class="DT">this</tag>
+      <tag class="NN">place</tag>
+      <tag class="NN">oxen</tag>
+      <tag class="NNS">roads</tag>
+      <tag class="VBG">heaving</tag>
+      <tag class="NN">left</tag>
+      <tag class="RB">then</tag>
+      <tag class="NNP">right</tag>
+      <tag class="NNP">Thank</tag>
+    </tags>
     <original><![CDATA[          this place, oxen roads heaving left, then right. Thank]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">you</tag> <tag class="IN">for</tag> <tag class="DT">the</tag> <tag class="NNS">nuns</tag> </tags>
+    <tags>
+      <tag class="PRP">you</tag>
+      <tag class="IN">for</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">nuns</tag>
+    </tags>
     <original><![CDATA[you for the nuns]]></original>
   </line>
   <line>
-    <tags><tag class="CC">and</tag> <tag class="NNS">trips</tag> <tag class="TO">to</tag> <tag class="DT">the</tag> <tag class="NNP">symphony.</tag> <tag class="NNP">The</tag> </tags>
+    <tags>
+      <tag class="CC">and</tag>
+      <tag class="NNS">trips</tag>
+      <tag class="TO">to</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">symphony</tag>
+      <tag class="NNP">The</tag>
+    </tags>
     <original><![CDATA[          and trips to the symphony. The]]></original>
   </line>
   <line>
-    <tags><tag class="NN">drama</tag> <tag class="IN">of</tag> <tag class="PRP">it</tag><tag class="NN">experience</tag> <tag class="DT">a</tag> <tag class="NN">body</tag> <tag class="VBN">washed</tag> <tag class="RB">entirely</tag> </tags>
+    <tags>
+      <tag class="NN">drama</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNP">it</tag>
+      <tag class="NN">experience</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">body</tag>
+      <tag class="VBN">washed</tag>
+      <tag class="RB">entirely</tag>
+    </tags>
     <original><![CDATA[drama of it: experience a body washed entirely]]></original>
   </line>
   <line>
-    <tags><tag class="IN">in</tag> <tag class="NN">kidney</tag> <tag class="NNP">sounds.</tag> <tag class="NNP">There</tag> <tag class="VBZ">is</tag> <tag class="DT">an</tag> <tag class="NN">instance</tag> <tag class="IN">of</tag> <tag class="NNP">Paul</tag> <tag class="NNP">Bunyon</tag> </tags>
+    <tags>
+      <tag class="IN">in</tag>
+      <tag class="NN">kidney</tag>
+      <tag class="NNP">sounds</tag>
+      <tag class="NNP">There</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="DT">an</tag>
+      <tag class="NN">instance</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNP">Paul</tag>
+      <tag class="NNP">Bunyon</tag>
+    </tags>
     <original><![CDATA[          in kidney sounds. There is an instance of Paul Bunyon]]></original>
   </line>
   <line>
-    <tags><tag class="IN">in</tag> <tag class="PRP$">my</tag> <tag class="NN">house</tag><tag class="CC">but</tag> <tag class="PRP">it</tag> <tag class="VBZ">is</tag> <tag class="RB">not</tag> <tag class="DT">the</tag> <tag class="JJ">same</tag> <tag class="IN">as</tag> <tag class="NNP">yesterday.</tag> <tag class="NNP">He</tag> </tags>
+    <tags>
+      <tag class="IN">in</tag>
+      <tag class="PRP$">my</tag>
+      <tag class="NN">house</tag>
+      <tag class="CC">but</tag>
+      <tag class="PRP">it</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="RB">not</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">same</tag>
+      <tag class="IN">as</tag>
+      <tag class="NNP">yesterday</tag>
+      <tag class="NNP">He</tag>
+    </tags>
     <original><![CDATA[in my house, but it is not the same as yesterday. He]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">tells</tag> <tag class="DT">the</tag> <tag class="NNS">leaves</tag> <tag class="IN">up</tag> <tag class="EX">there</tag> <tag class="TO">to</tag> <tag class="VB">go</tag> <tag class="IN">for</tag> <tag class="PRP">it</tag><tag class="VBZ">blands</tag> <tag class="VBZ">potatoes</tag><tag class="NNS">builds</tag> </tags>
+    <tags>
+      <tag class="VBZ">tells</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">leaves</tag>
+      <tag class="IN">up</tag>
+      <tag class="EX">there</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">go</tag>
+      <tag class="IN">for</tag>
+      <tag class="JJ">it</tag>
+      <tag class="NNS">blands</tag>
+      <tag class="VBZ">builds</tag>
+    </tags>
     <original><![CDATA[          tells the leaves up there to go for it, blands potatoes, builds]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">benches</tag> <tag class="TO">to</tag> <tag class="VB">dangle</tag> <tag class="DT">the</tag> <tag class="NN">feet</tag><tag class="VBZ">gets</tag> <tag class="IN">on</tag> <tag class="IN">with</tag> <tag class="NNS">cuts</tag> <tag class="CC">and</tag> <tag class="NNS">bruises</tag></tags>
+    <tags>
+      <tag class="NNS">benches</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">dangle</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">feet</tag>
+      <tag class="VBZ">gets</tag>
+      <tag class="IN">on</tag>
+      <tag class="IN">with</tag>
+      <tag class="NNS">cuts</tag>
+      <tag class="CC">and</tag>
+      <tag class="JJ">bruises</tag>
+    </tags>
     <original><![CDATA[benches to dangle the feet, gets on with cuts and bruises,]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">consecrates</tag> <tag class="IN">with</tag> <tag class="NN">sweat</tag> <tag class="DT">the</tag> <tag class="NNS">inadequacies</tag> <tag class="IN">of</tag> <tag class="NN">paper</tag> <tag class="NNS">towels</tag> <tag class="CC">and</tag> <tag class="NN">flannel</tag></tags>
+    <tags>
+      <tag class="NNS">consecrates</tag>
+      <tag class="IN">with</tag>
+      <tag class="NN">sweat</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">inadequacies</tag>
+      <tag class="IN">of</tag>
+      <tag class="NN">paper</tag>
+      <tag class="NNS">towels</tag>
+      <tag class="CC">and</tag>
+      <tag class="NN">flannel</tag>
+    </tags>
     <original><![CDATA[consecrates with sweat the inadequacies of paper towels and flannel]]></original>
   </line>
 </output>

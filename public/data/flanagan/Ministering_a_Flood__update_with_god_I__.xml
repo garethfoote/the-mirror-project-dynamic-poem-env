@@ -1,66 +1,150 @@
 <output>
   <line>
-    <tags><tag class="RB">Holy</tag> <tag class="NNP">Savior</tag><tag class="CC">or</tag> <tag class="DT">some</tag> <tag class="JJ">such</tag> </tags>
+    <tags>
+      <tag class="RB">Holy</tag>
+      <tag class="JJ">Savior</tag>
+      <tag class="CC">or</tag>
+      <tag class="DT">some</tag>
+      <tag class="JJ">such</tag>
+    </tags>
     <original><![CDATA[Holy Savior, or some such]]></original>
   </line>
   <line>
-    <tags><tag class="NN">divine</tag> <tag class="NN">wind</tag><tag class="VBP">make</tag> </tags>
+    <tags>
+      <tag class="NN">divine</tag>
+      <tag class="NN">wind</tag>
+      <tag class="VB">make</tag>
+    </tags>
     <original><![CDATA[divine wind, make]]></original>
   </line>
   <line>
-    <tags><tag class="DT">these</tag> <tag class="JJ">simple</tag> <tag class="NNS">pleas</tag> </tags>
+    <tags>
+      <tag class="DT">these</tag>
+      <tag class="JJ">simple</tag>
+      <tag class="NNS">pleas</tag>
+    </tags>
     <original><![CDATA[these simple pleas]]></original>
   </line>
   <line>
-    <tags><tag class="PRP$">your</tag> <tag class="JJ">own</tag> <tag class="NN">life</tag><tag class="NN">mission</tag></tags>
+    <tags>
+      <tag class="PRP$">your</tag>
+      <tag class="JJ">own</tag>
+      <tag class="NNS">life's</tag>
+    </tags>
     <original><![CDATA[your own life's mission:]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Holy</tag> <tag class="NNP">Savior</tag><tag class="NN">stain</tag> <tag class="PRP$">my</tag> </tags>
+    <tags>
+      <tag class="NNP">Holy</tag>
+      <tag class="NNP">Savior</tag>
+      <tag class="NN">stain</tag>
+      <tag class="PRP$">my</tag>
+    </tags>
     <original><![CDATA[Holy Savior, stain my]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">glasses</tag> <tag class="IN">with</tag> <tag class="PRP$">your</tag> <tag class="NNS">solutions</tag> </tags>
+    <tags>
+      <tag class="NNS">glasses</tag>
+      <tag class="IN">with</tag>
+      <tag class="PRP$">your</tag>
+      <tag class="NNS">solutions</tag>
+    </tags>
     <original><![CDATA[glasses with your solutions]]></original>
   </line>
   <line>
-    <tags><tag class=":">(</tag><tag class="VB">please</tag><tag class="DT">The</tag> <tag class="NNS">kids</tag> <tag class="VBN">left</tag> <tag class="DT">all</tag> </tags>
+    <tags>
+      <tag class="NNP">please</tag>
+      <tag class="NNP">The</tag>
+      <tag class="NNS">kids</tag>
+      <tag class="VBD">left</tag>
+      <tag class="DT">all</tag>
+    </tags>
     <original><![CDATA[(pictures, please). The kids left all]]></original>
   </line>
   <line>
-    <tags><tag class="IN">of</tag> <tag class="PRP$">their</tag> <tag class="NNS">chores</tag><tag class="VBD">rapunzelled</tag> <tag class="RP">out</tag> <tag class="NNS">windows</tag></tags>
+    <tags>
+      <tag class="IN">of</tag>
+      <tag class="PRP$">their</tag>
+      <tag class="JJ">chores</tag>
+      <tag class="VBN">rapunzelled</tag>
+      <tag class="RP">out</tag>
+    </tags>
     <original><![CDATA[of their chores, rapunzelled out windows,]]></original>
   </line>
   <line>
-    <tags><tag class="VBD">stuffed</tag> <tag class="PRP">themselves</tag> <tag class="IN">into</tag> <tag class="NNS">animals</tag> </tags>
+    <tags>
+      <tag class="VBN">stuffed</tag>
+      <tag class="PRP">themselves</tag>
+      <tag class="IN">into</tag>
+      <tag class="NNS">animals</tag>
+    </tags>
     <original><![CDATA[stuffed themselves into animals]]></original>
   </line>
   <line>
-    <tags><tag class="CC">and</tag> <tag class="VBP">have</tag> <tag class="VBN">gotten</tag> <tag class="RP">out</tag> <tag class="JJ">whole</tag> </tags>
+    <tags>
+      <tag class="CC">and</tag>
+      <tag class="VBP">have</tag>
+      <tag class="VBN">gotten</tag>
+      <tag class="RP">out</tag>
+      <tag class="JJ">whole</tag>
+    </tags>
     <original><![CDATA[and have gotten out whole]]></original>
   </line>
   <line>
-    <tags><tag class="IN">through</tag> <tag class="DT">the</tag> <tag class="NNP">hold.</tag> <tag class="NNP">Just</tag> <tag class="RB">so</tag> <tag class="PRP">you</tag> <tag class="VBP">know</tag></tags>
+    <tags>
+      <tag class="IN">through</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">hold</tag>
+      <tag class="NNP">Just</tag>
+      <tag class="RB">so</tag>
+      <tag class="PRP">you</tag>
+    </tags>
     <original><![CDATA[through the hold. Just so you know,]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">we</tag> <tag class="VBD">noticed</tag> <tag class="IN">that</tag> <tag class="IN">at</tag> <tag class="JJS">least</tag> <tag class="DT">the</tag> <tag class="NNS">mammals</tag> </tags>
+    <tags>
+      <tag class="PRP">we</tag>
+      <tag class="VBD">noticed</tag>
+      <tag class="IN">that</tag>
+      <tag class="IN">at</tag>
+      <tag class="JJS">least</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">mammals</tag>
+    </tags>
     <original><![CDATA[we noticed that at least the mammals]]></original>
   </line>
   <line>
-    <tags><tag class="MD">can</tag> <tag class="NNP">talk.</tag> <tag class="NNP">Holy</tag> <tag class="NNP">Savior</tag><tag class="VB">please</tag> </tags>
+    <tags>
+      <tag class="MD">can</tag>
+      <tag class="NNP">talk</tag>
+      <tag class="NNP">Holy</tag>
+      <tag class="NNP">Savior</tag>
+      <tag class="NN">please</tag>
+    </tags>
     <original><![CDATA[can talk. Holy Savior, please]]></original>
   </line>
   <line>
-    <tags><tag class="NN">make</tag> <tag class="NNS">animals</tag> <tag class="RB">again</tag> </tags>
+    <tags>
+      <tag class="VB">make</tag>
+      <tag class="NNS">animals</tag>
+      <tag class="RB">again</tag>
+    </tags>
     <original><![CDATA[make animals again]]></original>
   </line>
   <line>
-    <tags><tag class="IN">from</tag> <tag class="DT">all</tag> <tag class="DT">the</tag> <tag class="NNS">girls</tag></tags>
+    <tags>
+      <tag class="IN">from</tag>
+      <tag class="DT">all</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">girls</tag>
+    </tags>
     <original><![CDATA[from all the girls']]></original>
   </line>
   <line>
-    <tags><tag class="JJ">heeled</tag> <tag class="NNS">boots</tag></tags>
+    <tags>
+      <tag class="VBD">heeled</tag>
+      <tag class="NNS">boots</tag>
+    </tags>
     <original><![CDATA[heeled boots]]></original>
   </line>
 </output>

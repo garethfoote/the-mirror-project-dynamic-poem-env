@@ -1,18 +1,54 @@
 <output>
   <line>
-    <tags><tag class="WRB">When</tag> <tag class="VBZ">does</tag> <tag class="CD">one</tag> <tag class="VB">say</tag><tag class="PRP">I</tag> <tag class="VBP">know</tag> <tag class="IN">that</tag> <tag class="NN">x</tag> <tag class=":">=</tag> <tag class="NN">pineapple</tag></tags>
+    <tags>
+      <tag class="WRB">When</tag>
+      <tag class="VBZ">does</tag>
+      <tag class="CD">one</tag>
+      <tag class="NN">say</tag>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">know</tag>
+      <tag class="IN">that</tag>
+      <tag class="NN">x</tag>
+      <tag class="JJ">pineapple</tag>
+    </tags>
     <original><![CDATA[When does one say, I know that x = pineapple?]]></original>
   </line>
   <line>
-    <tags><tag class="WRB">When</tag> <tag class="CD">one</tag> <tag class="VBZ">has</tag> <tag class="VBN">checked</tag> <tag class="DT">the</tag> <tag class="NNP">calculation.</tag> <tag class="NNP">This</tag> <tag class="VBZ">is</tag> </tags>
+    <tags>
+      <tag class="WRB">When</tag>
+      <tag class="CD">one</tag>
+      <tag class="VBZ">has</tag>
+      <tag class="VBN">checked</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">calculation</tag>
+      <tag class="NNP">This</tag>
+      <tag class="VBZ">is</tag>
+    </tags>
     <original><![CDATA[When one has checked the calculation. This is]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">How</tag> <tag class="CD">one</tag> <tag class="NNP">calculates.</tag> <tag class="NNP">It</tag> <tag class="VBZ">is</tag> <tag class="NNP">this.</tag> <tag class="NNP">It</tag> <tag class="VBZ">is</tag> <tag class="NNP">thus.</tag> </tags>
+    <tags>
+      <tag class="NNP">How</tag>
+      <tag class="CD">one</tag>
+      <tag class="NNP">calculates</tag>
+      <tag class="NNP">It</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="NNP">this</tag>
+      <tag class="NNP">It</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="NNP">thus</tag>
+    </tags>
     <original><![CDATA[How one calculates. It is this. It is thus.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Connect</tag> <tag class="TO">to</tag> <tag class="DT">the</tag> <tag class="NN">concept</tag> <tag class="IN">of</tag> <tag class="NN">fruit</tag>  </tags>
+    <tags>
+      <tag class="NNP">Connect</tag>
+      <tag class="TO">to</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">concept</tag>
+      <tag class="IN">of</tag>
+      <tag class="NN">fruit</tag>
+    </tags>
     <original><![CDATA[Connect to the concept of fruit]]></original>
   </line>
   <line>
@@ -20,19 +56,54 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="CC">And</tag> <tag class="RB">multiply</tag> </tags>
+    <tags>
+      <tag class="CC">And</tag>
+      <tag class="RB">multiply</tag>
+    </tags>
     <original><![CDATA[And multiply]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="JJ">same</tag> <tag class="NN">distance</tag> <tag class="IN">from</tag> <tag class="NN">sun</tag> <tag class="TO">to</tag> <tag class="VB">planet</tag><tag class="CC">sand</tag> <tag class="TO">to</tag> <tag class="VB">leaf</tag> </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="JJ">same</tag>
+      <tag class="NN">distance</tag>
+      <tag class="IN">from</tag>
+      <tag class="NN">sun</tag>
+      <tag class="TO">to</tag>
+      <tag class="NNP">planet</tag>
+      <tag class="NN">sand</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">leaf</tag>
+    </tags>
     <original><![CDATA[The same distance from sun to planet, sand to leaf]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Between</tag> <tag class="PRP">you</tag> <tag class="CC">and</tag> <tag class="PRP">I</tag><tag class="VBP">stem</tag> <tag class="CC">and</tag> <tag class="NN">slip</tag><tag class="PRP$">your</tag> <tag class="NN">orange</tag> <tag class="NN">shirt</tag><tag class="VBZ">crowns</tag> <tag class="CC">and</tag> <tag class="NNS">suckers</tag> </tags>
+    <tags>
+      <tag class="NNP">Between</tag>
+      <tag class="PRP">you</tag>
+      <tag class="CC">and</tag>
+      <tag class="JJ">I</tag>
+      <tag class="NN">stem</tag>
+      <tag class="CC">and</tag>
+      <tag class="NNP">slip</tag>
+      <tag class="PRP$">your</tag>
+      <tag class="NN">orange</tag>
+      <tag class="NN">shirt</tag>
+      <tag class="NNS">crowns</tag>
+      <tag class="CC">and</tag>
+      <tag class="NNS">suckers</tag>
+    </tags>
     <original><![CDATA[Between you and I, stem and slip, your orange shirt, crowns and suckers]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Drooling</tag> <tag class="IN">down</tag> <tag class="DT">the</tag> <tag class="NN">tart</tag> <tag class="NN">bathroom</tag> <tag class="NN">sink</tag>  </tags>
+    <tags>
+      <tag class="NNP">Drooling</tag>
+      <tag class="IN">down</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">tart</tag>
+      <tag class="NN">bathroom</tag>
+      <tag class="NN">sink</tag>
+    </tags>
     <original><![CDATA[Drooling down the tart bathroom sink]]></original>
   </line>
   <line>
@@ -40,19 +111,43 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">These</tag> <tag class="VBP">are</tag> <tag class="RB">not</tag> <tag class="NNS">hypotheses</tag></tags>
+    <tags>
+      <tag class="DT">These</tag>
+      <tag class="VBP">are</tag>
+      <tag class="RB">not</tag>
+      <tag class="JJ">hypotheses</tag>
+    </tags>
     <original><![CDATA[These are not hypotheses,]]></original>
   </line>
   <line>
-    <tags><tag class="CC">But</tag> <tag class="PRP">they</tag> <tag class="VBP">are</tag> <tag class="NNP">close.</tag> </tags>
+    <tags>
+      <tag class="CC">But</tag>
+      <tag class="PRP">they</tag>
+      <tag class="VBP">are</tag>
+      <tag class="NNP">close</tag>
+    </tags>
     <original><![CDATA[But they are close.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Even</tag> <tag class="WRB">when</tag> <tag class="DT">the</tag> <tag class="NN">calculation</tag> </tags>
+    <tags>
+      <tag class="NNP">Even</tag>
+      <tag class="WRB">when</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">calculation</tag>
+    </tags>
     <original><![CDATA[Even when the calculation]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">Is</tag> <tag class="JJ">sweet</tag> <tag class="CC">and</tag> <tag class="VBN">fixed</tag><tag class="PRP">it</tag> <tag class="VBZ">is</tag> <tag class="RB">not</tag> <tag class="VBN">taught</tag>  </tags>
+    <tags>
+      <tag class="VBZ">Is</tag>
+      <tag class="JJ">sweet</tag>
+      <tag class="CC">and</tag>
+      <tag class="JJ">fixed</tag>
+      <tag class="PRP">it</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="RB">not</tag>
+      <tag class="VBN">taught</tag>
+    </tags>
     <original><![CDATA[Is sweet and fixed, it is not taught]]></original>
   </line>
   <line>
@@ -60,19 +155,54 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Through</tag> <tag class="DT">any</tag> <tag class="JJ">practical</tag> <tag class="NNP">decision.</tag> <tag class="NNP">We</tag> <tag class="VBP">know</tag> </tags>
+    <tags>
+      <tag class="NNP">Through</tag>
+      <tag class="DT">any</tag>
+      <tag class="JJ">practical</tag>
+      <tag class="NNP">decision</tag>
+      <tag class="NNP">We</tag>
+      <tag class="VBP">know</tag>
+    </tags>
     <original><![CDATA[Through any practical decision. We know]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">nature</tag> <tag class="IN">of</tag> <tag class="NNS">pineapples</tag> <tag class="IN">because</tag> </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">nature</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNS">pineapples</tag>
+      <tag class="IN">because</tag>
+    </tags>
     <original><![CDATA[The nature of pineapples because]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">We</tag> <tag class="VBP">learn</tag> <tag class="TO">to</tag> <tag class="NNP">pineapple.</tag> <tag class="DT">The</tag> <tag class="NN">situation</tag> <tag class="VBZ">is</tag> <tag class="RB">not</tag> <tag class="DT">the</tag> <tag class="JJ">same</tag> <tag class="IN">as</tag> <tag class="VBG">saying</tag> </tags>
+    <tags>
+      <tag class="PRP">We</tag>
+      <tag class="VBP">learn</tag>
+      <tag class="TO">to</tag>
+      <tag class="NNP">pineapple</tag>
+      <tag class="DT">The</tag>
+      <tag class="NN">situation</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="RB">not</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">same</tag>
+      <tag class="IN">as</tag>
+      <tag class="VBG">saying</tag>
+    </tags>
     <original><![CDATA[We learn to pineapple. The situation is not the same as saying]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">we</tag> <tag class="VBP">have</tag> <tag class="DT">a</tag> <tag class="NN">fruit</tag> <tag class="VBG">growing</tag> <tag class="JJ">fat</tag> <tag class="IN">between</tag> <tag class="PRP">us</tag>  </tags>
+    <tags>
+      <tag class="PRP">we</tag>
+      <tag class="VBP">have</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">fruit</tag>
+      <tag class="VBG">growing</tag>
+      <tag class="JJ">fat</tag>
+      <tag class="IN">between</tag>
+      <tag class="PRP">us</tag>
+    </tags>
     <original><![CDATA[we have a fruit growing fat between us]]></original>
   </line>
   <line>
@@ -80,19 +210,44 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">This</tag> <tag class="NN">juicy</tag> <tag class="IN">proof</tag> </tags>
+    <tags>
+      <tag class="DT">This</tag>
+      <tag class="NN">juicy</tag>
+      <tag class="IN">proof</tag>
+    </tags>
     <original><![CDATA[This juicy proof]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Ceases</tag> <tag class="TO">to</tag> <tag class="VB">be</tag> <tag class="JJ">conceivable</tag><tag class="NNP">Undone</tag> <tag class="NNS">fruits</tag> <tag class="RB">together</tag> </tags>
+    <tags>
+      <tag class="NNP">Ceases</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">be</tag>
+      <tag class="JJ">conceivable</tag>
+      <tag class="NNP">Undone</tag>
+      <tag class="NNS">fruits</tag>
+      <tag class="RB">together</tag>
+    </tags>
     <original><![CDATA[Ceases to be conceivable: Undone fruits together]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Form</tag> <tag class="JJ">edible</tag> <tag class="NNP">Ananas</tag> <tag class="NNP">hypotheses.</tag> <tag class="NNP">No</tag> <tag class="NNP">miscalculation.</tag> </tags>
+    <tags>
+      <tag class="NNP">Form</tag>
+      <tag class="JJ">edible</tag>
+      <tag class="NNP">Ananas</tag>
+      <tag class="NNP">hypotheses</tag>
+      <tag class="NNP">No</tag>
+      <tag class="NNP">miscalculation</tag>
+    </tags>
     <original><![CDATA[Form edible Ananas hypotheses. No miscalculation.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">It</tag> <tag class="VBZ">becomes</tag> <tag class="RB">then</tag><tag class="RB">not</tag> <tag class="RB">surprisingly</tag></tags>
+    <tags>
+      <tag class="NNP">It</tag>
+      <tag class="VBZ">becomes</tag>
+      <tag class="NNP">then</tag>
+      <tag class="RB">not</tag>
+      <tag class="RB">surprisingly</tag>
+    </tags>
     <original><![CDATA[It becomes then, not surprisingly]]></original>
   </line>
 </output>

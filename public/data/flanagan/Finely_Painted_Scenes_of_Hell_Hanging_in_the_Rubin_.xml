@@ -1,10 +1,20 @@
 <output>
   <line>
-    <tags><tag class="PRP$">pur</tag> <tag class="NNS">means</tag> <tag class="DT">the</tag> <tag class="NN">place</tag> <tag class="WRB">where</tag> </tags>
+    <tags>
+      <tag class="PRP$">pur</tag>
+      <tag class="NNS">means</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">place</tag>
+      <tag class="WRB">where</tag>
+    </tags>
     <original><![CDATA[pur means the place where]]></original>
   </line>
   <line>
-    <tags><tag class="DT">a</tag> <tag class="NN">goddess</tag> <tag class="VBZ">resides</tag>  </tags>
+    <tags>
+      <tag class="DT">a</tag>
+      <tag class="NN">goddess</tag>
+      <tag class="VBZ">resides</tag>
+    </tags>
     <original><![CDATA[a goddess resides]]></original>
   </line>
   <line>
@@ -12,7 +22,17 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NN">stretch</tag> <tag class="NNS">marks</tag> <tag class="DT">the</tag> <tag class="NN">sky</tag> <tag class="IN">in</tag> <tag class="DT">a</tag> <tag class="NN">color</tag> <tag class="IN">of</tag> <tag class="NN">war</tag>  </tags>
+    <tags>
+      <tag class="NN">stretch</tag>
+      <tag class="NNS">marks</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">sky</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">color</tag>
+      <tag class="IN">of</tag>
+      <tag class="NN">war</tag>
+    </tags>
     <original><![CDATA[stretch marks the sky in a color of war]]></original>
   </line>
   <line>
@@ -20,11 +40,21 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">we</tag> <tag class="VBP">pull</tag> <tag class="IN">on</tag> <tag class="DT">either</tag> <tag class="NN">end</tag> </tags>
+    <tags>
+      <tag class="PRP">we</tag>
+      <tag class="VBP">pull</tag>
+      <tag class="IN">on</tag>
+      <tag class="DT">either</tag>
+      <tag class="NN">end</tag>
+    </tags>
     <original><![CDATA[we pull on either end]]></original>
   </line>
   <line>
-    <tags><tag class="NN">giant</tag> <tag class="JJ">five-headed</tag> <tag class="NN">snake</tag>  </tags>
+    <tags>
+      <tag class="NN">giant</tag>
+      <tag class="JJ">five-headed</tag>
+      <tag class="NN">snake</tag>
+    </tags>
     <original><![CDATA[giant five-headed snake]]></original>
   </line>
   <line>
@@ -32,7 +62,11 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="VBD">wrapped</tag> <tag class="IN">around</tag> <tag class="PRP">us</tag></tags>
+    <tags>
+      <tag class="VBD">wrapped</tag>
+      <tag class="IN">around</tag>
+      <tag class="PRP">us</tag>
+    </tags>
     <original><![CDATA[wrapped around us]]></original>
   </line>
 </output>

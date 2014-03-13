@@ -1,10 +1,23 @@
 <output>
   <line>
-    <tags><tag class="DT">Each</tag> <tag class="NN">character</tag> <tag class="MD">may</tag> <tag class="VB">say</tag> <tag class="IN">that</tag> </tags>
+    <tags>
+      <tag class="DT">Each</tag>
+      <tag class="NN">character</tag>
+      <tag class="MD">may</tag>
+      <tag class="VB">say</tag>
+      <tag class="IN">that</tag>
+    </tags>
     <original><![CDATA[Each character may say that]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">She</tag> <tag class="CC">or</tag> <tag class="PRP">he</tag> <tag class="VBZ">contains</tag> <tag class="DT">the</tag> <tag class="NN">picture</tag>  </tags>
+    <tags>
+      <tag class="PRP">She</tag>
+      <tag class="CC">or</tag>
+      <tag class="PRP">he</tag>
+      <tag class="VBZ">contains</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">picture</tag>
+    </tags>
     <original><![CDATA[She or he contains the picture]]></original>
   </line>
   <line>
@@ -12,11 +25,22 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="CD">Two</tag> <tag class="NNS">characters</tag> <tag class="VBP">demonstrate</tag> </tags>
+    <tags>
+      <tag class="CD">Two</tag>
+      <tag class="NNS">characters</tag>
+      <tag class="VBP">demonstrate</tag>
+    </tags>
     <original><![CDATA[Two characters demonstrate]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">Sunrises</tag> <tag class="CC">and</tag> <tag class="VB">sun</tag> <tag class="NNP">decline.</tag> <tag class="NNP">The</tag> <tag class="NN">ground</tag>  </tags>
+    <tags>
+      <tag class="NNS">Sunrises</tag>
+      <tag class="CC">and</tag>
+      <tag class="VB">sun</tag>
+      <tag class="NNP">decline</tag>
+      <tag class="NNP">The</tag>
+      <tag class="NN">ground</tag>
+    </tags>
     <original><![CDATA[Sunrises and sun decline. The ground]]></original>
   </line>
   <line>
@@ -24,11 +48,24 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">Writes</tag> <tag class="IN">in</tag> <tag class="DT">a</tag> <tag class="JJ">primitive</tag> <tag class="NN">welcome</tag><tag class="IN">like</tag> <tag class="DT">the</tag> <tag class="NN">composition</tag> </tags>
+    <tags>
+      <tag class="VBZ">Writes</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">primitive</tag>
+      <tag class="NN">welcome</tag>
+      <tag class="IN">like</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">composition</tag>
+    </tags>
     <original><![CDATA[Writes in a primitive welcome, like the composition]]></original>
   </line>
   <line>
-    <tags><tag class=":">(</tag><tag class="NN">sun</tag><tag class=":">(</tag><tag class="NN">moon</tag><tag class="IN">with</tag> <tag class="CD">(</tag></tags>
+    <tags>
+      <tag class="NN">sun</tag>
+      <tag class="NNP">moon</tag>
+      <tag class="IN">with</tag>
+    </tags>
     <original><![CDATA[(the sun) (the moon) with (mountain)]]></original>
   </line>
   <line>
@@ -36,11 +73,29 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="IN">After</tag> <tag class="DT">the</tag> <tag class="NN">mountain</tag><tag class="VBZ">goes</tag> <tag class="TO">to</tag> <tag class="VB">get</tag> <tag class="IN">down</tag> </tags>
+    <tags>
+      <tag class="IN">After</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">mountain</tag>
+      <tag class="VBZ">goes</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">get</tag>
+      <tag class="IN">down</tag>
+    </tags>
     <original><![CDATA[After the mountain goes to get down]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">sun</tag> <tag class="VBZ">rises</tag> <tag class="NN">till</tag> <tag class="DT">an</tag> <tag class="NN">arrow</tag> <tag class="NNS">pierces</tag> <tag class="PRP$">his</tag> <tag class="NN">liver</tag>  </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">sun</tag>
+      <tag class="VBZ">rises</tag>
+      <tag class="NN">till</tag>
+      <tag class="DT">an</tag>
+      <tag class="NN">arrow</tag>
+      <tag class="NNS">pierces</tag>
+      <tag class="PRP$">his</tag>
+      <tag class="NN">liver</tag>
+    </tags>
     <original><![CDATA[The sun rises till an arrow pierces his liver]]></original>
   </line>
   <line>
@@ -48,11 +103,28 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">character</tag> <tag class="VBZ">is</tag> <tag class="VBN">written</tag> <tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="JJ">ancient</tag> <tag class="NN">script</tag> </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">character</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="VBN">written</tag>
+      <tag class="IN">in</tag>
+      <tag class="NNP">the</tag>
+      <tag class="JJ">ancient</tag>
+      <tag class="NN">script</tag>
+    </tags>
     <original><![CDATA[The character is written in the ancient script]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">Indicates</tag> <tag class="DT">the</tag> <tag class="NNP">grass.</tag> <tag class="NNP">Indicates</tag> <tag class="DT">the</tag> <tag class="NNP">grass-thick</tag> <tag class="NN">growth</tag>  </tags>
+    <tags>
+      <tag class="VBZ">Indicates</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">grass</tag>
+      <tag class="NNP">Indicates</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">grass-thick</tag>
+      <tag class="NN">growth</tag>
+    </tags>
     <original><![CDATA[Indicates the grass. Indicates the grass-thick growth]]></original>
   </line>
   <line>
@@ -60,11 +132,25 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="TO">To</tag> <tag class="VB">enter</tag> <tag class="NNS">contains</tag> <tag class="DT">the</tag> <tag class="NN">image</tag> </tags>
+    <tags>
+      <tag class="TO">To</tag>
+      <tag class="VB">enter</tag>
+      <tag class="NNS">contains</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">image</tag>
+    </tags>
     <original><![CDATA[To enter contains the image]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">Represents</tag> <tag class="DT">the</tag> <tag class="NN">word</tag> <tag class="VBD">related</tag> <tag class="TO">to</tag> <tag class="DT">the</tag> <tag class="JJ">fact-picture</tag>  </tags>
+    <tags>
+      <tag class="VBZ">Represents</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">word</tag>
+      <tag class="VBD">related</tag>
+      <tag class="TO">to</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">fact-picture</tag>
+    </tags>
     <original><![CDATA[Represents the word related to the fact-picture]]></original>
   </line>
   <line>
@@ -72,11 +158,24 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="TO">To</tag> <tag class="VB">enter</tag> <tag class="NNS">contains</tag> <tag class="NN">imprisonment</tag> </tags>
+    <tags>
+      <tag class="TO">To</tag>
+      <tag class="VB">enter</tag>
+      <tag class="NNS">contains</tag>
+      <tag class="NN">imprisonment</tag>
+    </tags>
     <original><![CDATA[To enter contains imprisonment]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">world</tag> <tag class="VBN">drawn</tag> <tag class="DT">this</tag> <tag class="NN">time</tag> <tag class="IN">as</tag> <tag class="JJ">failure-pile</tag>  </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">world</tag>
+      <tag class="VBN">drawn</tag>
+      <tag class="DT">this</tag>
+      <tag class="NN">time</tag>
+      <tag class="IN">as</tag>
+      <tag class="JJ">failure-pile</tag>
+    </tags>
     <original><![CDATA[The world drawn this time as failure-pile]]></original>
   </line>
   <line>
@@ -84,11 +183,26 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">This</tag> <tag class="VBZ">is</tag> <tag class="NNP">real.</tag> <tag class="DT">The</tag> <tag class="NN">production</tag> <tag class="IN">of</tag> <tag class="DT">a</tag> <tag class="JJ">happy</tag> <tag class="NN">image</tag> </tags>
+    <tags>
+      <tag class="DT">This</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="NNP">real</tag>
+      <tag class="DT">The</tag>
+      <tag class="NN">production</tag>
+      <tag class="IN">of</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">happy</tag>
+      <tag class="NN">image</tag>
+    </tags>
     <original><![CDATA[This is real. The production of a happy image]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">Is</tag> <tag class="RB">also</tag> <tag class="JJ">likely</tag> <tag class="NN">difficult</tag></tags>
+    <tags>
+      <tag class="VBZ">Is</tag>
+      <tag class="RB">also</tag>
+      <tag class="JJ">likely</tag>
+      <tag class="NNP">difficult</tag>
+    </tags>
     <original><![CDATA[Is also likely difficult.]]></original>
   </line>
 </output>

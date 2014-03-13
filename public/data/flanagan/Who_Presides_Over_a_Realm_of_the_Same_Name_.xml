@@ -1,10 +1,17 @@
 <output>
   <line>
-    <tags><tag class="JJ">Humble</tag> <tag class="JJ">bumble</tag>       <tag class="NNP">MWa</tag> </tags>
+    <tags>
+      <tag class="JJ">Humble</tag>
+      <tag class="JJ">bumble</tag>
+      <tag class="NNP">MWa</tag>
+    </tags>
     <original><![CDATA[Humble bumble       MWa]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Humble</tag> <tag class="JJ">bumble</tag>   </tags>
+    <tags>
+      <tag class="NNP">Humble</tag>
+      <tag class="JJ">bumble</tag>
+    </tags>
     <original><![CDATA[Humble bumble]]></original>
   </line>
   <line>
@@ -16,11 +23,27 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Did</tag> <tag class="PRP">you</tag> <tag class="VB">hear</tag> <tag class="IN">about</tag> <tag class="DT">the</tag> <tag class="NN">guy</tag> <tag class="WP">who</tag> <tag class="VBN">killed</tag> <tag class="PRP$">his</tag> <tag class="NN">mom</tag> </tags>
+    <tags>
+      <tag class="NNP">Did</tag>
+      <tag class="PRP">you</tag>
+      <tag class="VB">hear</tag>
+      <tag class="IN">about</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">guy</tag>
+      <tag class="WP">who</tag>
+      <tag class="VBN">killed</tag>
+      <tag class="PRP$">his</tag>
+      <tag class="NN">mom</tag>
+    </tags>
     <original><![CDATA[Did you hear about the guy who killed his mom]]></original>
   </line>
   <line>
-    <tags><tag class="IN">with</tag> <tag class="DT">a</tag> <tag class="NN">samurai</tag> <tag class="NN">sword</tag></tags>
+    <tags>
+      <tag class="IN">with</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">samurai</tag>
+      <tag class="NN">sword</tag>
+    </tags>
     <original><![CDATA[         with a samurai sword?]]></original>
   </line>
   <line>
@@ -36,15 +59,35 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Humble</tag> <tag class="JJ">humble</tag> <tag class="IN">About</tag> <tag class="CD">two</tag> <tag class="NNS">blocks</tag> <tag class="RB">away</tag>            <tag class="IN">from</tag> <tag class="RB">here</tag> </tags>
+    <tags>
+      <tag class="NNP">Humble</tag>
+      <tag class="JJ">humble</tag>
+      <tag class="IN">About</tag>
+      <tag class="CD">two</tag>
+      <tag class="NNS">blocks</tag>
+      <tag class="RB">away</tag>
+      <tag class="IN">from</tag>
+      <tag class="RB">here</tag>
+    </tags>
     <original><![CDATA[Humble humble About two blocks away            from here]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">Humble</tag> <tag class="JJ">trumble</tag> </tags>
+    <tags>
+      <tag class="JJ">Humble</tag>
+      <tag class="JJ">trumble</tag>
+    </tags>
     <original><![CDATA[Humble trumble]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">He</tag> <tag class="VBD">was</tag> <tag class="IN">on</tag> <tag class="RB">ugly</tag> <tag class="JJ">betty</tag> <tag class="NN">once</tag>      <tag class="NNP">ok.</tag>  </tags>
+    <tags>
+      <tag class="PRP">He</tag>
+      <tag class="VBD">was</tag>
+      <tag class="IN">on</tag>
+      <tag class="RB">ugly</tag>
+      <tag class="JJ">betty</tag>
+      <tag class="NN">once</tag>
+      <tag class="NNP">ok</tag>
+    </tags>
     <original><![CDATA[He was on ugly betty once      ok.]]></original>
   </line>
   <line>
@@ -52,7 +95,12 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Her</tag> <tag class="NN">paper</tag> <tag class="VBD">was</tag> <tag class="JJ">beautiful</tag>  </tags>
+    <tags>
+      <tag class="NNP">Her</tag>
+      <tag class="NN">paper</tag>
+      <tag class="VBD">was</tag>
+      <tag class="JJ">beautiful</tag>
+    </tags>
     <original><![CDATA[                                               Her paper was beautiful]]></original>
   </line>
   <line>
@@ -60,7 +108,14 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Her</tag> <tag class="NN">name</tag> <tag class="VBD">sounded</tag> <tag class="DT">a</tag> <tag class="NNP">Korean</tag> <tag class="NN">bell</tag>  </tags>
+    <tags>
+      <tag class="NNP">Her</tag>
+      <tag class="NN">name</tag>
+      <tag class="VBD">sounded</tag>
+      <tag class="DT">a</tag>
+      <tag class="NNP">Korean</tag>
+      <tag class="NN">bell</tag>
+    </tags>
     <original><![CDATA[                                               Her name sounded a Korean bell]]></original>
   </line>
   <line>
@@ -68,7 +123,17 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="WP">What</tag> <tag class="MD">can</tag> <tag class="PRP">I</tag> <tag class="VB">show</tag> <tag class="PRP">you</tag><tag class="WP">What</tag> <tag class="MD">can</tag> <tag class="PRP">I</tag> <tag class="VBP">tell</tag></tags>
+    <tags>
+      <tag class="WP">What</tag>
+      <tag class="MD">can</tag>
+      <tag class="PRP">I</tag>
+      <tag class="VB">show</tag>
+      <tag class="JJ">you</tag>
+      <tag class="WP">What</tag>
+      <tag class="MD">can</tag>
+      <tag class="PRP">I</tag>
+      <tag class="VB">tell</tag>
+    </tags>
     <original><![CDATA[                                               What can I show you? What can I tell?]]></original>
   </line>
   <line>
@@ -76,7 +141,13 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">Some</tag> <tag class="IN">of</tag> <tag class="PRP">you</tag> <tag class="VBZ">is</tag> <tag class="NNP">connected.</tag>  </tags>
+    <tags>
+      <tag class="DT">Some</tag>
+      <tag class="IN">of</tag>
+      <tag class="PRP">you</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="NNP">connected</tag>
+    </tags>
     <original><![CDATA[                                               Some of you is connected.]]></original>
   </line>
   <line>
@@ -84,27 +155,74 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Rumble</tag> <tag class="JJ">rumble</tag> </tags>
+    <tags>
+      <tag class="NNP">Rumble</tag>
+      <tag class="JJ">rumble</tag>
+    </tags>
     <original><![CDATA[         Rumble rumble]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Rumble</tag> <tag class="JJ">rumble</tag> </tags>
+    <tags>
+      <tag class="NNP">Rumble</tag>
+      <tag class="JJ">rumble</tag>
+    </tags>
     <original><![CDATA[         Rumble rumble]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Some</tag> <tag class="IN">of</tag> <tag class="DT">the</tag> <tag class="NNS">mouths</tag> <tag class="VBP">are</tag> <tag class="NNP">fed.</tag> </tags>
+    <tags>
+      <tag class="NNP">Some</tag>
+      <tag class="IN">of</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">mouths</tag>
+      <tag class="VBP">are</tag>
+      <tag class="NNP">fed</tag>
+    </tags>
     <original><![CDATA[Some of the mouths are fed.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">(</tag><tag class="VBZ">is</tag> <tag class="RB">not</tag> <tag class="IN">about</tag> <tag class="JJ">simple</tag> <tag class="NNP">money.</tag> <tag class="NNP">It</tag> <tag class="VBZ">is</tag> <tag class="RB">not</tag> <tag class="DT">a</tag> <tag class="NN">part</tag> <tag class="IN">of</tag> <tag class="NNP">me.</tag> <tag class="NNP">In</tag> <tag class="DT">a</tag> <tag class="NN">lake</tag><tag class="NNS">swans</tag> <tag class="NN">press</tag> <tag class="IN">under</tag> <tag class="JJ">little</tag> </tags>
+    <tags>
+      <tag class="VBZ">is</tag>
+      <tag class="RB">not</tag>
+      <tag class="IN">about</tag>
+      <tag class="JJ">simple</tag>
+      <tag class="NNP">money</tag>
+      <tag class="JJ">It</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="RB">not</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">part</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNP">me</tag>
+      <tag class="NNP">In</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">lake</tag>
+      <tag class="VBZ">swans</tag>
+      <tag class="NN">press</tag>
+      <tag class="IN">under</tag>
+      <tag class="JJ">little</tag>
+    </tags>
     <original><![CDATA[(It is not about simple money. It is not a part of me. In a lake, swans press under little]]></original>
   </line>
   <line>
-    <tags><tag class="NN">blue</tag> <tag class="CC">and</tag> <tag class="NN">white</tag> <tag class="NNP">counterparts.</tag> <tag class="NNP">Little</tag> <tag class="NNS">ones</tag> <tag class="VBP">flip</tag> <tag class="CC">and</tag> <tag class="JJ">dive</tag></tags>
+    <tags>
+      <tag class="NN">blue</tag>
+      <tag class="CC">and</tag>
+      <tag class="NN">white</tag>
+      <tag class="NNP">counterparts</tag>
+      <tag class="NNP">Little</tag>
+      <tag class="NNS">ones</tag>
+      <tag class="VBP">flip</tag>
+      <tag class="CC">and</tag>
+      <tag class="NNP">dive</tag>
+    </tags>
     <original><![CDATA[blue and white counterparts. Little ones flip and dive)]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">Lives</tag> <tag class="VBP">are</tag> <tag class="VBN">led</tag>  </tags>
+    <tags>
+      <tag class="NNP">Lives</tag>
+      <tag class="VBP">are</tag>
+      <tag class="VBN">led</tag>
+    </tags>
     <original><![CDATA[Lives are led]]></original>
   </line>
   <line>
@@ -112,7 +230,16 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Hat</tag> <tag class=":">-</tag> <tag class="NNS">men</tag> <tag class="VBP">wait</tag> <tag class="IN">for</tag> <tag class="DT">a</tag> <tag class="NN">pickup</tag><tag class="DT">a</tag> <tag class="JJ">listen-truck</tag>  </tags>
+    <tags>
+      <tag class="NNP">Hat</tag>
+      <tag class="NNS">men</tag>
+      <tag class="VBP">wait</tag>
+      <tag class="IN">for</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">pickup</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">listen-truck</tag>
+    </tags>
     <original><![CDATA[                       Hat - men wait for a pickup, a listen-truck]]></original>
   </line>
   <line>
@@ -120,15 +247,32 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">mumble</tag> <tag class="JJ">mumble</tag> </tags>
+    <tags>
+      <tag class="JJ">mumble</tag>
+      <tag class="JJ">mumble</tag>
+    </tags>
     <original><![CDATA[mumble mumble]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> <tag class="JJ">local</tag> <tag class="NNP">water.</tag> <tag class="NNP">The</tag> <tag class="JJ">local</tag> <tag class="NNP">brown.</tag> </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="JJ">local</tag>
+      <tag class="NNP">water</tag>
+      <tag class="NNP">The</tag>
+      <tag class="JJ">local</tag>
+      <tag class="NNP">brown</tag>
+    </tags>
     <original><![CDATA[the local water. The local brown.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">You</tag> <tag class="NN">tell</tag> <tag class="PRP">me</tag> <tag class="PRP">you</tag> <tag class="VBD">fell</tag> <tag class="NNP">in.</tag>   </tags>
+    <tags>
+      <tag class="NNP">You</tag>
+      <tag class="NN">tell</tag>
+      <tag class="PRP">me</tag>
+      <tag class="PRP">you</tag>
+      <tag class="VBD">fell</tag>
+      <tag class="NNP">in</tag>
+    </tags>
     <original><![CDATA[You tell me you fell in.]]></original>
   </line>
   <line>
@@ -140,11 +284,24 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Some</tag> <tag class="IN">of</tag> <tag class="PRP">them</tag> <tag class="VBP">see</tag> <tag class="DT">the</tag> <tag class="NNP">strings.</tag> </tags>
+    <tags>
+      <tag class="NNP">Some</tag>
+      <tag class="IN">of</tag>
+      <tag class="PRP">them</tag>
+      <tag class="VBP">see</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">strings</tag>
+    </tags>
     <original><![CDATA[Some of them see the strings.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">I</tag> <tag class="VBD">came</tag> <tag class="RP">out</tag>     <tag class="IN">up</tag> <tag class="NN">tonight</tag></tags>
+    <tags>
+      <tag class="NNP">I</tag>
+      <tag class="VBD">came</tag>
+      <tag class="RP">out</tag>
+      <tag class="IN">up</tag>
+      <tag class="NN">tonight</tag>
+    </tags>
     <original><![CDATA[I came out     up tonight]]></original>
   </line>
 </output>

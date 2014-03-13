@@ -1,10 +1,27 @@
 <output>
   <line>
-    <tags><tag class="NNP">Suppose</tag> <tag class="PRP">you</tag> <tag class="MD">could</tag> <tag class="RB">not</tag> <tag class="VB">remember</tag> <tag class="WRB">when</tag> <tag class="DT">the</tag> <tag class="JJ">small</tag> <tag class="NNS">boats</tag> </tags>
+    <tags>
+      <tag class="NNP">Suppose</tag>
+      <tag class="PRP">you</tag>
+      <tag class="MD">could</tag>
+      <tag class="RB">not</tag>
+      <tag class="VB">remember</tag>
+      <tag class="WRB">when</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">small</tag>
+      <tag class="NNS">boats</tag>
+    </tags>
     <original><![CDATA[Suppose you could not remember when the small boats]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Took</tag> <tag class="TO">to</tag> <tag class="DT">the</tag> <tag class="NNS">moors</tag> <tag class="IN">on</tag> <tag class="NN">trust</tag>  </tags>
+    <tags>
+      <tag class="NNP">Took</tag>
+      <tag class="TO">to</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">moors</tag>
+      <tag class="IN">on</tag>
+      <tag class="NN">trust</tag>
+    </tags>
     <original><![CDATA[Took to the moors on trust]]></original>
   </line>
   <line>
@@ -12,11 +29,19 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">It</tag> <tag class="VBZ">is</tag> <tag class="VBN">written</tag> <tag class="IN">that</tag> </tags>
+    <tags>
+      <tag class="PRP">It</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="VBN">written</tag>
+      <tag class="IN">that</tag>
+    </tags>
     <original><![CDATA[It is written that]]></original>
   </line>
   <line>
-    <tags><tag class="WRB">When</tag> <tag class="NN">doubt</tag> <tag class="VBD">came</tag></tags>
+    <tags>
+      <tag class="WRB">When</tag>
+      <tag class="NN">doubt</tag>
+    </tags>
     <original><![CDATA[When doubt came:]]></original>
   </line>
   <line>
@@ -24,11 +49,25 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class=":">(</tag><tag class="NN">deception</tag><tag class="NN">forgery</tag> <tag class="CC">and</tag> <tag class="DT">the</tag> <tag class="NN">like</tag></tags>
+    <tags>
+      <tag class="NN">deception</tag>
+      <tag class="NN">forgery</tag>
+      <tag class="CC">and</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">like</tag>
+    </tags>
     <original><![CDATA[(sense deception, forgery and the like)]]></original>
   </line>
   <line>
-    <tags><tag class="DT">A</tag> <tag class="NN">hunger</tag> <tag class="IN">ago</tag> <tag class="DT">this</tag> <tag class="NN">table</tag> <tag class="VBD">did</tag><tag class="VB">exist</tag>  </tags>
+    <tags>
+      <tag class="DT">A</tag>
+      <tag class="NN">hunger</tag>
+      <tag class="IN">ago</tag>
+      <tag class="DT">this</tag>
+      <tag class="NN">table</tag>
+      <tag class="RB">didn't</tag>
+      <tag class="VBP">exist</tag>
+    </tags>
     <original><![CDATA[A hunger ago this table didn't exist]]></original>
   </line>
   <line>
@@ -36,11 +75,20 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Nor</tag> <tag class="VBD">did</tag> <tag class="DT">the</tag> <tag class="NN">mountain</tag> </tags>
+    <tags>
+      <tag class="NNP">Nor</tag>
+      <tag class="VBD">did</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">mountain</tag>
+    </tags>
     <original><![CDATA[Nor did the mountain]]></original>
   </line>
   <line>
-    <tags><tag class="CC">And</tag> <tag class="DT">this</tag> <tag class="NN">wine</tag>  </tags>
+    <tags>
+      <tag class="CC">And</tag>
+      <tag class="DT">this</tag>
+      <tag class="NN">wine</tag>
+    </tags>
     <original><![CDATA[And this wine]]></original>
   </line>
   <line>
@@ -48,11 +96,20 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="CC">Nor</tag> <tag class="VBD">did</tag> <tag class="DT">the</tag> <tag class="NN">murder</tag> </tags>
+    <tags>
+      <tag class="CC">Nor</tag>
+      <tag class="VBD">did</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">murder</tag>
+    </tags>
     <original><![CDATA[Nor did the murder]]></original>
   </line>
   <line>
-    <tags><tag class="CC">Or</tag> <tag class="DT">this</tag> <tag class="NN">wolf</tag>  </tags>
+    <tags>
+      <tag class="CC">Or</tag>
+      <tag class="DT">this</tag>
+      <tag class="NN">wolf</tag>
+    </tags>
     <original><![CDATA[Or this wolf]]></original>
   </line>
   <line>
@@ -60,11 +117,23 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">Masks</tag> <tag class="DT">a</tag> <tag class="NN">false</tag> <tag class="NN">picture</tag> <tag class="IN">of</tag> <tag class="NN">doubt</tag> </tags>
+    <tags>
+      <tag class="VBZ">Masks</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">false</tag>
+      <tag class="NN">picture</tag>
+      <tag class="IN">of</tag>
+      <tag class="NN">doubt</tag>
+    </tags>
     <original><![CDATA[Masks a false picture of doubt]]></original>
   </line>
   <line>
-    <tags><tag class="RB">Perhaps</tag> <tag class="JJ">scientific</tag><tag class="RB">perhaps</tag> <tag class="JJ">philosophical</tag>     </tags>
+    <tags>
+      <tag class="RB">Perhaps</tag>
+      <tag class="JJ">scientific</tag>
+      <tag class="RB">perhaps</tag>
+      <tag class="JJ">philosophical</tag>
+    </tags>
     <original><![CDATA[Perhaps scientific, perhaps philosophical]]></original>
   </line>
   <line>
@@ -84,11 +153,22 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">You</tag> <tag class="VBP">know</tag> <tag class="IN">that</tag> <tag class="DT">the</tag> <tag class="NN">world</tag> </tags>
+    <tags>
+      <tag class="PRP">You</tag>
+      <tag class="VBP">know</tag>
+      <tag class="IN">that</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">world</tag>
+    </tags>
     <original><![CDATA[You know that the world]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">Is</tag> <tag class="CD">100</tag> <tag class="NNS">years</tag> <tag class="JJ">old</tag>  </tags>
+    <tags>
+      <tag class="VBZ">Is</tag>
+      <tag class="CD">100</tag>
+      <tag class="NNS">years</tag>
+      <tag class="JJ">old</tag>
+    </tags>
     <original><![CDATA[Is 100 years old]]></original>
   </line>
   <line>
@@ -96,11 +176,25 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="EX">There</tag> <tag class="MD">must</tag> <tag class="VB">be</tag> <tag class="DT">some</tag> <tag class="JJ">basic</tag> <tag class="NN">principle</tag> </tags>
+    <tags>
+      <tag class="EX">There</tag>
+      <tag class="MD">must</tag>
+      <tag class="VB">be</tag>
+      <tag class="DT">some</tag>
+      <tag class="JJ">basic</tag>
+      <tag class="NN">principle</tag>
+    </tags>
     <original><![CDATA[There must be some basic principle]]></original>
   </line>
   <line>
-    <tags><tag class="WRB">Where</tag> <tag class="NN">ice</tag> <tag class="NN">cream</tag> <tag class="VBZ">is</tag> <tag class="RB">really</tag> <tag class="JJ">magic</tag>  </tags>
+    <tags>
+      <tag class="WRB">Where</tag>
+      <tag class="NN">ice</tag>
+      <tag class="NN">cream</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="RB">really</tag>
+      <tag class="JJ">magic</tag>
+    </tags>
     <original><![CDATA[Where ice cream is really magic]]></original>
   </line>
   <line>
@@ -108,11 +202,24 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="CC">And</tag> <tag class="VBZ">crows</tag> <tag class="RB">gather</tag> <tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="NN">evening</tag> </tags>
+    <tags>
+      <tag class="CC">And</tag>
+      <tag class="VBZ">crows</tag>
+      <tag class="RB">gather</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">evening</tag>
+    </tags>
     <original><![CDATA[And crows gather in the evening]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">Trees</tag> <tag class="IN">as</tag> <tag class="DT">no</tag> <tag class="NN">one</tag> <tag class="VBZ">watches</tag></tags>
+    <tags>
+      <tag class="NNS">Trees</tag>
+      <tag class="IN">as</tag>
+      <tag class="DT">no</tag>
+      <tag class="NN">one</tag>
+      <tag class="VBZ">watches</tag>
+    </tags>
     <original><![CDATA[Trees as no one watches]]></original>
   </line>
 </output>

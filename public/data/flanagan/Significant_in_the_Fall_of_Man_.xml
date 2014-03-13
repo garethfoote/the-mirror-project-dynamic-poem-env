@@ -1,14 +1,27 @@
 <output>
   <line>
-    <tags><tag class="VBG">Assuming</tag><tag class="DT">a</tag> <tag class="NN">state</tag> <tag class="IN">of</tag> <tag class="NN">mind</tag> </tags>
+    <tags>
+      <tag class="NN">Assuming</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">state</tag>
+      <tag class="IN">of</tag>
+      <tag class="NN">mind</tag>
+    </tags>
     <original><![CDATA[Assuming:     a state of mind]]></original>
   </line>
   <line>
-    <tags><tag class="DT">a</tag> <tag class="NN">gesture</tag> </tags>
+    <tags>
+      <tag class="DT">a</tag>
+      <tag class="NN">gesture</tag>
+    </tags>
     <original><![CDATA[              a gesture]]></original>
   </line>
   <line>
-    <tags><tag class=":">[</tag><tag class="WRB">when</tag> <tag class="VBN">red</tag> <tag class="VBZ">tomorrows</tag>  </tags>
+    <tags>
+      <tag class="WRB">when</tag>
+      <tag class="VBN">red</tag>
+      <tag class="VBZ">tomorrows</tag>
+    </tags>
     <original><![CDATA[[mind-reading] when red tomorrows]]></original>
   </line>
   <line>
@@ -16,11 +29,21 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NN">secret</tag> <tag class="NNS">forgers</tag> <tag class="VBP">mediate</tag> </tags>
+    <tags>
+      <tag class="NN">secret</tag>
+      <tag class="NNS">forgers</tag>
+      <tag class="VBP">mediate</tag>
+    </tags>
     <original><![CDATA[secret forgers mediate]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> <tag class="NN">meaning</tag> <tag class="IN">of</tag> <tag class="PRP$">your</tag> <tag class="NN">name</tag>  </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="NN">meaning</tag>
+      <tag class="IN">of</tag>
+      <tag class="PRP$">your</tag>
+      <tag class="NN">name</tag>
+    </tags>
     <original><![CDATA[the meaning of your name]]></original>
   </line>
   <line>
@@ -28,15 +51,25 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">you</tag> <tag class="VBP">see</tag> <tag class="VBN">red</tag> </tags>
+    <tags>
+      <tag class="PRP">you</tag>
+      <tag class="VBP">see</tag>
+      <tag class="VBN">red</tag>
+    </tags>
     <original><![CDATA[you see red]]></original>
   </line>
   <line>
-    <tags><tag class="WRB">when</tag> <tag class="EX">there</tag> <tag class="VBZ">is</tag> </tags>
+    <tags>
+      <tag class="WRB">when</tag>
+      <tag class="EX">there</tag>
+      <tag class="VBZ">is</tag>
+    </tags>
     <original><![CDATA[when there is]]></original>
   </line>
   <line>
-    <tags><tag class="VBN">red</tag>     </tags>
+    <tags>
+      <tag class="VBN">red</tag>
+    </tags>
     <original><![CDATA[red]]></original>
   </line>
   <line>
@@ -56,15 +89,27 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Tomorrow</tag><tag class="PRP">you</tag> <tag class="JJR">remember</tag> <tag class="DT">this</tag> </tags>
+    <tags>
+      <tag class="PRP">you</tag>
+      <tag class="VB">remember</tag>
+      <tag class="DT">this</tag>
+    </tags>
     <original><![CDATA[Tomorrow:       you remember this]]></original>
   </line>
   <line>
-    <tags><tag class="NN">nature</tag> </tags>
+    <tags>
+      <tag class="NN">nature</tag>
+    </tags>
     <original><![CDATA[                nature]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">similar</tag> <tag class="NNS">tricks</tag> <tag class="IN">on</tag> <tag class="PRP">us</tag> <tag class="VBP">play</tag>  </tags>
+    <tags>
+      <tag class="JJ">similar</tag>
+      <tag class="NNS">tricks</tag>
+      <tag class="IN">on</tag>
+      <tag class="PRP">us</tag>
+      <tag class="VBP">play</tag>
+    </tags>
     <original><![CDATA[similar tricks on us play]]></original>
   </line>
   <line>
@@ -72,11 +117,24 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="VBG">giving</tag> <tag class="DT">the</tag> <tag class="NN">name</tag> <tag class="TO">to</tag> <tag class="DT">the</tag> <tag class="JJ">same</tag> <tag class="NN">color</tag> </tags>
+    <tags>
+      <tag class="VBG">giving</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">name</tag>
+      <tag class="TO">to</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">same</tag>
+      <tag class="NN">color</tag>
+    </tags>
     <original><![CDATA[giving the name to the same color]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">you</tag> <tag class="VBD">gave</tag> <tag class="PRP">it</tag> <tag class="RB">thus</tag>  </tags>
+    <tags>
+      <tag class="PRP">you</tag>
+      <tag class="VBD">gave</tag>
+      <tag class="PRP">it</tag>
+      <tag class="RB">thus</tag>
+    </tags>
     <original><![CDATA[you gave it thus]]></original>
   </line>
   <line>
@@ -84,15 +142,26 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">wish</tag> <tag class="IN">for</tag> <tag class="DT">an</tag> <tag class="NN">apple</tag> </tags>
+    <tags>
+      <tag class="JJ">wish</tag>
+      <tag class="IN">for</tag>
+      <tag class="DT">an</tag>
+      <tag class="NN">apple</tag>
+    </tags>
     <original><![CDATA[wish for an apple]]></original>
   </line>
   <line>
-    <tags><tag class="IN">by</tag> <tag class="NN">drawing</tag> </tags>
+    <tags>
+      <tag class="IN">by</tag>
+      <tag class="NN">drawing</tag>
+    </tags>
     <original><![CDATA[by drawing]]></original>
   </line>
   <line>
-    <tags><tag class="DT">an</tag> <tag class="NN">apple</tag>     </tags>
+    <tags>
+      <tag class="DT">an</tag>
+      <tag class="NN">apple</tag>
+    </tags>
     <original><![CDATA[an apple]]></original>
   </line>
   <line>
@@ -112,15 +181,30 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Cause</tag><tag class="RB">intently</tag> <tag class="VBP">stare</tag> </tags>
+    <tags>
+      <tag class="NN">Cause</tag>
+      <tag class="RB">intently</tag>
+      <tag class="JJ">stare</tag>
+    </tags>
     <original><![CDATA[Cause:        intently stare]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> <tag class="VBN">red</tag> <tag class="NN">thing</tag> </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="NN">red</tag>
+      <tag class="NN">thing</tag>
+    </tags>
     <original><![CDATA[              the red thing]]></original>
   </line>
   <line>
-    <tags><tag class="NN">distinguish</tag> <tag class="PRP$">my</tag> <tag class="NN">toothache</tag> <tag class="IN">from</tag> <tag class="PRP$">your</tag> <tag class="NNS">words</tag>  </tags>
+    <tags>
+      <tag class="NN">distinguish</tag>
+      <tag class="PRP$">my</tag>
+      <tag class="NN">toothache</tag>
+      <tag class="IN">from</tag>
+      <tag class="PRP$">your</tag>
+      <tag class="NNS">words</tag>
+    </tags>
     <original><![CDATA[distinguish my toothache from your words]]></original>
   </line>
   <line>
@@ -128,11 +212,20 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">a</tag> <tag class="NN">system</tag> <tag class="IN">of</tag> <tag class="NNS">symbols</tag> </tags>
+    <tags>
+      <tag class="DT">a</tag>
+      <tag class="NN">system</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNS">symbols</tag>
+    </tags>
     <original><![CDATA[a system of symbols]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">withdraws</tag> <tag class="DT">the</tag> <tag class="NNS">sentences</tag>  </tags>
+    <tags>
+      <tag class="NNS">withdraws</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">sentences</tag>
+    </tags>
     <original><![CDATA[withdraws the sentences]]></original>
   </line>
   <line>
@@ -140,15 +233,25 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="VBG">containing</tag> <tag class="DT">the</tag> <tag class="NN">name</tag> </tags>
+    <tags>
+      <tag class="VBG">containing</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">name</tag>
+    </tags>
     <original><![CDATA[containing the name]]></original>
   </line>
   <line>
-    <tags><tag class="IN">without</tag> <tag class="NN">knowledge</tag> </tags>
+    <tags>
+      <tag class="IN">without</tag>
+      <tag class="NN">knowledge</tag>
+    </tags>
     <original><![CDATA[without knowledge]]></original>
   </line>
   <line>
-    <tags><tag class="IN">without</tag> <tag class="NNS">bells</tag></tags>
+    <tags>
+      <tag class="IN">without</tag>
+      <tag class="NNS">bells</tag>
+    </tags>
     <original><![CDATA[without bells]]></original>
   </line>
 </output>

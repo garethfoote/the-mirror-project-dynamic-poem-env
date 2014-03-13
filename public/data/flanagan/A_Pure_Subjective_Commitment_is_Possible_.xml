@@ -1,22 +1,57 @@
 <output>
   <line>
-    <tags><tag class="PRP">I</tag><tag class="VB">tell</tag> <tag class="PRP">you</tag> </tags>
+    <tags>
+      <tag class="JJ">I'll</tag>
+      <tag class="NN">tell</tag>
+      <tag class="PRP">you</tag>
+    </tags>
     <original><![CDATA[ I'll tell you]]></original>
   </line>
   <line>
-    <tags><tag class="WP">what</tag> <tag class="PRP">it</tag> <tag class="NNP">is.</tag> <tag class="PRP">I</tag><tag class="VB">hand</tag> <tag class="PRP">you</tag> <tag class="NNP">outcry.</tag> </tags>
+    <tags>
+      <tag class="WP">what</tag>
+      <tag class="PRP">it</tag>
+      <tag class="NNP">is</tag>
+      <tag class="NNP">I'll</tag>
+      <tag class="NN">hand</tag>
+      <tag class="PRP">you</tag>
+      <tag class="NNP">outcry</tag>
+    </tags>
     <original><![CDATA[       what it is. I'll hand you outcry.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">We</tag> <tag class="NNP">drive.</tag> <tag class="NNP">Grey</tag> <tag class="NNS">commandeers</tag> <tag class="DT">the</tag> <tag class="NN">car</tag> <tag class="CC">and</tag> <tag class="NNS">exhausts</tag> <tag class="PRP$">your</tag> </tags>
+    <tags>
+      <tag class="NNP">We</tag>
+      <tag class="NNP">drive</tag>
+      <tag class="NNP">Grey</tag>
+      <tag class="NNS">commandeers</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">car</tag>
+      <tag class="CC">and</tag>
+      <tag class="NNS">exhausts</tag>
+      <tag class="PRP$">your</tag>
+    </tags>
     <original><![CDATA[We drive. Grey commandeers the car and exhausts your]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">mouth.</tag> <tag class="NNP">Notions</tag> <tag class="IN">of</tag> <tag class="NNP">telling.</tag> <tag class="NNP">Road</tag> <tag class="NNP">bends-</tag> </tags>
+    <tags>
+      <tag class="NNP">mouth</tag>
+      <tag class="NNP">Notions</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNP">telling</tag>
+      <tag class="NNP">Road</tag>
+      <tag class="NNP">bends</tag>
+    </tags>
     <original><![CDATA[mouth. Notions of telling. Road bends-]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">we</tag> <tag class="VBP">see</tag> <tag class="IN">over</tag> <tag class="NN">brushwood</tag> <tag class="NNP">thickets.</tag>  </tags>
+    <tags>
+      <tag class="PRP">we</tag>
+      <tag class="VBP">see</tag>
+      <tag class="IN">over</tag>
+      <tag class="NN">brushwood</tag>
+      <tag class="NNP">thickets</tag>
+    </tags>
     <original><![CDATA[ we see over brushwood thickets.]]></original>
   </line>
   <line>
@@ -24,19 +59,47 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Dressed</tag> <tag class="IN">for</tag> <tag class="NNP">Sunday</tag><tag class="NNS">mopmakers</tag> </tags>
+    <tags>
+      <tag class="NNP">Dressed</tag>
+      <tag class="IN">for</tag>
+      <tag class="NNP">Sunday</tag>
+      <tag class="NNS">mopmakers</tag>
+    </tags>
     <original><![CDATA[Dressed for Sunday, mopmakers]]></original>
   </line>
   <line>
-    <tags><tag class="WP$">whose</tag> <tag class="NNS">hands</tag> <tag class="VBP">have</tag> <tag class="VBN">scrubbed</tag> </tags>
+    <tags>
+      <tag class="WP$">whose</tag>
+      <tag class="NNS">hands</tag>
+      <tag class="VBP">have</tag>
+      <tag class="VBN">scrubbed</tag>
+    </tags>
     <original><![CDATA[whose hands have scrubbed]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">corners</tag> <tag class="IN">from</tag> <tag class="NN">church</tag> <tag class="NNS">toilets</tag><tag class="NN">stillborn</tag> <tag class="NNS">pennies</tag><tag class="JJ">easy-</tag> </tags>
+    <tags>
+      <tag class="NNS">corners</tag>
+      <tag class="IN">from</tag>
+      <tag class="NN">church</tag>
+      <tag class="NN">toilets</tag>
+      <tag class="NN">stillborn</tag>
+      <tag class="NN">pennies</tag>
+      <tag class="NN">easy</tag>
+    </tags>
     <original><![CDATA[corners from church toilets, stillborn pennies; easy-]]></original>
   </line>
   <line>
-    <tags><tag class="NN">find</tag> <tag class="DT">a</tag> <tag class="NN">course</tag> <tag class="IN">of</tag> <tag class="NN">violet</tag><tag class="NN">tie</tag> <tag class="DT">a</tag> <tag class="JJ">small</tag> <tag class="NNP">cloth.</tag>  </tags>
+    <tags>
+      <tag class="NN">find</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">course</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNP">violet</tag>
+      <tag class="NN">tie</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">small</tag>
+      <tag class="NNP">cloth</tag>
+    </tags>
     <original><![CDATA[  find a course of violet, tie a small cloth.]]></original>
   </line>
   <line>
@@ -44,19 +107,52 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Instructions</tag> <tag class="IN">for</tag> <tag class="VBG">living</tag> <tag class="IN">in</tag> <tag class="NN">coal</tag> <tag class="NNP">mines.</tag> <tag class="NNP">We</tag> <tag class="NN">peat</tag> <tag class="DT">a</tag> <tag class="RB">little</tag></tags>
+    <tags>
+      <tag class="NNP">Instructions</tag>
+      <tag class="IN">for</tag>
+      <tag class="VBG">living</tag>
+      <tag class="IN">in</tag>
+      <tag class="NN">coal</tag>
+      <tag class="NNP">mines</tag>
+      <tag class="NNP">We</tag>
+      <tag class="NN">peat</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">little</tag>
+    </tags>
     <original><![CDATA[Instructions for living in coal mines. We peat a little,]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">sinking.</tag> <tag class="NNP">After</tag> <tag class="NNS">confessions</tag> <tag class="CC">and</tag> <tag class="NNP">ammonia.</tag> <tag class="NNP">After</tag> <tag class="NN">coughing</tag></tags>
+    <tags>
+      <tag class="NNP">sinking</tag>
+      <tag class="NNP">After</tag>
+      <tag class="NNS">confessions</tag>
+      <tag class="CC">and</tag>
+      <tag class="NNP">ammonia</tag>
+      <tag class="NNP">After</tag>
+      <tag class="NNP">coughing</tag>
+    </tags>
     <original><![CDATA[sinking. After confessions and ammonia. After coughing,]]></original>
   </line>
   <line>
-    <tags><tag class="VBG">caring</tag> <tag class="IN">for</tag> <tag class="DT">the</tag> <tag class="JJ">small</tag> <tag class="RB">too</tag> <tag class="JJ">cold</tag> <tag class="NNP">ones.</tag> <tag class="NNP">Here-</tag> </tags>
+    <tags>
+      <tag class="VBG">caring</tag>
+      <tag class="IN">for</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">small</tag>
+      <tag class="RB">too</tag>
+      <tag class="JJ">cold</tag>
+      <tag class="NNP">ones</tag>
+      <tag class="NNP">Here</tag>
+    </tags>
     <original><![CDATA[caring for the small too cold ones. Here-]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">mothers</tag> <tag class="VBG">bring</tag> <tag class="JJ">final</tag> <tag class="NNP">things.</tag>  </tags>
+    <tags>
+      <tag class="NNS">mothers</tag>
+      <tag class="VBG">bring</tag>
+      <tag class="JJ">final</tag>
+      <tag class="NNP">things</tag>
+    </tags>
     <original><![CDATA[  mothers bring final things.]]></original>
   </line>
   <line>
@@ -64,19 +160,48 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Little</tag> <tag class="VBZ">knots</tag> <tag class="IN">on</tag> <tag class="NNS">trees</tag> <tag class="VBP">make</tag> <tag class="DT">a</tag> <tag class="JJ">sorry</tag> <tag class="NN">each</tag></tags>
+    <tags>
+      <tag class="NNP">Little</tag>
+      <tag class="VBZ">knots</tag>
+      <tag class="IN">on</tag>
+      <tag class="NNS">trees</tag>
+      <tag class="VBP">make</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">sorry</tag>
+      <tag class="NN">each</tag>
+    </tags>
     <original><![CDATA[Little knots on trees make a sorry each,]]></original>
   </line>
   <line>
-    <tags><tag class="NN">mighty</tag> <tag class="NNS">woods</tag> <tag class="VBP">bend</tag> <tag class="JJ">heavy</tag><tag class="NN">hair</tag> <tag class="NNS">locks</tag> <tag class="VBP">bear</tag> <tag class="JJ">tiny</tag> <tag class="NNS">socks</tag><tag class="IN">keen</tag> </tags>
+    <tags>
+      <tag class="NN">mighty</tag>
+      <tag class="NNS">woods</tag>
+      <tag class="VBP">bend</tag>
+      <tag class="JJ">heavy</tag>
+      <tag class="NN">hair</tag>
+      <tag class="NNS">locks</tag>
+      <tag class="VBP">bear</tag>
+      <tag class="JJ">tiny</tag>
+      <tag class="NN">socks</tag>
+      <tag class="IN">keen</tag>
+    </tags>
     <original><![CDATA[mighty woods bend heavy, hair locks bear tiny socks, keen]]></original>
   </line>
   <line>
-    <tags><tag class="DT">those</tag> <tag class="NNP">hands.</tag> <tag class="NNP">How</tag> </tags>
+    <tags>
+      <tag class="DT">those</tag>
+      <tag class="NNP">hands</tag>
+      <tag class="NNP">How</tag>
+    </tags>
     <original><![CDATA[those hands. How]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">we</tag> <tag class="VBP">come</tag> <tag class="TO">to</tag> <tag class="NN">blessing</tag></tags>
+    <tags>
+      <tag class="PRP">we</tag>
+      <tag class="VBP">come</tag>
+      <tag class="TO">to</tag>
+      <tag class="NNP">blessing</tag>
+    </tags>
     <original><![CDATA[  we come to blessing.]]></original>
   </line>
 </output>

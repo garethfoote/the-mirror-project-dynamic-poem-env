@@ -1,36 +1,67 @@
 <output>
   <line>
     <tags>
-      <tag class="NNP">Bodhidharma</tag>
+      <tag class="NN">Bodhidharma</tag>
     </tags>
     <original><![CDATA[Bodhidharma!]]></original>
   </line>
   <line>
-    <tags><tag class="PRP$">your</tag> <tag class="NN">father</tag><tag class="RB">not</tag> <tag class="RB">there</tag> </tags>
+    <tags>
+      <tag class="PRP$">your</tag>
+      <tag class="NN">father's</tag>
+      <tag class="RB">not</tag>
+      <tag class="RB">there</tag>
+    </tags>
     <original><![CDATA[your father's not there]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">he</tag> <tag class="VBD">went</tag> <tag class="TO">to</tag> <tag class="VB">get</tag> <tag class="NNP">milk.</tag> </tags>
+    <tags>
+      <tag class="PRP">he</tag>
+      <tag class="VBD">went</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">get</tag>
+      <tag class="NNP">milk</tag>
+    </tags>
     <original><![CDATA[        he went to get milk.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">The</tag> <tag class="NN">morning</tag> <tag class="VBZ">comes</tag> </tags>
+    <tags>
+      <tag class="NNP">The</tag>
+      <tag class="NN">morning</tag>
+      <tag class="VBZ">comes</tag>
+    </tags>
     <original><![CDATA[The morning comes]]></original>
   </line>
   <line>
-    <tags><tag class="CC">and</tag> <tag class="JJ">Japanese</tag> <tag class="NNS">men</tag> </tags>
+    <tags>
+      <tag class="CC">and</tag>
+      <tag class="JJ">Japanese</tag>
+      <tag class="NNS">men</tag>
+    </tags>
     <original><![CDATA[and Japanese men]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">burn</tag> <tag class="IN">down</tag> <tag class="PRP$">his</tag> </tags>
+    <tags>
+      <tag class="VBP">burn</tag>
+      <tag class="IN">down</tag>
+      <tag class="PRP$">his</tag>
+    </tags>
     <original><![CDATA[        burn down his]]></original>
   </line>
   <line>
-    <tags><tag class="NN">house</tag><tag class="VBP">take</tag> </tags>
+    <tags>
+      <tag class="NN">house</tag>
+      <tag class="VB">take</tag>
+    </tags>
     <original><![CDATA[house, take]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> <tag class="NNS">drapes</tag> <tag class="RB">first</tag> <tag class="RB">then</tag>  </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="NNS">drapes</tag>
+      <tag class="RB">first</tag>
+      <tag class="RB">then</tag>
+    </tags>
     <original><![CDATA[        the drapes first then]]></original>
   </line>
   <line>
@@ -38,7 +69,12 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">all</tag> <tag class="DT">the</tag> <tag class="JJ">little</tag> <tag class="NNS">girls</tag>  </tags>
+    <tags>
+      <tag class="DT">all</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">little</tag>
+      <tag class="NNS">girls</tag>
+    </tags>
     <original><![CDATA[all the little girls]]></original>
   </line>
   <line>
@@ -46,19 +82,38 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="IN">so</tag> <tag class="PRP">he</tag> <tag class="VBZ">decides</tag> </tags>
+    <tags>
+      <tag class="IN">so</tag>
+      <tag class="PRP">he</tag>
+      <tag class="VBZ">decides</tag>
+    </tags>
     <original><![CDATA[so he decides]]></original>
   </line>
   <line>
-    <tags><tag class="TO">to</tag> <tag class="VB">be</tag> <tag class="DT">a</tag> <tag class="NN">doctor</tag></tags>
+    <tags>
+      <tag class="TO">to</tag>
+      <tag class="VB">be</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">doctor</tag>
+    </tags>
     <original><![CDATA[to be a doctor:]]></original>
   </line>
   <line>
-    <tags><tag class="NN">try</tag> <tag class="TO">to</tag> <tag class="NN">flagstone</tag> <tag class="DT">these</tag> <tag class="NNS">things</tag> </tags>
+    <tags>
+      <tag class="NN">try</tag>
+      <tag class="TO">to</tag>
+      <tag class="NN">flagstone</tag>
+      <tag class="DT">these</tag>
+      <tag class="NNS">things</tag>
+    </tags>
     <original><![CDATA[        try to flagstone these things]]></original>
   </line>
   <line>
-    <tags><tag class="IN">from</tag> <tag class="DT">the</tag> <tag class="NN">inside</tag>   </tags>
+    <tags>
+      <tag class="IN">from</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">inside</tag>
+    </tags>
     <original><![CDATA[from the inside]]></original>
   </line>
   <line>
@@ -70,55 +125,109 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="CC">and</tag> <tag class="NNP">Patanjali</tag></tags>
+    <tags>
+      <tag class="CC">and</tag>
+      <tag class="NNP">Patanjali</tag>
+    </tags>
     <original><![CDATA[  and Patanjali!]]></original>
   </line>
   <line>
-    <tags><tag class="PRP$">your</tag> <tag class="NN">father</tag><tag class="RB">not</tag> </tags>
+    <tags>
+      <tag class="PRP$">your</tag>
+      <tag class="NNP">father's</tag>
+      <tag class="RB">not</tag>
+    </tags>
     <original><![CDATA[your father's not]]></original>
   </line>
   <line>
-    <tags><tag class="RB">there</tag> <tag class="PRP">he</tag> <tag class="VBD">went</tag> <tag class="TO">to</tag> </tags>
+    <tags>
+      <tag class="RB">there</tag>
+      <tag class="PRP">he</tag>
+      <tag class="VBD">went</tag>
+      <tag class="TO">to</tag>
+    </tags>
     <original><![CDATA[        there he went to]]></original>
   </line>
   <line>
-    <tags><tag class="VB">get</tag> <tag class="NNP">beer.</tag>       <tag class="NNP">The</tag> <tag class="NN">morning</tag> </tags>
+    <tags>
+      <tag class="VB">get</tag>
+      <tag class="NNP">beer</tag>
+      <tag class="NNP">The</tag>
+      <tag class="NN">morning</tag>
+    </tags>
     <original><![CDATA[get beer.       The morning]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">comes</tag> <tag class="CC">and</tag> <tag class="PRP">he</tag></tags>
+    <tags>
+      <tag class="VBZ">comes</tag>
+      <tag class="CC">and</tag>
+      <tag class="JJ">he's</tag>
+    </tags>
     <original><![CDATA[comes and he's]]></original>
   </line>
   <line>
-    <tags><tag class="VBN">passed</tag> <tag class="RP">out</tag> <tag class="RB">cold</tag> </tags>
+    <tags>
+      <tag class="VBN">passed</tag>
+      <tag class="RP">out</tag>
+      <tag class="RB">cold</tag>
+    </tags>
     <original><![CDATA[passed out cold]]></original>
   </line>
   <line>
-    <tags><tag class="IN">on</tag> <tag class="DT">the</tag> <tag class="JJ">couch</tag> </tags>
+    <tags>
+      <tag class="IN">on</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">couch</tag>
+    </tags>
     <original><![CDATA[        on the couch]]></original>
   </line>
   <line>
-    <tags><tag class="PRP$">his</tag> <tag class="NN">cigarette</tag> <tag class="VBZ">starts</tag> </tags>
+    <tags>
+      <tag class="PRP$">his</tag>
+      <tag class="NN">cigarette</tag>
+      <tag class="VBZ">starts</tag>
+    </tags>
     <original><![CDATA[        his cigarette starts]]></original>
   </line>
   <line>
-    <tags><tag class="NN">flame</tag> <tag class="IN">in</tag> <tag class="DT">the</tag> </tags>
+    <tags>
+      <tag class="NN">flame</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">the</tag>
+    </tags>
     <original><![CDATA[        flame in the]]></original>
   </line>
   <line>
-    <tags><tag class="NN">living</tag> <tag class="NN">room</tag> <tag class="RB">just</tag> <tag class="IN">like</tag> </tags>
+    <tags>
+      <tag class="NN">living</tag>
+      <tag class="NN">room</tag>
+      <tag class="RB">just</tag>
+      <tag class="IN">like</tag>
+    </tags>
     <original><![CDATA[living room just like]]></original>
   </line>
   <line>
-    <tags><tag class="WRB">when</tag> <tag class="JJ">grandmother</tag> <tag class="VBD">was</tag> </tags>
+    <tags>
+      <tag class="WRB">when</tag>
+      <tag class="JJ">grandmother</tag>
+      <tag class="VBD">was</tag>
+    </tags>
     <original><![CDATA[when grandmother was]]></original>
   </line>
   <line>
-    <tags><tag class="VBN">found</tag> <tag class="JJ">dead</tag> <tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="NNP">Bronx</tag> </tags>
+    <tags>
+      <tag class="VBN">found</tag>
+      <tag class="JJ">dead</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">Bronx</tag>
+    </tags>
     <original><![CDATA[        found dead in the Bronx]]></original>
   </line>
   <line>
-    <tags><tag class="NN">bathroom</tag>  </tags>
+    <tags>
+      <tag class="NN">bathroom</tag>
+    </tags>
     <original><![CDATA[                bathroom]]></original>
   </line>
   <line>
@@ -126,19 +235,35 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Whether</tag> <tag class="DT">the</tag> <tag class="NN">world</tag> <tag class="VBZ">is</tag> <tag class="JJ">eternal</tag> </tags>
+    <tags>
+      <tag class="NNP">Whether</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">world</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="JJ">eternal</tag>
+    </tags>
     <original><![CDATA[Whether the world is eternal]]></original>
   </line>
   <line>
-    <tags><tag class="CC">or</tag> <tag class="RB">not</tag> <tag class="JJ">eternal</tag> </tags>
+    <tags>
+      <tag class="CC">or</tag>
+      <tag class="RB">not</tag>
+      <tag class="JJ">eternal</tag>
+    </tags>
     <original><![CDATA[       or not eternal]]></original>
   </line>
   <line>
-    <tags><tag class="NN">(</tag><tag class="PRP$">your</tag> <tag class="NN">dad</tag></tags>
+    <tags>
+      <tag class="PRP$">your</tag>
+      <tag class="JJ">dad's</tag>
+    </tags>
     <original><![CDATA[(spanning your dad's]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">sportcoat-filled</tag> <tag class="NNS">closets</tag></tags>
+    <tags>
+      <tag class="JJ">sportcoat-filled</tag>
+      <tag class="NN">closets</tag>
+    </tags>
     <original><![CDATA[       sportcoat-filled closets)]]></original>
   </line>
   <line>
@@ -146,19 +271,39 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="IN">Whether</tag> <tag class="DT">the</tag> <tag class="NN">wreck</tag> <tag class="VBZ">is</tag> <tag class="JJ">finite</tag> </tags>
+    <tags>
+      <tag class="IN">Whether</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">wreck</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="JJ">finite</tag>
+    </tags>
     <original><![CDATA[Whether the wreck is finite]]></original>
   </line>
   <line>
-    <tags><tag class="CC">or</tag> <tag class="JJ">infinite</tag> </tags>
+    <tags>
+      <tag class="CC">or</tag>
+      <tag class="JJ">infinite</tag>
+    </tags>
     <original><![CDATA[      or infinite]]></original>
   </line>
   <line>
-    <tags><tag class="NN">(</tag><tag class="DT">the</tag> <tag class="NN">range</tag> <tag class="IN">of</tag> <tag class="VBN">broken</tag> <tag class="NNS">watches</tag> </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="NN">range</tag>
+      <tag class="IN">of</tag>
+      <tag class="VBN">broken</tag>
+      <tag class="NNS">watches</tag>
+    </tags>
     <original><![CDATA[      (given the range of broken watches]]></original>
   </line>
   <line>
-    <tags><tag class="VBN">jumbled</tag> <tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="NN">drawer</tag></tags>
+    <tags>
+      <tag class="VBN">jumbled</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">drawer</tag>
+    </tags>
     <original><![CDATA[      jumbled in the drawer)]]></original>
   </line>
   <line>
@@ -166,7 +311,11 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">i.e.</tag> <tag class="DT">neither</tag> <tag class="VBN">determined</tag></tags>
+    <tags>
+      <tag class="NNP">i.e</tag>
+      <tag class="DT">neither</tag>
+      <tag class="VBN">determined</tag>
+    </tags>
     <original><![CDATA[i.e. neither determined]]></original>
   </line>
 </output>

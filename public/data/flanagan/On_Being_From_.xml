@@ -1,22 +1,44 @@
 <output>
   <line>
     <tags>
-      <tag class="UH">Oh</tag>
-      <tag class="NNP">Rodeo</tag>
-      <tag class="NNP">Rodeo</tag>
+      <tag class="NN">Oh</tag>
+      <tag class="NN">Rodeo</tag>
+      <tag class="NN">Rodeo</tag>
     </tags>
     <original><![CDATA[Oh! Rodeo, Rodeo,]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">My</tag> <tag class="NN">brother</tag> <tag class="NNS">works</tag> <tag class="IN">at</tag> <tag class="NNP">Ponderosa</tag> </tags>
+    <tags>
+      <tag class="NNP">My</tag>
+      <tag class="NN">brother</tag>
+      <tag class="NNS">works</tag>
+      <tag class="IN">at</tag>
+      <tag class="NNP">Ponderosa</tag>
+    </tags>
     <original><![CDATA[My brother works at Ponderosa]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Wears</tag> <tag class="DT">a</tag> <tag class="JJ">blue</tag> <tag class="NN">bandana</tag>     <tag class="NNS">sprays</tag> <tag class="VBZ">dishes</tag> </tags>
+    <tags>
+      <tag class="NNP">Wears</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">blue</tag>
+      <tag class="NN">bandana</tag>
+      <tag class="NNS">sprays</tag>
+      <tag class="VBZ">dishes</tag>
+    </tags>
     <original><![CDATA[Wears a blue bandana     sprays dishes]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">In</tag> <tag class="IN">between</tag> <tag class="NNP">Karate</tag> <tag class="NN">practice</tag><tag class="IN">while</tag> <tag class="JJ">other</tag> <tag class="JJ">young</tag> <tag class="NNS">cowboys</tag>  </tags>
+    <tags>
+      <tag class="NNP">In</tag>
+      <tag class="IN">between</tag>
+      <tag class="NNP">Karate</tag>
+      <tag class="NNP">practice</tag>
+      <tag class="IN">while</tag>
+      <tag class="JJ">other</tag>
+      <tag class="JJ">young</tag>
+      <tag class="NNS">cowboys</tag>
+    </tags>
     <original><![CDATA[In between Karate practice, while other young cowboys]]></original>
   </line>
   <line>
@@ -24,19 +46,55 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Sear</tag> <tag class="NNS">steaks</tag> <tag class="TO">to</tag> <tag class="VB">plunk</tag> <tag class="IN">on</tag> <tag class="JJ">plastic</tag> <tag class="NNS">trays</tag> </tags>
+    <tags>
+      <tag class="NNP">Sear</tag>
+      <tag class="NNS">steaks</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">plunk</tag>
+      <tag class="IN">on</tag>
+      <tag class="JJ">plastic</tag>
+      <tag class="NNS">trays</tag>
+    </tags>
     <original><![CDATA[Sear steaks to plunk on plastic trays]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">I</tag> <tag class="VBP">know</tag> <tag class="CC">or</tag> <tag class="PRP">I</tag> <tag class="VBP">am</tag> <tag class="JJ">certain</tag> <tag class="EX">there</tag> <tag class="VBZ">is</tag> <tag class="DT">a</tag> <tag class="JJ">hospital</tag> <tag class="NN">down</tag> <tag class="DT">the</tag> <tag class="NN">trail</tag> </tags>
+    <tags>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">know</tag>
+      <tag class="CC">or</tag>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">am</tag>
+      <tag class="JJ">certain</tag>
+      <tag class="EX">there</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">hospital</tag>
+      <tag class="NN">down</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">trail</tag>
+    </tags>
     <original><![CDATA[I know or I am certain there is a hospital down the trail]]></original>
   </line>
   <line>
-    <tags><tag class="CC">And</tag> <tag class="NN">volunteer</tag> <tag class="EX">there</tag> <tag class="IN">in</tag> <tag class="JJ">high</tag> <tag class="NN">school</tag> </tags>
+    <tags>
+      <tag class="CC">And</tag>
+      <tag class="NN">volunteer</tag>
+      <tag class="EX">there</tag>
+      <tag class="IN">in</tag>
+      <tag class="JJ">high</tag>
+      <tag class="NN">school</tag>
+    </tags>
     <original><![CDATA[And volunteer there in high school]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Lasso</tag> <tag class="DT">the</tag> <tag class="JJ">plastic</tag> <tag class="NN">butter</tag> <tag class="NNS">pats</tag> <tag class="RB">away</tag>  </tags>
+    <tags>
+      <tag class="NNP">Lasso</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">plastic</tag>
+      <tag class="NN">butter</tag>
+      <tag class="NNS">pats</tag>
+      <tag class="RB">away</tag>
+    </tags>
     <original><![CDATA[Lasso the plastic butter pats away]]></original>
   </line>
   <line>
@@ -44,19 +102,60 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="IN">From</tag> <tag class="DT">the</tag> <tag class="JJ">elderly</tag> <tag class="WP">who</tag> <tag class="RB">swallow</tag> <tag class="VBP">butter</tag> <tag class="NNS">secrets</tag> <tag class="JJ">whole</tag> </tags>
+    <tags>
+      <tag class="IN">From</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">elderly</tag>
+      <tag class="WP">who</tag>
+      <tag class="RB">swallow</tag>
+      <tag class="VBP">butter</tag>
+      <tag class="NNS">secrets</tag>
+      <tag class="JJ">whole</tag>
+    </tags>
     <original><![CDATA[From the elderly who swallow butter secrets whole]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">I</tag> <tag class="VBP">am</tag> <tag class="JJ">certain</tag> <tag class="EX">there</tag> <tag class="VBP">are</tag> <tag class="NNS">chairs</tag> <tag class="RB">there</tag><tag class="CC">and</tag> <tag class="NNS">beds</tag><tag class="CC">and</tag> <tag class="NNS">campfires</tag><tag class="NNP">In</tag> <tag class="NN">second</tag> <tag class="NN">grade</tag> </tags>
+    <tags>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">am</tag>
+      <tag class="JJ">certain</tag>
+      <tag class="EX">there</tag>
+      <tag class="VBP">are</tag>
+      <tag class="NNS">chairs</tag>
+      <tag class="DT">the</tag>
+      <tag class="CC">and</tag>
+      <tag class="NNP">beds</tag>
+      <tag class="CC">and</tag>
+      <tag class="NNP">campfires</tag>
+      <tag class="NNP">In</tag>
+      <tag class="NN">second</tag>
+      <tag class="NN">grade</tag>
+    </tags>
     <original><![CDATA[I am certain there are chairs there, and beds, and campfires; In second grade]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">I</tag> <tag class="VBP">stop</tag> <tag class="VBG">breathing</tag> <tag class="IN">in</tag> <tag class="DT">that</tag> <tag class="NN">hospital</tag> </tags>
+    <tags>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">stop</tag>
+      <tag class="VBG">breathing</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">that</tag>
+      <tag class="NN">hospital</tag>
+    </tags>
     <original><![CDATA[I stop breathing in that hospital]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Wild</tag> <tag class="NNS">horses</tag> <tag class="VBP">kick</tag> <tag class="RP">up</tag> <tag class="VBN">red</tag> <tag class="NN">dust</tag> <tag class="IN">under</tag> <tag class="DT">the</tag> <tag class="NN">window</tag>  </tags>
+    <tags>
+      <tag class="NNP">Wild</tag>
+      <tag class="NNS">horses</tag>
+      <tag class="VBP">kick</tag>
+      <tag class="RP">up</tag>
+      <tag class="VBN">red</tag>
+      <tag class="NN">dust</tag>
+      <tag class="IN">under</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">window</tag>
+    </tags>
     <original><![CDATA[Wild horses kick up red dust under the window]]></original>
   </line>
   <line>
@@ -64,19 +163,46 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="RB">Now</tag> <tag class="DT">the</tag> <tag class="NNP">Ponderosa</tag> <tag class="VBZ">is</tag> <tag class="CD">one</tag> <tag class="IN">of</tag> <tag class="NNP">Bulgarian</tag> <tag class="NN">importance</tag> </tags>
+    <tags>
+      <tag class="RB">Now</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">Ponderosa</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="CD">one</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNP">Bulgarian</tag>
+      <tag class="NN">importance</tag>
+    </tags>
     <original><![CDATA[Now the Ponderosa is one of Bulgarian importance]]></original>
   </line>
   <line>
-    <tags><tag class="DT">A</tag> <tag class="NN">diner</tag> <tag class="VBN">called</tag> <tag class="NNP">Andrea</tag></tags>
+    <tags>
+      <tag class="DT">A</tag>
+      <tag class="NN">diner</tag>
+      <tag class="VBN">called</tag>
+    </tags>
     <original><![CDATA[A diner called Andrea's]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Where</tag> <tag class="DT">the</tag> <tag class="NN">search</tag> <tag class="NN">party</tag> <tag class="NNS">stops</tag></tags>
+    <tags>
+      <tag class="NNP">Where</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">search</tag>
+      <tag class="NN">party</tag>
+      <tag class="NN">stops</tag>
+    </tags>
     <original><![CDATA[Where the search party stops:]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Food</tag><tag class="NN">something</tag> <tag class="TO">to</tag> <tag class="VB">do</tag><tag class="WRB">when</tag> <tag class="DT">no</tag> <tag class="NN">one</tag>  </tags>
+    <tags>
+      <tag class="NN">Food</tag>
+      <tag class="NN">something</tag>
+      <tag class="TO">to</tag>
+      <tag class="NNP">do</tag>
+      <tag class="WRB">when</tag>
+      <tag class="DT">no</tag>
+      <tag class="NN">one</tag>
+    </tags>
     <original><![CDATA[Food, something to do, when no one]]></original>
   </line>
   <line>
@@ -84,19 +210,59 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">Is</tag> <tag class="JJ">hungry</tag><tag class="WRB">when</tag> <tag class="DT">no</tag> <tag class="NN">one</tag> <tag class="VBZ">is</tag> <tag class="VBG">herding</tag> <tag class="NN">ketchup</tag> <tag class="IN">as</tag> <tag class="PRP$">my</tag> <tag class="NN">father</tag> </tags>
+    <tags>
+      <tag class="VBZ">Is</tag>
+      <tag class="NNP">hungry</tag>
+      <tag class="WRB">when</tag>
+      <tag class="DT">no</tag>
+      <tag class="NN">one</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="VBG">herding</tag>
+      <tag class="NN">ketchup</tag>
+      <tag class="IN">as</tag>
+      <tag class="PRP$">my</tag>
+      <tag class="NN">father</tag>
+    </tags>
     <original><![CDATA[Is hungry, when no one is herding ketchup as my father]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">Lies</tag> <tag class="IN">in</tag> <tag class="DT">an</tag> <tag class="NN">unfamiliar</tag> <tag class="NN">tent</tag><tag class="JJ">unable</tag> <tag class="TO">to</tag> <tag class="VB">see</tag> <tag class="DT">the</tag> <tag class="NNS">stars</tag> </tags>
+    <tags>
+      <tag class="NNS">Lies</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">an</tag>
+      <tag class="NN">unfamiliar</tag>
+      <tag class="NN">tent</tag>
+      <tag class="JJ">unable</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">see</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">stars</tag>
+    </tags>
     <original><![CDATA[Lies in an unfamiliar tent, unable to see the stars]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Sparking</tag> <tag class="DT">the</tag> <tag class="JJ">broad</tag> <tag class="NN">ink</tag> <tag class="IN">of</tag> <tag class="DT">the</tag> <tag class="NN">sky</tag> </tags>
+    <tags>
+      <tag class="NNP">Sparking</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">broad</tag>
+      <tag class="NN">ink</tag>
+      <tag class="IN">of</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">sky</tag>
+    </tags>
     <original><![CDATA[Sparking the broad ink of the sky]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">My</tag> <tag class="NN">niece</tag> <tag class="VBZ">arrives</tag> <tag class="IN">on</tag> <tag class="PRP$">her</tag> <tag class="NN">baby</tag><tag class="JJ">first</tag> <tag class="NN">birthday</tag>  </tags>
+    <tags>
+      <tag class="NNP">My</tag>
+      <tag class="NN">niece</tag>
+      <tag class="VBZ">arrives</tag>
+      <tag class="IN">on</tag>
+      <tag class="PRP$">her</tag>
+      <tag class="JJ">baby's</tag>
+      <tag class="JJ">first</tag>
+      <tag class="NN">birthday</tag>
+    </tags>
     <original><![CDATA[My niece arrives on her baby's first birthday]]></original>
   </line>
   <line>
@@ -104,19 +270,52 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Branding</tag> <tag class="NNS">tools</tag> <tag class="VBP">dangle</tag> <tag class="IN">over</tag> <tag class="DT">the</tag> <tag class="NNP">Pepsi</tag> <tag class="NN">machine</tag> </tags>
+    <tags>
+      <tag class="NNP">Branding</tag>
+      <tag class="NNS">tools</tag>
+      <tag class="VBP">dangle</tag>
+      <tag class="IN">over</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">Pepsi</tag>
+      <tag class="NN">machine</tag>
+    </tags>
     <original><![CDATA[Branding tools dangle over the Pepsi machine]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">rest</tag> <tag class="NN">arrive</tag> <tag class="IN">for</tag> <tag class="DT">the</tag> <tag class="JJ">funeral</tag> <tag class="IN">on</tag> <tag class="NN">horseback</tag> </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">rest</tag>
+      <tag class="NN">arrive</tag>
+      <tag class="IN">for</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">funeral</tag>
+      <tag class="IN">on</tag>
+      <tag class="NN">horseback</tag>
+    </tags>
     <original><![CDATA[The rest arrive for the funeral on horseback]]></original>
   </line>
   <line>
-    <tags><tag class="DT">All</tag> <tag class="DT">the</tag> <tag class="NN">shaking</tag> <tag class="NNS">manes</tag> <tag class="VBD">parked</tag> <tag class="IN">outside</tag> </tags>
+    <tags>
+      <tag class="DT">All</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">shaking</tag>
+      <tag class="NNS">manes</tag>
+      <tag class="VBD">parked</tag>
+      <tag class="IN">outside</tag>
+    </tags>
     <original><![CDATA[All the shaking manes parked outside]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">Polish</tag> <tag class="DT">the</tag> <tag class="JJ">water-streaked</tag> <tag class="NNS">marks</tag> <tag class="IN">from</tag> <tag class="DT">the</tag> <tag class="NNS">colors</tag> <tag class="IN">of</tag> <tag class="NNS">cars</tag></tags>
+    <tags>
+      <tag class="JJ">Polish</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">water-streaked</tag>
+      <tag class="NNS">marks</tag>
+      <tag class="IN">from</tag>
+      <tag class="NNS">colors</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNS">cars</tag>
+    </tags>
     <original><![CDATA[Polish the water-streaked marks from the colors of cars]]></original>
   </line>
 </output>

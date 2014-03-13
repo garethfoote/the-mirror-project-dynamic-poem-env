@@ -1,14 +1,29 @@
 <output>
   <line>
-    <tags><tag class="NN">(</tag><tag class="NN">example</tag><tag class="NN">living</tag> <tag class="IN">on</tag> <tag class="NNP">Park</tag> <tag class="NNP">Avenue</tag> </tags>
+    <tags>
+      <tag class="NN">example</tag>
+      <tag class="NN">living</tag>
+      <tag class="IN">on</tag>
+      <tag class="NNP">Park</tag>
+      <tag class="NNP">Avenue</tag>
+    </tags>
     <original><![CDATA[(for example, living on Park Avenue]]></original>
   </line>
   <line>
-    <tags><tag class="CC">or</tag> <tag class="NNP">Malacanang</tag> <tag class="NNP">Palace</tag> </tags>
+    <tags>
+      <tag class="CC">or</tag>
+      <tag class="NNP">Malacanang</tag>
+      <tag class="NNP">Palace</tag>
+    </tags>
     <original><![CDATA[or Malacanang Palace]]></original>
   </line>
   <line>
-    <tags><tag class="NN">wearing</tag> <tag class="NN">nice</tag> <tag class="JJ">decorative</tag> <tag class="NNS">slippers</tag></tags>
+    <tags>
+      <tag class="NN">wearing</tag>
+      <tag class="NN">nice</tag>
+      <tag class="JJ">decorative</tag>
+      <tag class="NN">slippers</tag>
+    </tags>
     <original><![CDATA[wearing nice decorative slippers)]]></original>
   </line>
   <line>
@@ -16,7 +31,11 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="CC">nor</tag> <tag class="IN">as</tag> <tag class="JJ">unwholesome-</tag>  </tags>
+    <tags>
+      <tag class="CC">nor</tag>
+      <tag class="IN">as</tag>
+      <tag class="JJ">unwholesome</tag>
+    </tags>
     <original><![CDATA[       nor as unwholesome-]]></original>
   </line>
   <line>
@@ -24,19 +43,39 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NN">every</tag> <tag class="NN">partridge</tag> <tag class="IN">of</tag> <tag class="PRP$">your</tag> <tag class="VBG">being</tag> </tags>
+    <tags>
+      <tag class="NN">every</tag>
+      <tag class="NN">partridge</tag>
+      <tag class="IN">of</tag>
+      <tag class="PRP$">your</tag>
+      <tag class="VBG">being</tag>
+    </tags>
     <original><![CDATA[every partridge of your being]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">is</tag> <tag class="TO">to</tag> <tag class="PRP">me</tag> </tags>
+    <tags>
+      <tag class="VBZ">is</tag>
+      <tag class="TO">to</tag>
+      <tag class="PRP">me</tag>
+    </tags>
     <original><![CDATA[is to me]]></original>
   </line>
   <line>
-    <tags><tag class="NN">something</tag> <tag class="WDT">that</tag> <tag class="MD">can</tag> <tag class="RB">not</tag> <tag class="VB">be</tag> </tags>
+    <tags>
+      <tag class="NN">something</tag>
+      <tag class="WDT">that</tag>
+      <tag class="MD">can</tag>
+      <tag class="RB">not</tag>
+      <tag class="VB">be</tag>
+    </tags>
     <original><![CDATA[        something that can not be]]></original>
   </line>
   <line>
-    <tags><tag class="VBN">put</tag> <tag class="TO">to</tag> <tag class="VB">use</tag>   </tags>
+    <tags>
+      <tag class="VBN">put</tag>
+      <tag class="TO">to</tag>
+      <tag class="VB">use</tag>
+    </tags>
     <original><![CDATA[                              put to use]]></original>
   </line>
   <line>
@@ -48,11 +87,19 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="RB">just</tag> <tag class="RB">there</tag> </tags>
+    <tags>
+      <tag class="RB">just</tag>
+      <tag class="RB">there</tag>
+    </tags>
     <original><![CDATA[just there]]></original>
   </line>
   <line>
-    <tags><tag class="TO">to</tag> <tag class="VB">burn</tag> <tag class="NN">bushbaby</tag> <tag class="NN">bright</tag></tags>
+    <tags>
+      <tag class="TO">to</tag>
+      <tag class="VB">burn</tag>
+      <tag class="NN">bushbaby</tag>
+      <tag class="NN">bright</tag>
+    </tags>
     <original><![CDATA[to burn bushbaby bright]]></original>
   </line>
 </output>

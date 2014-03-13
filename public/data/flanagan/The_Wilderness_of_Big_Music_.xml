@@ -1,30 +1,96 @@
 <output>
   <line>
-    <tags><tag class="IN">At</tag> <tag class="DT">the</tag> <tag class="NN">library</tag><tag class="DT">the</tag> <tag class="NN">security</tag> <tag class="NN">guard</tag> <tag class="VBD">told</tag> <tag class="PRP">me</tag> </tags>
+    <tags>
+      <tag class="IN">At</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">library</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">security</tag>
+      <tag class="NN">guard</tag>
+      <tag class="VBD">told</tag>
+      <tag class="PRP">me</tag>
+    </tags>
     <original><![CDATA[At the library, the security guard told me]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">His</tag> <tag class="NNP">woes.</tag> <tag class="NNP">He</tag> <tag class="VBD">married</tag> <tag class="DT">a</tag> <tag class="NN">daughter</tag> <tag class="IN">of</tag> <tag class="DT">the</tag> <tag class="NNP">Calm</tag> <tag class="NN">family</tag> </tags>
+    <tags>
+      <tag class="NNP">His</tag>
+      <tag class="NNP">woes</tag>
+      <tag class="NNP">He</tag>
+      <tag class="VBD">married</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">daughter</tag>
+      <tag class="IN">of</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">Calm</tag>
+      <tag class="NN">family</tag>
+    </tags>
     <original><![CDATA[His woes. He married a daughter of the Calm family]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Her</tag> <tag class="NN">happiness</tag> <tag class="VBD">was</tag> <tag class="VBN">locked</tag> <tag class="IN">in</tag> <tag class="DT">a</tag> <tag class="NN">suitcase</tag> </tags>
+    <tags>
+      <tag class="NNP">Her</tag>
+      <tag class="NN">happiness</tag>
+      <tag class="VBD">was</tag>
+      <tag class="VBN">locked</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">suitcase</tag>
+    </tags>
     <original><![CDATA[Her happiness was locked in a suitcase]]></original>
   </line>
   <line>
-    <tags><tag class="CC">And</tag> <tag class="PRP$">her</tag> <tag class="NN">name</tag> <tag class="VBD">was</tag> <tag class="NNP">Beautiful</tag> <tag class="NNP">Girl.</tag> <tag class="NNP">She</tag> <tag class="VBD">gave</tag> <tag class="JJ">birth</tag> <tag class="TO">to</tag> <tag class="NNP">Fondness</tag> </tags>
+    <tags>
+      <tag class="CC">And</tag>
+      <tag class="PRP$">her</tag>
+      <tag class="NN">name</tag>
+      <tag class="VBD">was</tag>
+      <tag class="NNP">Beautiful</tag>
+      <tag class="NNP">Girl</tag>
+      <tag class="NNP">She</tag>
+      <tag class="VBD">gave</tag>
+      <tag class="JJ">birth</tag>
+      <tag class="TO">to</tag>
+      <tag class="NNP">Fondness</tag>
+    </tags>
     <original><![CDATA[And her name was Beautiful Girl. She gave birth to Fondness]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Those</tag> <tag class="WP">who</tag> <tag class="VB">take</tag> <tag class="CD">one</tag> <tag class="IN">of</tag> <tag class="PRP$">her</tag> <tag class="NNS">feathers</tag> </tags>
+    <tags>
+      <tag class="NNP">Those</tag>
+      <tag class="WP">who</tag>
+      <tag class="VB">take</tag>
+      <tag class="CD">one</tag>
+      <tag class="IN">of</tag>
+      <tag class="PRP$">her</tag>
+      <tag class="NNS">feathers</tag>
+    </tags>
     <original><![CDATA[Those who take one of her feathers]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Will</tag> <tag class="RB">not</tag> <tag class="VB">suffer</tag> <tag class="IN">from</tag> <tag class="NNP">jealousy.</tag> <tag class="NNP">Will</tag> <tag class="RB">not</tag> <tag class="RB">fly</tag> <tag class="IN">into</tag> <tag class="NNP">rage.</tag> </tags>
+    <tags>
+      <tag class="NNP">Will</tag>
+      <tag class="RB">not</tag>
+      <tag class="VB">suffer</tag>
+      <tag class="IN">from</tag>
+      <tag class="NNP">jealousy</tag>
+      <tag class="NNP">Will</tag>
+      <tag class="RB">not</tag>
+      <tag class="RB">fly</tag>
+      <tag class="IN">into</tag>
+      <tag class="NNP">rage</tag>
+    </tags>
     <original><![CDATA[Will not suffer from jealousy. Will not fly into rage.]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Will</tag> <tag class="RB">not</tag> <tag class="VB">fall</tag> <tag class="RB">ill</tag> <tag class="IN">from</tag> <tag class="NNS">peacocks</tag>  </tags>
+    <tags>
+      <tag class="NNP">Will</tag>
+      <tag class="RB">not</tag>
+      <tag class="VB">fall</tag>
+      <tag class="RB">ill</tag>
+      <tag class="IN">from</tag>
+      <tag class="NNS">peacocks</tag>
+    </tags>
     <original><![CDATA[Will not fall ill from peacocks]]></original>
   </line>
   <line>
@@ -32,31 +98,76 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">Each</tag> <tag class="NN">time</tag> <tag class="PRP">she</tag> <tag class="VBZ">goes</tag> <tag class="RP">out</tag> <tag class="IN">of</tag> <tag class="NN">town</tag> </tags>
+    <tags>
+      <tag class="DT">Each</tag>
+      <tag class="NN">time</tag>
+      <tag class="PRP">she</tag>
+      <tag class="VBZ">goes</tag>
+      <tag class="RP">out</tag>
+      <tag class="IN">of</tag>
+      <tag class="NN">town</tag>
+    </tags>
     <original><![CDATA[Each time she goes out of town]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">guard</tag> <tag class="NNS">gathers</tag> <tag class="VBP">shiny</tag> <tag class="NNS">things</tag> <tag class="IN">in</tag> <tag class="PRP$">his</tag> </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">guard</tag>
+      <tag class="NNS">gathers</tag>
+      <tag class="VBP">shiny</tag>
+      <tag class="NNS">things</tag>
+      <tag class="IN">in</tag>
+      <tag class="PRP$">his</tag>
+    </tags>
     <original><![CDATA[The guard gathers shiny things in his]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">Pocket-nest</tag><tag class="IN">like</tag> <tag class="DT">the</tag> <tag class="JJS">prettiest</tag> </tags>
+    <tags>
+      <tag class="NN">Pocket-nest</tag>
+      <tag class="IN">like</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJS">prettiest</tag>
+    </tags>
     <original><![CDATA[Pocket-nest, like the prettiest]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Tiniest</tag> <tag class="NNS">dinosaurs</tag> <tag class="VBG">holding</tag> <tag class="PRP$">their</tag> </tags>
+    <tags>
+      <tag class="NNP">Tiniest</tag>
+      <tag class="NNS">dinosaurs</tag>
+      <tag class="VBG">holding</tag>
+      <tag class="PRP$">their</tag>
+    </tags>
     <original><![CDATA[Tiniest dinosaurs holding their]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">Fine-fierce</tag> <tag class="NN">feather</tag> <tag class="NNS">vanes</tag> <tag class="DT">A</tag> <tag class="NN">happiness</tag> <tag class="IN">within</tag> </tags>
+    <tags>
+      <tag class="JJ">Fine-fierce</tag>
+      <tag class="NN">feather</tag>
+      <tag class="NNS">vanes</tag>
+      <tag class="DT">A</tag>
+      <tag class="NN">happiness</tag>
+      <tag class="IN">within</tag>
+    </tags>
     <original><![CDATA[Fine-fierce feather vanes A happiness within]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">baggage</tag> <tag class="IN">of</tag> <tag class="NNP">Beautiful</tag> <tag class="NNP">Girl</tag> <tag class="VBZ">lures</tag> </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">baggage</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNP">Beautiful</tag>
+      <tag class="NNP">Girl</tag>
+      <tag class="VBZ">lures</tag>
+    </tags>
     <original><![CDATA[The baggage of Beautiful Girl lures]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Scarlet</tag> <tag class="NNS">pheasants</tag> <tag class="IN">into</tag> <tag class="NNS">intercessions</tag>  </tags>
+    <tags>
+      <tag class="NNP">Scarlet</tag>
+      <tag class="NNS">pheasants</tag>
+      <tag class="IN">into</tag>
+      <tag class="NNS">intercessions</tag>
+    </tags>
     <original><![CDATA[Scarlet pheasants into intercessions]]></original>
   </line>
   <line>
@@ -64,11 +175,25 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="CC">And</tag> <tag class="NN">rowdy</tag> <tag class="DT">all</tag> <tag class="NN">night</tag> <tag class="NNS">songs</tag> <tag class="IN">on</tag> <tag class="DT">the</tag> <tag class="NNS">mini-lawns</tag> </tags>
+    <tags>
+      <tag class="CC">And</tag>
+      <tag class="NN">rowdy</tag>
+      <tag class="DT">all</tag>
+      <tag class="NN">night</tag>
+      <tag class="NNS">songs</tag>
+      <tag class="IN">on</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">mini-lawns</tag>
+    </tags>
     <original><![CDATA[And rowdy all night songs on the mini-lawns]]></original>
   </line>
   <line>
-    <tags><tag class="IN">Of</tag> <tag class="NN">gas</tag> <tag class="NNS">stations</tag> <tag class="RB">everywhere</tag>  </tags>
+    <tags>
+      <tag class="IN">Of</tag>
+      <tag class="NN">gas</tag>
+      <tag class="NNS">stations</tag>
+      <tag class="RB">everywhere</tag>
+    </tags>
     <original><![CDATA[Of gas stations everywhere]]></original>
   </line>
   <line>
@@ -76,15 +201,40 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Her</tag> <tag class="JJ">animal</tag><tag class="WRB">When</tag> <tag class="PRP">it</tag> <tag class="VBZ">comes</tag> <tag class="RB">Mostly</tag> <tag class="NNP">leopard.</tag> <tag class="NNP">Its</tag> <tag class="NN">drink</tag> <tag class="VBZ">is</tag> </tags>
+    <tags>
+      <tag class="NNP">Her</tag>
+      <tag class="NNP">animal</tag>
+      <tag class="NNP">When</tag>
+      <tag class="PRP">it</tag>
+      <tag class="VBZ">comes</tag>
+      <tag class="RB">Mostly</tag>
+      <tag class="NNP">leopard</tag>
+      <tag class="NNP">Its</tag>
+      <tag class="NN">drink</tag>
+      <tag class="VBZ">is</tag>
+    </tags>
     <original><![CDATA[Her animal? When it comes Mostly leopard. Its drink is]]></original>
   </line>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">name</tag> <tag class="IN">of</tag> <tag class="NNP">Beautiful</tag> <tag class="NN">girl</tag> </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">name</tag>
+      <tag class="IN">of</tag>
+      <tag class="NNP">Beautiful</tag>
+      <tag class="NN">girl</tag>
+    </tags>
     <original><![CDATA[The name of Beautiful girl]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Like</tag> <tag class="DT">a</tag> <tag class="JJ">wild</tag> <tag class="NN">grape</tag> <tag class="NNS">sounds</tag> <tag class="IN">under</tag> <tag class="NN">water</tag></tags>
+    <tags>
+      <tag class="NNP">Like</tag>
+      <tag class="DT">a</tag>
+      <tag class="JJ">wild</tag>
+      <tag class="NN">grape</tag>
+      <tag class="NNS">sounds</tag>
+      <tag class="IN">under</tag>
+      <tag class="NNP">water</tag>
+    </tags>
     <original><![CDATA[Like a wild grape sounds under water.]]></original>
   </line>
 </output>

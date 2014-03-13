@@ -1,18 +1,27 @@
 <output>
   <line>
-    <tags><tag class="JJ">sharp-toed</tag>            <tag class="NN">interior</tag> </tags>
+    <tags>
+      <tag class="JJ">sharp-toed</tag>
+      <tag class="NN">interior</tag>
+    </tags>
     <original><![CDATA[sharp-toed            interior]]></original>
   </line>
   <line>
-    <tags><tag class="PRP$">your</tag> </tags>
+    <tags>
+      <tag class="PRP$">your</tag>
+    </tags>
     <original><![CDATA[       your]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">spiritual</tag> </tags>
+    <tags>
+      <tag class="JJ">spiritual</tag>
+    </tags>
     <original><![CDATA[       spiritual]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">convictions</tag>   </tags>
+    <tags>
+      <tag class="NNS">convictions</tag>
+    </tags>
     <original><![CDATA[               convictions]]></original>
   </line>
   <line>
@@ -24,7 +33,11 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">trousers</tag> <tag class="VBP">(</tag><tag class="IN">in</tag> <tag class="NN">fur</tag></tags>
+    <tags>
+      <tag class="NNS">trousers</tag>
+      <tag class="IN">in</tag>
+      <tag class="JJ">fur</tag>
+    </tags>
     <original><![CDATA[trousers (covered in fur)]]></original>
   </line>
   <line>
@@ -36,15 +49,26 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="WRB">how</tag> <tag class="JJ">many</tag> <tag class="NNS">tails</tag> </tags>
+    <tags>
+      <tag class="WRB">how</tag>
+      <tag class="JJ">many</tag>
+      <tag class="NNS">tails</tag>
+    </tags>
     <original><![CDATA[how many tails]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">wish</tag> <tag class="IN">by</tag> </tags>
+    <tags>
+      <tag class="VBP">wish</tag>
+      <tag class="IN">by</tag>
+    </tags>
     <original><![CDATA[              wish by]]></original>
   </line>
   <line>
-    <tags><tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="NN">night</tag>  </tags>
+    <tags>
+      <tag class="IN">in</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">night</tag>
+    </tags>
     <original><![CDATA[      in the night]]></original>
   </line>
   <line>
@@ -52,23 +76,37 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="WP">what</tag> <tag class="NNS">questions</tag> </tags>
+    <tags>
+      <tag class="WP">what</tag>
+      <tag class="NNS">questions</tag>
+    </tags>
     <original><![CDATA[what questions]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">wake</tag> <tag class="PRP">you</tag> </tags>
+    <tags>
+      <tag class="VBP">wake</tag>
+      <tag class="PRP">you</tag>
+    </tags>
     <original><![CDATA[wake you]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">hang</tag> </tags>
+    <tags>
+      <tag class="VBP">hang</tag>
+    </tags>
     <original><![CDATA[              hang]]></original>
   </line>
   <line>
-    <tags><tag class="NN">concern</tag> </tags>
+    <tags>
+      <tag class="NN">concern</tag>
+    </tags>
     <original><![CDATA[        concern]]></original>
   </line>
   <line>
-    <tags><tag class="IN">over</tag> <tag class="DT">the</tag> <tag class="VBN">bed</tag></tags>
+    <tags>
+      <tag class="IN">over</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">bed</tag>
+    </tags>
     <original><![CDATA[over the bed?]]></original>
   </line>
   <line>
@@ -76,15 +114,25 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="WP">what</tag> <tag class="JJ">animal</tag> </tags>
+    <tags>
+      <tag class="WP">what</tag>
+      <tag class="JJ">animal</tag>
+    </tags>
     <original><![CDATA[what animal]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">stuffs</tag> <tag class="PRP">you</tag> <tag class="IN">for</tag> </tags>
+    <tags>
+      <tag class="NNS">stuffs</tag>
+      <tag class="PRP">you</tag>
+      <tag class="IN">for</tag>
+    </tags>
     <original><![CDATA[                  stuffs you for]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">later</tag>          <tag class="NN">(</tag><tag class="NN">morning</tag></tags>
+    <tags>
+      <tag class="JJ">later</tag>
+      <tag class="NN">morning</tag>
+    </tags>
     <original><![CDATA[                  later          (the morning)?]]></original>
   </line>
   <line>
@@ -92,31 +140,53 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NN">wolf</tag>     <tag class="CC">or</tag> </tags>
+    <tags>
+      <tag class="NN">wolf</tag>
+      <tag class="CC">or</tag>
+    </tags>
     <original><![CDATA[wolf     or]]></original>
   </line>
   <line>
-    <tags><tag class="NN">prey</tag><tag class="CC">and</tag> <tag class="WP">who</tag>                    <tag class="VBD">parked</tag> </tags>
+    <tags>
+      <tag class="JJ">prey</tag>
+      <tag class="CC">and</tag>
+      <tag class="WP">who</tag>
+      <tag class="VBD">parked</tag>
+    </tags>
     <original><![CDATA[prey? and who                    parked]]></original>
   </line>
   <line>
-    <tags><tag class="DT">each</tag> <tag class="IN">of</tag> <tag class="DT">those</tag> </tags>
+    <tags>
+      <tag class="DT">each</tag>
+      <tag class="IN">of</tag>
+      <tag class="DT">those</tag>
+    </tags>
     <original><![CDATA[                                          each of those]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">cars</tag> </tags>
+    <tags>
+      <tag class="NNS">cars</tag>
+    </tags>
     <original><![CDATA[                                                          cars]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">magic</tag> <tag class="JJ">straight</tag> </tags>
+    <tags>
+      <tag class="VBP">magic</tag>
+      <tag class="JJ">straight</tag>
+    </tags>
     <original><![CDATA[magic straight]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> </tags>
+    <tags>
+      <tag class="JJ">the</tag>
+    </tags>
     <original><![CDATA[       then]]></original>
   </line>
   <line>
-    <tags><tag class="VBD">went</tag> <tag class="NN">home</tag></tags>
+    <tags>
+      <tag class="VBD">went</tag>
+      <tag class="JJ">home</tag>
+    </tags>
     <original><![CDATA[       went home?]]></original>
   </line>
   <line>
@@ -124,27 +194,47 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">Tree</tag> <tag class="NNS">lines</tag> </tags>
+    <tags>
+      <tag class="NNP">Tree</tag>
+      <tag class="NNS">lines</tag>
+    </tags>
     <original><![CDATA[Tree lines]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">crawl</tag> <tag class="DT">all</tag> </tags>
+    <tags>
+      <tag class="VBP">crawl</tag>
+      <tag class="DT">all</tag>
+    </tags>
     <original><![CDATA[                  crawl all]]></original>
   </line>
   <line>
-    <tags><tag class="IN">over</tag> <tag class="PRP$">your</tag> <tag class="NN">face</tag> </tags>
+    <tags>
+      <tag class="IN">over</tag>
+      <tag class="PRP$">your</tag>
+      <tag class="NN">face</tag>
+    </tags>
     <original><![CDATA[                         over your face]]></original>
   </line>
   <line>
-    <tags><tag class="PRP$">your</tag> <tag class="NN">tail</tag> </tags>
+    <tags>
+      <tag class="PRP$">your</tag>
+      <tag class="NN">tail</tag>
+    </tags>
     <original><![CDATA[your tail]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">sweeps</tag> </tags>
+    <tags>
+      <tag class="NNS">sweeps</tag>
+    </tags>
     <original><![CDATA[        sweeps]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">sparks</tag> <tag class="IN">into</tag>    <tag class="DT">the</tag> <tag class="JJ">sky</tag>  </tags>
+    <tags>
+      <tag class="VBZ">sparks</tag>
+      <tag class="IN">into</tag>
+      <tag class="DT">the</tag>
+      <tag class="JJ">sky</tag>
+    </tags>
     <original><![CDATA[sparks into    the sky]]></original>
   </line>
   <line>
@@ -152,15 +242,23 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">hands</tag> </tags>
+    <tags>
+      <tag class="NNS">hands</tag>
+    </tags>
     <original><![CDATA[hands]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">curl</tag> <tag class="IN">in</tag> <tag class="PRP$">their</tag> </tags>
+    <tags>
+      <tag class="VBP">curl</tag>
+      <tag class="IN">in</tag>
+      <tag class="PRP$">their</tag>
+    </tags>
     <original><![CDATA[  curl in their]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">fur-clawed</tag> </tags>
+    <tags>
+      <tag class="JJ">fur-clawed</tag>
+    </tags>
     <original><![CDATA[  fur-clawed]]></original>
   </line>
   <line>

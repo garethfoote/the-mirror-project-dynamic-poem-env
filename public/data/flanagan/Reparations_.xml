@@ -1,10 +1,35 @@
 <output>
   <line>
-    <tags><tag class="DT">The</tag> <tag class="NN">preening</tag> <tag class="NN">water</tag> <tag class="NNS">laps</tag> <tag class="IN">with</tag> <tag class="DT">the</tag> <tag class="NN">ambivalence</tag> <tag class="IN">of</tag> <tag class="PRP$">your</tag> <tag class="NNP">look.</tag> <tag class="NNP">A</tag> </tags>
+    <tags>
+      <tag class="DT">The</tag>
+      <tag class="NN">preening</tag>
+      <tag class="NN">water</tag>
+      <tag class="NNS">laps</tag>
+      <tag class="IN">with</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">ambivalence</tag>
+      <tag class="IN">of</tag>
+      <tag class="PRP$">your</tag>
+      <tag class="NNP">look</tag>
+      <tag class="NNP">A</tag>
+    </tags>
     <original><![CDATA[The preening water laps with the ambivalence of your look. A]]></original>
   </line>
   <line>
-    <tags><tag class="NN">sense</tag> <tag class="IN">of</tag> <tag class="PRP">you</tag> <tag class="VBZ">is</tag> <tag class="NNP">North.</tag> <tag class="NNP">North</tag> <tag class="NN">sea</tag> <tag class="VBZ">maps</tag> <tag class="PRP">you</tag> <tag class="NNP">deeper.</tag> <tag class="PRP">I</tag> <tag class="VBP">imagine</tag>   </tags>
+    <tags>
+      <tag class="NN">sense</tag>
+      <tag class="IN">of</tag>
+      <tag class="PRP">you</tag>
+      <tag class="VBZ">is</tag>
+      <tag class="NNP">North</tag>
+      <tag class="NNP">North</tag>
+      <tag class="NN">sea</tag>
+      <tag class="VBZ">maps</tag>
+      <tag class="PRP">you</tag>
+      <tag class="NNP">deeper</tag>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">imagine</tag>
+    </tags>
     <original><![CDATA[sense of you is North. North sea maps you deeper. I imagine]]></original>
   </line>
   <line>
@@ -16,11 +41,32 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="WRB">how</tag> <tag class="JJ">cold</tag><tag class="NN">hope</tag> <tag class="NN">figure</tag> <tag class="VBN">backed</tag> <tag class="IN">by</tag> <tag class="NNP">snow.</tag> <tag class="DT">A</tag> <tag class="JJ">blind</tag> <tag class="NN">woman</tag> <tag class="NNS">taps</tag> </tags>
+    <tags>
+      <tag class="WRB">how</tag>
+      <tag class="JJ">cold</tag>
+      <tag class="NN">hope</tag>
+      <tag class="NN">figure</tag>
+      <tag class="VBN">backed</tag>
+      <tag class="IN">by</tag>
+      <tag class="NNP">snow</tag>
+      <tag class="DT">A</tag>
+      <tag class="JJ">blind</tag>
+      <tag class="NN">woman</tag>
+      <tag class="NNS">taps</tag>
+    </tags>
     <original><![CDATA[how cold, hope figure backed by snow. A blind woman taps]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">north</tag> <tag class="TO">to</tag> <tag class="NN">headphone</tag> <tag class="NNP">lectures.</tag> <tag class="NNP">Water</tag> <tag class="VBZ">submits</tag> <tag class="NNS">vocalizations</tag> <tag class="IN">down</tag>   </tags>
+    <tags>
+      <tag class="JJ">north</tag>
+      <tag class="TO">to</tag>
+      <tag class="NN">headphone</tag>
+      <tag class="NNP">lectures</tag>
+      <tag class="NNP">Water</tag>
+      <tag class="VBZ">submits</tag>
+      <tag class="NNS">vocalizations</tag>
+      <tag class="IN">down</tag>
+    </tags>
     <original><![CDATA[north to headphone lectures. Water submits vocalizations down]]></original>
   </line>
   <line>
@@ -32,11 +78,28 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP$">your</tag> <tag class="NN">kitchen</tag> <tag class="NNP">pipes.</tag> <tag class="NNP">Mouths</tag> <tag class="NN">dead</tag> <tag class="NNP">still.</tag> <tag class="NNP">Stubborn</tag> <tag class="NN">water</tag> </tags>
+    <tags>
+      <tag class="PRP$">your</tag>
+      <tag class="NN">kitchen</tag>
+      <tag class="NNP">pipes</tag>
+      <tag class="NNP">Mouths</tag>
+      <tag class="NN">dead</tag>
+      <tag class="NNP">still</tag>
+      <tag class="NNP">Stubborn</tag>
+      <tag class="NN">water</tag>
+    </tags>
     <original><![CDATA[your kitchen pipes. Mouths dead still. Stubborn water]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">patterns</tag> <tag class="NN">form</tag> <tag class="JJ">repetitive</tag> <tag class="NNP">sentences.</tag> <tag class="PRP">I</tag> <tag class="VBP">worry</tag> <tag class="DT">these</tag>   </tags>
+    <tags>
+      <tag class="NNS">patterns</tag>
+      <tag class="NN">form</tag>
+      <tag class="JJ">repetitive</tag>
+      <tag class="NNP">sentences</tag>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">worry</tag>
+      <tag class="DT">these</tag>
+    </tags>
     <original><![CDATA[patterns form repetitive sentences. I worry these]]></original>
   </line>
   <line>
@@ -48,11 +111,33 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">laces</tag> <tag class="PRP">you</tag> <tag class="VBD">gave</tag> <tag class="PRP">me</tag> <tag class="NNS">years</tag> <tag class="RB">ago</tag><tag class="IN">with</tag> <tag class="DT">the</tag> <tag class="NN">sun</tag> <tag class="IN">on</tag> <tag class="PRP$">your</tag> <tag class="NN">face</tag><tag class="VBP">are</tag> </tags>
+    <tags>
+      <tag class="NNS">laces</tag>
+      <tag class="PRP">you</tag>
+      <tag class="VBD">gave</tag>
+      <tag class="PRP">me</tag>
+      <tag class="NNS">years</tag>
+      <tag class="IN">with</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">sun</tag>
+      <tag class="IN">on</tag>
+      <tag class="PRP$">your</tag>
+      <tag class="NN">face</tag>
+      <tag class="VBP">are</tag>
+    </tags>
     <original><![CDATA[laces you gave me years ago, with the sun on your face, are]]></original>
   </line>
   <line>
-    <tags><tag class="NNP">fading.</tag> <tag class="NNP">North</tag> <tag class="VBZ">means</tag> <tag class="VBN">sun</tag><tag class="VBZ">becomes</tag> <tag class="NN">truth</tag><tag class="JJ">blue</tag> <tag class="NNS">inches</tag> <tag class="NN">deeper</tag>   </tags>
+    <tags>
+      <tag class="NNP">fading</tag>
+      <tag class="NNP">North</tag>
+      <tag class="VBZ">means</tag>
+      <tag class="JJ">sun</tag>
+      <tag class="NNS">becomes</tag>
+      <tag class="JJ">blue</tag>
+      <tag class="NNS">inches</tag>
+      <tag class="NN">deeper</tag>
+    </tags>
     <original><![CDATA[fading. North means sun, becomes truth, blue inches deeper]]></original>
   </line>
   <line>
@@ -64,11 +149,32 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="IN">into</tag> <tag class="NNP">indigo.</tag> <tag class="NNP">Smitten</tag> <tag class="VBZ">gloves</tag> <tag class="NN">lie</tag> <tag class="IN">in</tag> <tag class="DT">the</tag> <tag class="NN">sand</tag><tag class="RB">not</tag> <tag class="VBZ">objects</tag> <tag class="CC">but</tag> </tags>
+    <tags>
+      <tag class="IN">into</tag>
+      <tag class="NNP">indigo</tag>
+      <tag class="NNP">Smitten</tag>
+      <tag class="VBZ">gloves</tag>
+      <tag class="NN">lie</tag>
+      <tag class="IN">in</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">sand</tag>
+      <tag class="RB">not</tag>
+      <tag class="VBZ">objects</tag>
+      <tag class="CC">but</tag>
+    </tags>
     <original><![CDATA[into indigo. Smitten gloves lie in the sand, not objects but]]></original>
   </line>
   <line>
-    <tags><tag class="NNS">taxonomies</tag> <tag class="VBD">churned</tag> <tag class="IN">by</tag> <tag class="NN">sea</tag> <tag class="NNS">creatures</tag> <tag class="VBG">speaking</tag> <tag class="IN">in</tag> <tag class="NN">hum</tag></tags>
+    <tags>
+      <tag class="NNS">taxonomies</tag>
+      <tag class="VBD">churned</tag>
+      <tag class="IN">by</tag>
+      <tag class="NN">sea</tag>
+      <tag class="NNS">creatures</tag>
+      <tag class="VBG">speaking</tag>
+      <tag class="IN">in</tag>
+      <tag class="NNP">hum</tag>
+    </tags>
     <original><![CDATA[taxonomies churned by sea creatures speaking in hum.]]></original>
   </line>
 </output>

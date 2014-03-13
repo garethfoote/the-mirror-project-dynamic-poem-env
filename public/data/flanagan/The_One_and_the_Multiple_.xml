@@ -1,14 +1,31 @@
 <output>
   <line>
-    <tags><tag class="VBD">collected</tag> <tag class="NNS">symbols</tag> </tags>
+    <tags>
+      <tag class="VBD">collected</tag>
+      <tag class="NNS">symbols</tag>
+    </tags>
     <original><![CDATA[collected symbols]]></original>
   </line>
   <line>
-    <tags><tag class="VBN">crowd</tag> <tag class="IN">under</tag> <tag class="DT">the</tag> <tag class="NNS">cliffs</tag> </tags>
+    <tags>
+      <tag class="VBN">crowd</tag>
+      <tag class="IN">under</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">cliffs</tag>
+    </tags>
     <original><![CDATA[crowd under the cliffs]]></original>
   </line>
   <line>
-    <tags><tag class="RB">now</tag> <tag class="PRP">me</tag>      <tag class="IN">among</tag> <tag class="DT">the</tag> <tag class="NNS">wives</tag> <tag class="IN">of</tag> <tag class="DT">the</tag> <tag class="NNS">eels</tag>  </tags>
+    <tags>
+      <tag class="RB">now</tag>
+      <tag class="PRP">me</tag>
+      <tag class="IN">among</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">wives</tag>
+      <tag class="IN">of</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">eels</tag>
+    </tags>
     <original><![CDATA[now me      among the wives of the eels]]></original>
   </line>
   <line>
@@ -16,15 +33,27 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">I</tag> <tag class="VBP">am</tag> <tag class="JJ">stop</tag> <tag class="NN">swimming</tag> </tags>
+    <tags>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">am</tag>
+      <tag class="JJ">stop</tag>
+      <tag class="NN">swimming</tag>
+    </tags>
     <original><![CDATA[I am stop swimming]]></original>
   </line>
   <line>
-    <tags><tag class="VBG">swimming</tag> <tag class="PRP">me</tag>      <tag class="PRP">I</tag> <tag class="VBP">am</tag> </tags>
+    <tags>
+      <tag class="VBG">swimming</tag>
+      <tag class="PRP">me</tag>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">am</tag>
+    </tags>
     <original><![CDATA[swimming me      I am]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">not-remaining</tag>  </tags>
+    <tags>
+      <tag class="JJ">not-remaining</tag>
+    </tags>
     <original><![CDATA[not-remaining]]></original>
   </line>
   <line>
@@ -32,15 +61,21 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">full</tag> </tags>
+    <tags>
+      <tag class="JJ">full</tag>
+    </tags>
     <original><![CDATA[full]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">not-staying</tag> </tags>
+    <tags>
+      <tag class="JJ">not-staying</tag>
+    </tags>
     <original><![CDATA[not-staying]]></original>
   </line>
   <line>
-    <tags><tag class="NN">sleeping</tag>  </tags>
+    <tags>
+      <tag class="NN">sleeping</tag>
+    </tags>
     <original><![CDATA[sleeping]]></original>
   </line>
   <line>
@@ -48,15 +83,25 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">a</tag> <tag class="NN">body</tag> <tag class="RB">deeply</tag> </tags>
+    <tags>
+      <tag class="DT">a</tag>
+      <tag class="NN">body</tag>
+      <tag class="RB">deeply</tag>
+    </tags>
     <original><![CDATA[a body deeply]]></original>
   </line>
   <line>
-    <tags><tag class="CC">and</tag> <tag class="JJR">bigger</tag> </tags>
+    <tags>
+      <tag class="CC">and</tag>
+      <tag class="JJR">bigger</tag>
+    </tags>
     <original><![CDATA[and bigger]]></original>
   </line>
   <line>
-    <tags><tag class="IN">than</tag> <tag class="NNS">others</tag>  </tags>
+    <tags>
+      <tag class="IN">than</tag>
+      <tag class="NNS">others</tag>
+    </tags>
     <original><![CDATA[than others]]></original>
   </line>
   <line>
@@ -64,15 +109,31 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="DT">no</tag> <tag class="NN">alewife</tag><tag class="DT">no</tag> <tag class="NN">fish</tag> <tag class="NNS">channels</tag> </tags>
+    <tags>
+      <tag class="DT">no</tag>
+      <tag class="NN">alewife</tag>
+      <tag class="DT">no</tag>
+      <tag class="NN">fish</tag>
+      <tag class="NNS">channels</tag>
+    </tags>
     <original><![CDATA[no alewife, no fish channels]]></original>
   </line>
   <line>
-    <tags><tag class="VBP">inside</tag> <tag class="DT">the</tag> <tag class="NNS">walls</tag> </tags>
+    <tags>
+      <tag class="VBP">inside</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNS">walls</tag>
+    </tags>
     <original><![CDATA[inside the walls]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">you</tag><tag class="VBD">smoked</tag><tag class="IN">on</tag> <tag class="PRP$">our</tag> <tag class="JJ">full</tag> <tag class="JJ">full</tag> <tag class="JJ">bed</tag>  </tags>
+    <tags>
+      <tag class="IN">on</tag>
+      <tag class="PRP$">our</tag>
+      <tag class="JJ">full</tag>
+      <tag class="JJ">full</tag>
+      <tag class="JJ">bed</tag>
+    </tags>
     <original><![CDATA[you, smoked, on our full full bed]]></original>
   </line>
   <line>
@@ -80,15 +141,29 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP$">your</tag> <tag class="JJ">iron-fin</tag><tag class="DT">a</tag> <tag class="NN">muffling</tag> </tags>
+    <tags>
+      <tag class="PRP$">your</tag>
+      <tag class="NN">iron-fin</tag>
+      <tag class="DT">a</tag>
+      <tag class="NN">muffling</tag>
+    </tags>
     <original><![CDATA[your iron-fin, a muffling]]></original>
   </line>
   <line>
-    <tags><tag class="IN">against</tag> <tag class="DT">the</tag> <tag class="NN">sound</tag> <tag class=":">(</tag></tags>
+    <tags>
+      <tag class="IN">against</tag>
+      <tag class="DT">the</tag>
+      <tag class="NN">sound</tag>
+    </tags>
     <original><![CDATA[against the sound (blanketed)]]></original>
   </line>
   <line>
-    <tags><tag class="DT">the</tag> <tag class="NN">noise</tag> <tag class="IN">against</tag> <tag class="RB">entirely</tag>  </tags>
+    <tags>
+      <tag class="DT">the</tag>
+      <tag class="NN">noise</tag>
+      <tag class="IN">against</tag>
+      <tag class="RB">entirely</tag>
+    </tags>
     <original><![CDATA[the noise against entirely]]></original>
   </line>
   <line>
@@ -96,15 +171,27 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="VBZ">drains</tag> <tag class="NNS">minutes</tag></tags>
+    <tags>
+      <tag class="VBZ">drains</tag>
+      <tag class="JJ">minutes</tag>
+    </tags>
     <original><![CDATA[drains minutes--]]></original>
   </line>
   <line>
-    <tags><tag class="JJ">full</tag> <tag class="IN">of</tag> <tag class="NN">history</tag> </tags>
+    <tags>
+      <tag class="JJ">full</tag>
+      <tag class="IN">of</tag>
+      <tag class="NN">history</tag>
+    </tags>
     <original><![CDATA[full of history]]></original>
   </line>
   <line>
-    <tags><tag class="IN">of</tag> <tag class="NN">loose</tag> <tag class="CC">and</tag> <tag class="JJ">animal</tag>  </tags>
+    <tags>
+      <tag class="IN">of</tag>
+      <tag class="NN">loose</tag>
+      <tag class="CC">and</tag>
+      <tag class="JJ">animal</tag>
+    </tags>
     <original><![CDATA[of loose and animal]]></original>
   </line>
   <line>
@@ -112,15 +199,33 @@
     <original><![CDATA[]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">I</tag> <tag class="VBP">dissolve</tag> <tag class="DT">the</tag> <tag class="JJ">granite</tag><tag class="JJ">white</tag> <tag class="JJ">small</tag> <tag class="JJ">light</tag> </tags>
+    <tags>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">dissolve</tag>
+      <tag class="DT">the</tag>
+      <tag class="NNP">granite's</tag>
+      <tag class="NN">white</tag>
+      <tag class="JJ">small</tag>
+      <tag class="JJ">light</tag>
+    </tags>
     <original><![CDATA[I dissolve the granite's white small light]]></original>
   </line>
   <line>
-    <tags><tag class="IN">as</tag> <tag class="JJ">coal-mine</tag> </tags>
+    <tags>
+      <tag class="IN">as</tag>
+      <tag class="JJ">coal-mine</tag>
+    </tags>
     <original><![CDATA[as coal-mine]]></original>
   </line>
   <line>
-    <tags><tag class="PRP">I</tag> <tag class="VBP">dissolve</tag> <tag class="IN">as</tag> <tag class="JJ">whale-prey</tag>      <tag class="IN">as</tag> <tag class="JJ">song</tag></tags>
+    <tags>
+      <tag class="PRP">I</tag>
+      <tag class="VBP">dissolve</tag>
+      <tag class="IN">as</tag>
+      <tag class="JJ">whale-prey</tag>
+      <tag class="IN">as</tag>
+      <tag class="JJ">song</tag>
+    </tags>
     <original><![CDATA[I dissolve as whale-prey      as song]]></original>
   </line>
 </output>
