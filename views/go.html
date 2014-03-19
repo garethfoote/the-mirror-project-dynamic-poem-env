@@ -1,8 +1,38 @@
-<a href="/">Choose again</a><br/>
-<button class="start" name="start">Start</button><br/>
-<a target="_blank" href="/{{file1}}">poem1</a>
-<a target="_blank" href="/{{file2}}">poem2</a>
-
+<div class="debug">
+    <h4>Debug</h4>
+    <dl>
+        <dt>Direction:<dt>
+        <dd class="debug__direction">??</dd>
+    </dl>
+    <dl>
+        <dt>Current class:</dt>
+        <dd class="debug__current-class">??</dd>
+    </dl>
+    <dl>
+        <dt>Target:</dt>
+        <dd class="debug__target-word">??</dd>
+    </dl>
+    <dl>
+        <dt>Source:</dt>
+        <dd class="debug__source-word">??</dd>
+    </dl>
+    <dl>
+        <dt>Default word classes:</dt>
+        <dd class="debug__default-word-classes">??</dd>
+    </dl>
+    <dl>
+        <dt>Current word classes:</dt>
+        <dd class="debug__custom-word-classes">??</dd>
+    </dl>
+    <label>Word class selection:
+        <input type="text" name="wordClasses" value="" placeholder="e.g. NN, JJ, IN, NNP, VB" / >
+    </label>
+    <button class="start" name="start">Start</button><br/>
+    <hr/>
+    <a href="/">Choose again</a><br/>
+    <a target="_blank" href="/{{file1}}">Poem 1 XML</a><br/>
+    <a target="_blank" href="/{{file2}}">Poem 2 XML</a>
+</div>
 <div id="poem"></div>
 
 <script type="text/javascript" charset="utf-8">
@@ -12,7 +42,7 @@
         dpe.init("/{{file1}}", "/{{file2}}");
 
         startBtn = document.querySelector('.start');
-        startBtn.onclick = dpe.next;
+        startBtn.onclick = dpe.start;
 
     };
 

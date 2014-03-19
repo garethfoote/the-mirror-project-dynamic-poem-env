@@ -94,15 +94,13 @@ img {
 /*--- MAIN STYLES ----*/
 
 #poem {
-    margin: 0 auto;
-    width:1200px;
 }
 
 input[type="text"],
 input[type="url"],
 input[type="email"] {
-    font-size: 20px;
-    font-size: (20/$doc-font-size)*1rem;
+    font-size: 12px;
+    font-size: (12/$doc-font-size)*1rem;
     height: auto;
     background-color: #ffffff;
     border: 1px solid #cccccc;

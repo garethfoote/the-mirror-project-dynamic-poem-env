@@ -22,7 +22,8 @@ var dpe = (function(){
     var self = this,
         config = {
             linePadding : 30,
-            wordSpacing : 10,
+            wordspacing : 10,
+            poemspacing : 50,
             animationduration : 2000,
         },
         // Flanagan.
@@ -51,18 +52,50 @@ var dpe = (function(){
 
         },
 
+        setDebug = function(key, message){
+            var el = document.querySelector('.debug__'+key);
+            el.innerText = message;
+        },
+
         init = function( poem1, poem2 ){
+
+            var td, sd, canvasHeight, canvasWidth;
+
+            setDebug('default-word-classes', wordClasses.join(', '));
 
             paper = Raphael("poem", "100%", 1000),
 
             loadPoem( poem1, function(){
                 target = new Poem(this.responseXML, 0);
-
+                td = target.getdimensions();
+                loadPoem( poem2, function(){
+                    source = new Poem(this.responseXML, td.width+config.poemspacing);
+                    sd = source.getdimensions();
+                    canvasHeight = Math.max(sd.height, td.height);
+                    canvasWidth = td.width+(config.poemspacing*2)+sd.width;
+                    paper.setSize(canvasWidth, canvasHeight);
+                });
             });
 
-            loadPoem( poem2, function(){
-                source = new Poem(this.responseXML, 600);
-            });
+        },
+
+        start = function(){
+
+            var customWordClasses = document.querySelector('input[name="wordClasses"]').value;
+            console.log(document.querySelector('input[name="wordClasses"]'));
+
+            setDebug('direction', "TARGET<<<<<<SOURCE");
+            setDebug('default-word-classes', wordClasses.join(', '));
+
+            if(customWordClasses !== ""){
+                wordClasses = customWordClasses.split(',');
+                // Trim and remove empties.
+                wordClasses = wordClasses.map(function(str){ return str.trim();});
+                wordClasses = wordClasses.filter(function(str){ return str || false; });
+            }
+            setDebug('custom-word-classes', wordClasses.join(', '));
+
+            next();
 
         };
 
@@ -74,6 +107,7 @@ var dpe = (function(){
             lines = doc.getElementsByTagName('line'),
             cursor = [-1,0],
             bucketindex = 0,
+            dimensions = { width:0, height:0 },
 
             // Next word to be changed/morphed.
             nexttarget = function( wordclass ){
@@ -180,8 +214,8 @@ var dpe = (function(){
                     targetpath.data("currDiffX", currDiffX);
 
                 }
-
                 // targetpath.data("currDiffX", diffX);
+
 
             },
 
@@ -222,11 +256,10 @@ var dpe = (function(){
                     for (var j = 0; j < tags.length; j++) {
                         hide = false;
 
-                        // TODO - Explain?
-                        tag = j>0 ? tags[j-1].getAttribute('class') : "-";
-
                         nextStrIndex = original.indexOf( tags[j].textContent );
                         currStr = original.substring(0, nextStrIndex);
+                        console.log("searching for", tags[j].textContent, );
+                        console.log("currStr", original);
                         // console.log(currStr);
 
                         // TODO - Accomodate for spaces and tabs.
@@ -258,7 +291,8 @@ var dpe = (function(){
                         bucket[tag].push(path);
 
                         // Increase xposition and add xspacing.
-                        xPos += path.getBBox().width + config.wordSpacing;
+                        xPos += path.getBBox().width + config.wordspacing;
+                        dimensions.width = xPos-startX>dimensions.width ? xPos-startX : dimensions.width;
 
                         if( hide == true ){
                             // path.hide();
@@ -281,6 +315,7 @@ var dpe = (function(){
                         bucket[tag] = bucket[tag] || [];
                         bucket[tag].push(path);
                         paths[i][j] = path;
+                        dimensions.width = xPos-startX>dimensions.width ? xPos-startX : dimensions.width;
                     }
 
                     if( tags.length === 0 ){
@@ -289,6 +324,7 @@ var dpe = (function(){
                     } else {
                         yPos += paths[i][0].getBBox(true).height+config.linePadding;
                     }
+                    dimensions.height = yPos+50;
 
                 };
             };
@@ -297,6 +333,7 @@ var dpe = (function(){
         render();
 
         return {
+            getdimensions : function(){ return dimensions },
             getpaths    : function(){ return paths },
             bucket      : bucket,
             getcursor   : function(){ return cursor },
@@ -305,7 +342,7 @@ var dpe = (function(){
             gettarget   : gettarget,
             nextsource  : nextsource,
             getsource   : getsource,
-            transitionwords  : transitionwords,
+            transitionwords : transitionwords,
             replacewords : replacewords,
             resetlines  : resetlines,
             resetbucket : resetbucket
@@ -317,13 +354,14 @@ var dpe = (function(){
 
         var wc = wordClasses[wcindex];
 
+        setDebug('current-class', wc);
         target.nexttarget(wc);
 
         console.log("Current word class ", wordClasses[wcindex]);
         console.log("Line/Word          ", target.getcursor()[0],target.getcursor()[1]);
         console.log("Target             ", !!target.gettarget(),
                     (target.gettarget()!=false)?target.gettarget().data("text"):"");
-        console.log("Source             ", !!source.gettarget(),
+        console.log("Source             ", !!source.getsource(),
                     (source.getsource(wc)!=false)?source.getsource(wc).data("text"):"");
 
         // if we:
@@ -345,6 +383,7 @@ var dpe = (function(){
                     // return;
                     console.log(">>>>>> swap poems <<<<<<");
                     swapped = true;
+                    setDebug('direction', "SOURCE>>>>>>TARGET");
                     wcindex = 0;
                     swap();
                     next();
@@ -356,6 +395,8 @@ var dpe = (function(){
             }
 
         } else {
+            setDebug('target-word', target.gettarget().data('text'));
+            setDebug('source-word', source.getsource(wc).data('text'));
             transform();
         }
 
@@ -398,8 +439,6 @@ var dpe = (function(){
         // words in sentence need to be moved.
         diffX = srcBBox.width - tgBBox.width;
         diffY = srcBBox.height -tgBBox.height;
-        console.log("DiffX", diffX);
-        console.log("DiffY", diffY);
 
         // Transform target and TODO add callback.
         transformTarget( targetpath, sourcepath, function(){
@@ -418,7 +457,7 @@ var dpe = (function(){
 
         // Move rest of line.
         if( diffX !== 0 ){
-            // diffX -= config.wordSpacing;
+            // diffX -= config.wordspacing;
             target.transitionwords(diffX);
         }
 
@@ -468,6 +507,7 @@ var dpe = (function(){
 
     return {
         init : init,
+        start : start,
         next : next
     };
 

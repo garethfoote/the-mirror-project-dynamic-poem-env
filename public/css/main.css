@@ -614,23 +614,18 @@ img {
   max-width: 100%; }
 
 /*--- MAIN STYLES ----*/
-/* line 96, base.scss */
-#poem {
-  margin: 0 auto;
-  width: 1200px; }
-
-/* line 103, base.scss */
+/* line 101, base.scss */
 input[type="text"],
 input[type="url"],
 input[type="email"] {
-  font-size: 20px;
-  font-size: 1.66667rem;
+  font-size: 12px;
+  font-size: 1rem;
   height: auto;
   background-color: #ffffff;
   border: 1px solid #cccccc; }
 
 /*--- Modules ---*/
-/* line 124, base.scss */
+/* line 122, base.scss */
 .lozenge {
   display: block;
   font-size: 12px;
@@ -643,12 +638,12 @@ input[type="email"] {
   color: #000;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
   cursor: pointer; }
-  /* line 136, base.scss */
+  /* line 134, base.scss */
   .lozenge.is-selected {
     background: #000;
     color: #FFF; }
 
-/* line 142, base.scss */
+/* line 140, base.scss */
 .btn {
   display: block;
   font-size: 12px;
@@ -672,7 +667,7 @@ input[type="email"] {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0044cc', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false); }
 
-/* line 166, base.scss */
+/* line 164, base.scss */
 .btn:hover {
   background-color: #0044cc;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px rgba(0, 0, 0, 0.25);
@@ -701,3 +696,19 @@ input[type="email"] {
 /* line 1, views/app.scss */
 html, body {
   font-family: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace; }
+
+/* line 8, views/app.scss */
+.debug {
+  position: fixed;
+  padding: 10px;
+  top: 0;
+  right: 0;
+  width: 300px;
+  background: rgba(0, 0, 0, 0.7);
+  color: #ff00ff;
+  z-index: 1; }
+
+/* line 18, views/app.scss */
+.debug a {
+  color: #ff00ff;
+  text-decoration: underline; }
