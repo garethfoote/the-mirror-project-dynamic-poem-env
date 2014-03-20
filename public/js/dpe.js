@@ -258,7 +258,7 @@ var dpe = (function(){
 
                         nextStrIndex = original.indexOf( tags[j].textContent );
                         currStr = original.substring(0, nextStrIndex);
-                        console.log("searching for", tags[j].textContent, );
+                        console.log("searching for", tags[j].textContent );
                         console.log("currStr", original);
                         // console.log(currStr);
 
