@@ -24,7 +24,7 @@ var dpe = (function(){
             linepadding : 20,
             wordspacing : 10,
             poemspacing : 100,
-            animationduration : 2000,
+            animationduration : 1000,
         },
         // Flanagan.
         wordClasses1 = ['NN', 'DT', 'IN', 'NNP', 'JJ', 'NNS', 'PRP', 'VBZ', 'RB', 'VBP', 'VB', 'CC', 'PRP$', 'TO', 'VBD', 'VBN', 'VBG', 'WRB', 'MD', 'CD', 'WP', 'EX', 'RP', 'JJR', 'WDT', 'JJS', 'RBR', 'WP$'],
@@ -41,6 +41,8 @@ var dpe = (function(){
         cursor = [0, 0],
         diffX = 0,
         diffY = 0,
+        numtransitions = 0,
+        swapaftertransition = false,
         swapped = false,
         stopped = false,
 
@@ -86,8 +88,8 @@ var dpe = (function(){
 
         start = function(){
 
-            var customWordClasses = document.querySelector('input[name="wordClasses"]').value;
-            console.log(document.querySelector('input[name="wordClasses"]'));
+            var customWordClasses = document.querySelector('input[name="wordClasses"]').value,
+                swapBehaviourCheckbox = document.querySelector('input[name="swapBehaviour"]');
 
             setDebug('direction', "TARGET<<<<<<SOURCE");
             setDebug('default-word-classes', wordClasses.join(', '));
@@ -98,6 +100,8 @@ var dpe = (function(){
                 wordClasses = wordClasses.map(function(str){ return str.trim();});
                 wordClasses = wordClasses.filter(function(str){ return str || false; });
             }
+            swapaftertransition = swapBehaviourCheckbox.checked;
+            console.log(swapaftertransition);
             setDebug('custom-word-classes', wordClasses.join(', '));
 
             next();
@@ -180,14 +184,14 @@ var dpe = (function(){
             getsource = function( wordclass ){
 
                 if( ! bucket[wordclass] || bucketindex >= bucket[wordclass].length-1 ){
-                    console.log("No more bucket");
+                    console.log("No more bucket", wordclass, bucket);
                     return false;
                 }
 
                 if( bucket[wordclass][bucketindex].data("transformed") == true ){
                     console.log("Already transformed");
                     nextsource();
-                    return getsource();
+                    return getsource(wordclass);
                 }
 
                 return bucket[wordclass][bucketindex] || false;
@@ -359,7 +363,7 @@ var dpe = (function(){
         return {
             getdimensions : function(){ return dimensions },
             getpaths    : function(){ return paths },
-            bucket      : bucket,
+            bucket      : function(){ return bucket },
             getcursor   : function(){ return cursor },
             bucketindex : bucketindex,
             nexttarget  : nexttarget,
@@ -408,7 +412,7 @@ var dpe = (function(){
             // Reset bucket.
             source.resetbucket();
             if( wcindex >= wordClasses.length ){
-                if( swapped == false ){
+                if( !swapaftertransition && swapped == false ){
                     // console.log("Finished. No swap.");
                     // return;
                     console.log(">>>>>> swap poems <<<<<<");
@@ -434,16 +438,36 @@ var dpe = (function(){
 
     };
 
+    var swap = function(){
+
+        var tmptarget = target;
+
+        target = source;
+        source = tmptarget;
+
+        if(numtransitions%2===0){
+            setDebug('direction', "TARGET<<<<<<SOURCE");
+        } else {
+            setDebug('direction', "SOURCE>>>>>>TARGET");
+        }
+
+    };
+
     var completeHandler = function(){
 
         // Reset diff.
         diffX = 0;
-        // TODO - Not sure this is the best method. 
-        // Discuss with Mary.
+
         // Increment to next available word in bucket.
         source.nextsource();
 
-        // swap();
+        numtransitions++;
+        setDebug('num-transitions', numtransitions);
+
+        if(swapaftertransition){
+            console.log(">>>>>> swap poems <<<<<<");
+            swap();
+        }
 
         // Pause for ms and then next.
         setTimeout( next, 500 );
@@ -524,15 +548,6 @@ var dpe = (function(){
 
         // Remove new path (was just used as reference).
         newpath.remove();
-
-    };
-
-    var swap = function(){
-
-        var tmptarget = target;
-
-        target = source;
-        source = tmptarget;
 
     };
 
