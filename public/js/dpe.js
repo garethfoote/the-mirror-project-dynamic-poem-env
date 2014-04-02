@@ -264,7 +264,8 @@ var dpe = (function(){
                         tags = lines[i].getElementsByTagName('tag'),
                         tag, path, tagtext, precedingtext, precedingpath,
                         nextStrIndex, currStr,
-                        xPos = startX;
+                        xPos = startX,
+                        bbox = {};
 
                     paths[i] = [];
 
@@ -284,22 +285,27 @@ var dpe = (function(){
                         tag = tags[j].getAttribute('class');
                         // console.log("currStr", currStr, "("+currStr.length+")", tagtext, "("+tagtext.length+")");
 
+
                         // TODO - Trim start spaces for the moment. Address preceding whitespace later.
                         if(j===0){
-                            currStr = currStr.replace(/^\s+/, '');
+                            // console.log(currStr, currStr.match(/^\s+/));
+                            // currStr = currStr.replace(/^\s+/, '');
                         }
 
                         // If this string contains next tag plus preceding text...
+                        // console.log(currStr, tagtext, currStr.trim() !==tagtext, currStr.length, tagtext.length);
                         if(currStr.trim() !== tagtext){
 
                             precedingtext = currStr.replace(tagtext, "");
+                            // console.log("PRECEDING", precedingtext);
                             precedingpath = paper.print(
                                                 xPos, yPos+50,
                                                 precedingtext,
                                                 paper.getFont("Fenix"), 20, 'baseline'
                                             );
 
-                            xPos += precedingpath.getBBox().width + config.wordspacing;
+                            bbox = precedingpath.getBBox();
+                            xPos = bbox.x + bbox.width + config.wordspacing;
                             paths[i].push(precedingpath);
 
                         } else if(j !== 0){
@@ -323,7 +329,8 @@ var dpe = (function(){
                         bucket[tag].push(path);
 
                         // Increase xposition and add xspacing.
-                        xPos += path.getBBox().width;
+                        bbox = path.getBBox();
+                        xPos = bbox.x + bbox.width;
                         dimensions.width = xPos-startX>dimensions.width ? xPos-startX : dimensions.width;
 
                         // if( hide == true ){
