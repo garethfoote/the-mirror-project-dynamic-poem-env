@@ -283,21 +283,17 @@ var dpe = (function(){
                         nextStrIndex = original.indexOf( tagtext );
                         currStr = original.substring(0, nextStrIndex + tagtext.length);
                         tag = tags[j].getAttribute('class');
-                        // console.log("currStr", currStr, "("+currStr.length+")", tagtext, "("+tagtext.length+")");
-
 
                         // TODO - Trim start spaces for the moment. Address preceding whitespace later.
                         if(j===0){
                             // console.log(currStr, currStr.match(/^\s+/));
-                            // currStr = currStr.replace(/^\s+/, '');
+                            currStr = currStr.replace(/^\s+/, '');
                         }
 
                         // If this string contains next tag plus preceding text...
-                        // console.log(currStr, tagtext, currStr.trim() !==tagtext, currStr.length, tagtext.length);
                         if(currStr.trim() !== tagtext){
 
                             precedingtext = currStr.replace(tagtext, "");
-                            // console.log("PRECEDING", precedingtext);
                             precedingpath = paper.print(
                                                 xPos, yPos+50,
                                                 precedingtext,
